@@ -1,0 +1,8 @@
+*.pyc
+*.pdf
+*.xml
+*.txt
+
+data/
+
+wget_pdfs.sh
