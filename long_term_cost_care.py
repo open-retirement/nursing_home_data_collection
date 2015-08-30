@@ -20,6 +20,7 @@ Usage:
 import argparse
 import csv
 import logging
+import logging.config
 import os
 import requests
 import yaml
@@ -32,7 +33,7 @@ from lxml import html, etree
 # ----------------------------- #
 
 URL = "http://www2.illinois.gov/hfs/MedicalProvider/CostReports/Pages/2013LongTermCareCostReports.aspx"
-HERE = os.path.dirname(os.path.realpath(__file__)),
+HERE = os.path.dirname(os.path.realpath(__file__))
 DATA_DIR = os.path.join(HERE, 'data', 'long_term_cost_care')
 logger = logging.getLogger("long_term_cost_care")
 LOGCONF = os.path.join(HERE, 'logging.yaml')
