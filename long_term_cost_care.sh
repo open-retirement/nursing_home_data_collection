@@ -87,7 +87,7 @@ CMD=$1
 
 if [[ $1 =~ ^(-h|--help|help)$ ]]; then
     help
-elif [[ $1 =~ ^(run|get_files|pdfs_to_xml|parse_xml)$ ]]; then
+elif [[ $1 =~ ^(run|get_pdfs|pdfs_to_xml|parse_xml)$ ]]; then
     "$@"
 else
     echo "Invalid subcommand $1" >&2

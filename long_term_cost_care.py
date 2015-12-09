@@ -32,7 +32,7 @@ from lxml import html, etree
 #   Module Constants            #
 # ----------------------------- #
 
-URL = "http://www2.illinois.gov/hfs/MedicalProvider/CostReports/Pages/2013LongTermCareCostReports.aspx"
+URL = "http://www.illinois.gov/hfs/MedicalProviders/CostReports/Pages/2014LongTermCareCostReports.aspx"
 HERE = os.path.dirname(os.path.realpath(__file__))
 DATA_DIR = os.path.join(HERE, 'data', 'long_term_cost_care')
 logger = logging.getLogger("long_term_cost_care")
@@ -66,7 +66,7 @@ def make_wget_script(url=URL, fdir=DATA_DIR):
 
 def find_pdf_urls(resp):
     x = html.fromstring(resp.text)
-    return x.xpath('//div[@class="soi-link-item"]/a/@href')
+    return x.xpath('//div[@class="link-item"]/a/@href')
 
 
 def parse_xml(fdir=DATA_DIR, outname=None):
