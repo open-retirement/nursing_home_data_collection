@@ -1,939 +1,912 @@
 rn_wage,facility_name,total_hours,fname,rn_hours,idph_id
-29.63,Maplewood Care,67928.0,maplewood_care_2013_0040428.xml,28176.0,0040428
-28.28,Bronzeville Park N & Lvg Ctr,94062.0,bronzeville_park_nsg_lvg_ctr_2013_0040592.xml,43222.0,0040592
-21.04,Helia Healthcare of Benton,25667.0,helia_healthcare_of_benton_2013_0049775.xml,8304.0,0049775
-33.13,Manorcare of Naperville,34672.0,manorcare_of_naperville_2013_0049577.xml,47354.0,0049577
-22.53,Harbor Crest Home,15539.0,harbor_crest_home_2013_0009530.xml,7621.0,0009530
-0.0,Thelma Terrace,5797.0,thelma_terrace_2013_0034025.xml,0.0,0034025
-29.73,Franciscan Village,38910.0,franciscan_village_2013_0045419.xml,29594.0,0045419
-19.1,EVERGREEN NRSG & REHAB CTR,31151.0,evergreen_nursing_rehab_ctr_2013_0046417.xml,8324.0,0046417
-24.95,Coventry Living Center,32503.0,coventry_living_center_2013_0050476.xml,7429.0,0050476
-28.12,Heritage Health-Streator,43486.0,heritage_health_streator_2013_0048066.xml,16014.0,0048066
-22.5,Farmer City Rehab & Hlth Cr,18686.0,farmer_city_rehab_health_cr_2013_0050922.xml,5683.0,0050922
-28.88,Providence Palos Heights,47914.0,providence_palos_heights_2013_0007534.xml,48190.0,0007534
-27.07,Bayside Terrace,53246.0,bayside_terrace_2013_0023036.xml,13733.0,0023036
-18.75,BURGIN MANOR OF OLNEY INC,48446.0,burgin_manor_of_olney_inc_2013_0026765.xml,26384.0,0026765
-32.55,Prairie Manor Nrsg & Reh Ctr,46593.0,prairie_manor_nrsg_rehab_ctr_2013_0046011.xml,15749.0,0046011
-0.0,Hope House,5392.0,hope_house_2013_0033811.xml,0.0,0033811
-21.83,Wesley Village,24266.0,wesley_village_2013_0022350.xml,9863.0,0022350
-29.56,Alden Alma Nelson Manor,65961.0,alden_alma_nelson_manor_2013_0044891.xml,21937.0,0044891
-20.52,Anna Rehab & Nrsg Center,14017.0,anna_rehab_and_nrsg_center_2013_0051011.xml,3794.0,0051011
-33.6,Sherman West Court,26315.0,sherman_west_court_2013_0037507.xml,40604.0,0037507
-22.44,Spring Valley Nursing,27960.0,spring_valley_nursing_2013_0025270.xml,7335.0,0025270
-24.37,Colonial Manor,25620.0,colonial_manor_2013_0042168.xml,15974.0,0042168
-0.0,Brother James Court,33850.0,brother_james_court_2013_0020495.xml,0.0,0020495
-37.3,Gilman Healthcare Center,22808.0,gilman_healthcare_center_2013_0049981.xml,7129.0,0049981
-29.43,Wauconda Healthcare & Rehab,39561.0,wauconda_healthcare_and_rehab_2013_0044859.xml,34164.0,0044859
-28.34,Fairmont Care Centre,57461.0,fairmont_care_centre_2013_0040493.xml,59983.0,0040493
-25.09,NEW ATHENS HOME FOR THE AGED,15355.0,new_athens_home_for_the_aged_2013_0033043.xml,366.0,0033043
-27.98,DeKalb County Rehab & Nrsg,63008.0,dekalb_county_rehab_nursing_2013_0044321.xml,45905.0,0044321
-26.65,P A Peterson Center for Hlth,48344.0,p_a_peterson_center_for_health_2013_0021238.xml,36147.0,0021238
-27.12,Heartland of Decatur,36112.0,heartland_of_decatur_2013_0049544.xml,13413.0,0049544
-30.0,Beecher Manor N & R Ctr,41905.0,beecher_manor_nrsg_rehab_ctr_2013_0047738.xml,22633.0,0047738
-27.56,Bethany Terrace Nrsg Centre,40740.0,bethany_terrace_nursing_centre__2013_0015651.xml,30604.0,0015651
-33.73,WOOD GLEN NRSG & REHAB CTR,74428.0,wood_glen_nursing_rehab_ctr_2013_0043935.xml,19342.0,0043935
-21.62,Jacksonville Skld Nur & Reh,29053.0,jacksonville_skld_nur_rehab_2013_0051433.xml,6939.0,0051433
-29.32,PRESENCE ST ANNE CENTER,51637.0,presence_st_anne_center_2013_0041731.xml,56162.0,0041731
-26.09,Illini Heritage Rehab & HC,19896.0,illini_heritage_rehab_hc_2013_0050930.xml,3889.0,0050930
-34.83,PRESENCE RESURRECTION LIFE CTR,57696.0,presence_resurrection_life_ctr_2013_0044354.xml,55303.0,0044354
-32.75,Alden Estates of Naperville,54878.0,alden_estates_of_naperville_2013_0022509.xml,29528.0,0022509
-0.0,Freeport Terrace,5001.0,freeport_terrace_2013_0033613.xml,0.0,0033613
-26.51,Parker Nursing and Rehab Ctr,15451.0,parker_nursing_and_rehab_ctr_2013_0050880.xml,6315.0,0050880
-24.17,Spring Creek Terrace,5722.0,spring_creek_terrace_2013_0045955.xml,824.0,0045955
-24.99,Tuscola Health Care Center,820.0,tuscola_health_care_center_2013_0046805.xml,5000.0,0046805
-0.0,Lincoln Square,5473.0,lincoln_square_2013_0037044.xml,0.0,0037044
-29.55,St James Manor & Villa,31614.0,st_james_manor_villa_2013_0050260.xml,7681.0,0050260
-0.0,Emerald Estates,5503.0,emerald_estates_2013_0039354.xml,0.0,0039354
-23.16,MAR KA NURSING HOME,21638.0,mar_ka_nursing_home_2013_0031740.xml,7775.0,0031740
-21.0,Kewanee Care Home,21664.0,kewanee_care_home_2013_0026518.xml,2542.0,0026518
-0.0,Glen Brook,4769.0,glen_brook_2013_0037051.xml,0.0,0037051
-26.61,Iona Glos SLC,35914.0,iona_glos_slc_2013_0022996.xml,10135.0,0022996
-21.18,Cumberland Rehab & Health CC,12290.0,cumberland_rehab_health_cc_2013_0050583.xml,4887.0,0050583
-27.75,Pinecrest Manor,40076.0,pinecrest_manor_2013_0012765.xml,22467.0,0012765
-25.98,,20041.0,illinois_knights_templar_home_2013_0010058.xml,11333.0,
-0.0,Flossmoor Terrace,5735.0,flossmoor_terrace_2013_0043232.xml,0.0,0043232
-21.37,Elmwood Nursing & Rehab Ctr,21348.0,elmwood_nursing_rehab_center_2013_0041210.xml,3829.0,0041210
-23.73,Mason Point,36909.0,mason_point_2013_0050294.xml,5413.0,0050294
-0.0,Prairie House,4532.0,prairie_house_2013_0048025.xml,0.0,0048025
-21.05,Carbondale Rehab & Nrsg Ctr,21965.0,carbondale_rehab_and_nrsg_ctr_2013_0051029.xml,6875.0,0051029
-32.6,PRESENCE PINE VIEW CARE CTR,32682.0,presence_pine_view_care_center_2013_0043430.xml,23997.0,0043430
-26.88,The Arthur Home,16492.0,arthur_home_2013_0005462.xml,7015.0,0005462
-34.2,Greek American Reh & Care Ct,64621.0,greek_american_rehab_care_ct_2013_0044149.xml,41368.0,0044149
-26.89,Saline Care Center,47806.0,saline_care_center_2013_0051920.xml,8974.0,0051920
-21.31,Jerseyville Manor,43989.0,jerseyville_manor_2013_0047597.xml,20248.0,0047597
-26.37,Warren Park Hlth & Lvg Ctr,43023.0,warren_park_hlth_living_ctr_2013_0050070.xml,6381.0,0050070
-0.0,Collins Square,5666.0,collins_square_2013_0048009.xml,0.0,0048009
-0.0,Harvey House,5706.0,harvey_house_2013_0049254.xml,0.0,0049254
-31.97,Heritage Health-Elgin,28128.0,heritage_health_elgin_2013_0048132.xml,15492.0,0048132
-23.19,Swansea Rehab & HCC,25249.0,swansea_rehab_hlth_care_ctr_2013_0048611.xml,4516.0,0048611
-22.96,Oakwood Estate,5595.0,oakwood_estate_2013_0033712.xml,562.0,0033712
-29.47,Plaza Nursing & Rehab Center,30811.0,plaza_nursing_and_rehab_center_2013_0049858.xml,5682.0,0049858
-26.75,Little Angels,19916.0,little_angels_2013_0010918.xml,17538.0,0010918
-25.52,The Clayberg,17452.0,clayberg_2013_0014290.xml,7220.0,0014290
-26.26,Helia Healthcare of Energy,26906.0,helia_healthcare_of_energy_2013_0046672.xml,14140.0,0046672
-0.0,Douglas Terrace,4737.0,douglas_terrace_2013_0035774.xml,0.0,0035774
-0.0,GROUP HOME #2,4940.0,group_home_2_2013_0036939.xml,0.0,0036939
-32.08,Sunny Hill Nrsg H of Will Co,71367.0,sunny_hill_nsg_home_of_will_co_2013_0014076.xml,49527.0,0014076
-26.5,Apostolic Christian Skylines,,apostolic_christian_skylines_2013_0006353.xml,19181.0,0006353
-21.78,Southgate Health Care Center,45621.0,southgate_health_care_center_2013_0017996.xml,15570.0,0017996
-30.97,The Villa at South Holland,28504.0,villa_at_south_holland_2013_0052340.xml,23322.0,0052340
-24.68,The Waterford Nrsg & Rehab,47121.0,waterford_nursing_rehab_2013_0038612.xml,14837.0,0038612
-25.78,Foster Health & Rehab Center,16597.0,foster_health_rehab_center_2013_0051953.xml,11413.0,0051953
-33.87,Bethesda Lutheran C-Montgomery,4180.0,bethesda_lutheran_c_montgomery_2013_0034587.xml,1425.0,0034587
-35.81,PRESENCE ST ANDREW LIFE CTR,55486.0,presence_saint_andrew_life_ctr_2013_0044776.xml,9560.0,0044776
-23.83,Fair Oaks,8943.0,fair_oaks_2013_0008490.xml,4464.0,0008490
-32.73,Berkeley Nrsg & Rehab Center,21493.0,berkeley_nrsg_rehab_center_2013_0050534.xml,3026.0,0050534
-0.0,Stevens House,5787.0,stevens_house_2013_0031088.xml,0.0,0031088
-29.82,Abbott House,37082.0,abbott_house_2013_0023739.xml,8323.0,0023739
-24.63,Bement Health Care Center,12199.0,bement_health_care_center_2013_0046052.xml,3561.0,0046052
-33.36,Montgomery Place,12878.0,montgomery_place_2013_0037515.xml,8741.0,0037515
-31.97,Manorcare of Palos Hts East,60054.0,manorcare_of_palos_hts_east_2013_0049478.xml,71713.0,0049478
-32.12,DuPage Convalescent Center,116051.0,du_page_convalescent_center_2013_0008201.xml,128236.0,0008201
-22.52,Faith Care Center,25903.0,faith_care_center_2013_0044552.xml,8439.0,0044552
-32.03,The Carlton at the Lake,80090.0,carlton_at_the_lake_2013_0025403.xml,48554.0,0025403
-28.83,Marklund Van Der Molen Home,5359.0,marklund_van_der_molen_home_2013_0045559.xml,6699.0,0045559
-19.98,Friendship Manor Health Care,39313.0,friendship_manor_health_care_2013_0050161.xml,17278.0,0050161
-27.88,Morton Terrace H & R Centre,41358.0,morton_terrace_h_r_centre_2013_0052142.xml,10947.0,0052142
-29.2,Eunice Smith Home,19210.0,eunice_smith_home_2013_0008409.xml,14129.0,0008409
-23.96,Stephenson Nursing Center,46080.0,stephenson_nursing_center_2013_0004259.xml,21242.0,0004259
-31.95,Paramount Oak Park R & N Ctr,39634.0,paramount_oak_park_r_n_ctr_2013_0052233.xml,8096.0,0052233
-0.0,GROUP HOME #5,5465.0,group_home_5_2013_0037713.xml,0.0,0037713
-29.03,CLEARBROOK CENTER,31704.0,clearbrook_center_2013_0030023.xml,18850.0,0030023
-26.45,Dixon Healthcare & Rehab Ctr,28832.0,dixon_healthcare_rehab_ctr_2013_0051870.xml,13351.0,0051870
-0.0,RANDOLPH HOUSE,5188.0,randolph_house_2013_0050229.xml,0.0,0050229
-0.0,Peachtree Estates,5074.0,peachtree_estates_2013_0040626.xml,0.0,0040626
-29.35,Bel Wood Nursing Home,48129.0,bel_wood_nursing_home_2013_0004499.xml,14443.0,0004499
-35.71,PRESENCE VILLA SCALABRINI N&R,81117.0,presence_villa_scalabrini_n_r_2013_0044792.xml,86363.0,0044792
-29.1,Meadows,,meadows_2013_0021766.xml,1143.0,0021766
-22.57,Milestone-Sun Valley,2851.0,milestone_sun_valley_2013_0035386.xml,519.0,0035386
-0.0,Effingham Terrace,4905.0,effingham_terrace_2013_0034041.xml,0.0,0034041
-0.0,Heritage Fifty-Three,39154.0,heritage_fifty_three_2013_0024836.xml,0.0,0024836
-27.04,STUART ESTATES,4849.0,stuart_estates_2013_0051987.xml,416.0,0051987
-23.2,ASTA CARE CENTER OF TOLUCA,26902.0,asta_care_center_of_toluca_2013_0042796.xml,10078.0,0042796
-27.35,Libertyville Manor Ext Care,18879.0,libertyville_manor_ext_care_2013_0017780.xml,8892.0,0017780
-34.93,Pine Crest Health Care,64046.0,pine_crest_health_care_2013_0051318.xml,12623.0,0051318
-24.31,ASTA CARE CENTER-FORD COUNTY,20519.0,asta_care_center_ford_county_2013_0045823.xml,3440.0,0045823
-0.0,STRIVE,5709.0,strive_2013_0036921.xml,0.0,0036921
-26.64,FOREST EDGE HC REHAB CTR,99491.0,forest_edge_hlthcare_rehab_ctr_2013_0052035.xml,12308.0,0052035
-23.4,Manor Court of Clinton,36366.0,manor_court_of_clinton_2013_0047134.xml,13563.0,0047134
-27.05,International Nrsg & Reh Ctr,55855.0,international_nrsg_rehab_ctr_2013_0050187.xml,23276.0,0050187
-0.0,Curtiss Court,4936.0,curtiss_court_2013_0037531.xml,0.0,0037531
-26.44,Glenview Terrace Nursing Ctr,96505.0,glenview_terrace_nursing_ctr_2013_0026237.xml,86427.0,0026237
-34.73,Memorial Care Center,21694.0,memorial_care_center_2013_0003103.xml,41814.0,0003103
-19.11,Shawnee Rose Care Center,14799.0,shawnee_rose_care_center_2013_0050351.xml,3581.0,0050351
-,Whispering Oaks,4250.0,whispering_oaks_2013_0050625.xml,4.0,0050625
-0.0,Graham Hospital,11041.0,graham_hospital_2013_8000200.xml,0.0,800200
-21.45,FAIRVIEW NURSING CENTER,17989.0,fairview_nursing_center_2013_0024992.xml,7734.0,0024992
-21.55,Heartland of Macomb,25066.0,heartland_of_macomb_2013_0049585.xml,16195.0,0049585
-28.5,Northwoods Care Centre,36836.0,northwoods_care_centre_2013_0051813.xml,18895.0,0051813
-27.26,Bethany HC & Rehab Ctr,29448.0,bethany_hc_rehab_ctr_2013_0048934.xml,27063.0,0048934
-33.74,Bethesda Home & Retire Ctr,25185.0,bethesda_home_retirement_ctr_2013_0012229.xml,14761.0,0012229
-29.49,Momence Meadows Nrsg & Reh,33485.0,momence_meadows_nursing_reh_2013_0048033.xml,7867.0,0048033
-25.05,WINNING WHEELS,26805.0,winning_wheels_2013_0024745.xml,10937.0,0024745
-0.0,Broadway Terrace,5518.0,broadway_terrace_2013_0043182.xml,0.0,0043182
-25.0,Chester Rehab & Nrsg Center,12853.0,chester_rehab_and_nrsg_center_2013_0051532.xml,2193.0,0051532
-28.31,Thornton Heights Terrace,71909.0,thornton_heights_terrace_2013_0029595.xml,4556.0,0029595
-32.24,Symphony of Crestwood,82456.0,symphony_of_crestwood_2013_0051805.xml,43941.0,0051805
-28.67,Timbercreek Rehab & HCC,40863.0,timbercreek_rehab_hlth_c_ctr_2013_0047522.xml,2966.0,0047522
-0.0,LYNWOOD ESTATES,5281.0,lynwood_estates_2013_0036004.xml,0.0,0036004
-28.59,Mid America Care Center,96892.0,mid_america_care_center_2013_0047035.xml,37854.0,0047035
-0.0,Smith Crossing,14898.0,smith_crossing_2013_0046698.xml,0.0,0046698
-24.69,BIG MEADOWS,18282.0,big_meadows_2013_0021394.xml,7852.0,0021394
-25.4,Blackhawk Group Home,5068.0,blackhawk_group_home_2013_0034785.xml,221.0,0034785
-25.09,Heartland of Canton,25384.0,heartland_of_canton_2013_0049296.xml,16820.0,0049296
-28.66,Apostolic Christian Home,,apostolic_christian_home_2013_0021493.xml,11051.0,0021493
-0.0,Oakview Home,4211.0,oakview_home_2013_0036228.xml,0.0,0036228
-25.18,Edwardsville Nsg & Rehab Ctr,33854.0,edwardsville_nsg_rehab_ctr_2013_0046540.xml,10204.0,0046540
-0.0,OAK TERRACE,5619.0,oak_terrace_2013_0030866.xml,0.0,0030866
-27.19,Glenlake Terrace Nrsg & Reh,78050.0,glenlake_terrace_nursing_reh_2013_0048637.xml,67359.0,0048637
-26.73,Heritage Health-Bloomington,25175.0,heritage_health_bloomington_2013_0048157.xml,19125.0,0048157
-21.47,Benton Rehab & Hlth Care Ctr,16006.0,benton_rehab_health_care_ctr_2013_0047407.xml,2562.0,0047407
-0.0,Hunt Terrace,5369.0,hunt_terrace_2013_0047985.xml,0.0,0047985
-23.23,Enfield Rehab & Hlth Care C,7081.0,enfield_rehab_health_care_c_2013_0047464.xml,2613.0,0047464
-0.0,Oakview,5394.0,oakview_2013_0046755.xml,0.0,0046755
-29.61,Lee Manor,86208.0,lee_manor_2013_0024356.xml,69446.0,0024356
-27.18,Heritage Health-Pana,37182.0,heritage_health_pana_2013_0048884.xml,9300.0,0048884
-27.99,Central Nrsg & Rehab Center,80139.0,central_nrsg_rehab_center_2013_0050526.xml,31084.0,0050526
-26.47,Hearthstone Manor,32972.0,hearthstone_manor_2013_0027664.xml,32848.0,0027664
-22.64,Manor Court of Princeton,32737.0,manor_court_of_princeton_2013_0047324.xml,11853.0,0047324
-24.79,Hillcrest Retirement Village,46012.0,hillcrest_retirement_village_2013_0030312.xml,28786.0,0030312
-0.0,Parkview Home Cissna Park,5365.0,parkview_home_cissna_park_2013_0035279.xml,0.0,0035279
-18.08,TRINITY LIVING CENTER #2,5333.0,trinity_living_center_2_2013_0034918.xml,1417.0,0034918
-0.0,Anna Terrace,5627.0,anna_terrace_2013_0038836.xml,0.0,0038836
-29.69,Childrens Habilitation Ctr,21287.0,childrens_habilitation_ctr_2013_0018424.xml,13126.0,0018424
-24.59,BELLWOOD DEVELOPMENTAL CTR,28517.0,bellwood_developmental_center_2013_0051904.xml,9923.0,0051904
-25.11,Lena Living Center,27713.0,lena_living_center_2013_0047746.xml,14224.0,0047746
-28.32,Alden Lincoln Rehab & HCC,25746.0,alden_lincoln_rehab_h_c_ctr_2013_0040709.xml,18432.0,0040709
-26.03,Southview Manor Nursing Ctr,66893.0,southview_manor_nursing_center_2013_0051656.xml,7966.0,0051656
-0.0,Zachary House,,zachary_house_2013_0042275.xml,0.0,0042275
-27.96,Rosewood Care Ctr of Alton,38703.0,rosewood_care_center_of_alton_2013_0049288.xml,22252.0,0049288
-23.37,TRANSITIONS NSG & REHAB CTR,10475.0,transitions_nsg_and_rehab_ctr_2013_0035642.xml,4566.0,0035642
-28.98,OAKRIDGE HEALTHCARE CENTER,22620.0,oakridge_healthcare_center_2013_0051862.xml,10594.0,0051862
-21.43,Odin Health Care Center,31873.0,odin_health_care_center_2013_0047365.xml,12568.0,0047365
-20.85,Sunset Home,53964.0,sunset_home_2013_0011643.xml,42243.0,0011643
-0.0,Shady Oaks West,5372.0,shady_oaks_west_2013_0040527.xml,0.0,0040527
-24.04,FOUNTAINVIEW,34074.0,fountain_view_2013_0020628.xml,6213.0,0020628
-20.42,Carlinville Rehab & HCC,25146.0,carlinville_rehab_hcc_2013_0049239.xml,10174.0,0049239
-30.41,Lexington of Orland Park,82158.0,lexington_of_orland_park_2013_0041855.xml,28906.0,0041855
-25.87,Hickorypoint Christian Vlg,16274.0,hickorypoint_christian_village_2013_0050682.xml,13552.0,0050682
-30.79,Tabor Hills Health Care Fac,61178.0,tabor_hills_health_care_fac_2013_0040543.xml,76686.0,0040543
-0.0,Glenwood Terrace-Springfield,5513.0,glenwood_terrace_springfield_2013_0035063.xml,0.0,0035063
-27.3,Park Lawn Center,14193.0,park_lawn_center_2013_0027078.xml,4112.0,0027078
-24.24,Morrison Hsp Four Seasons,9982.0,morrison_hsp_four_seasons_2013_8022127.xml,5882.0,8022127
-0.0,COLONIAL APARTMENTS,5521.0,colonial_apartments_2013_0038125.xml,0.0,0038125
-28.15,Willow Crest Nrsg Pavilion,36395.0,willow_crest_nursing_pavilion_2013_0036533.xml,13984.0,0036533
-29.59,Danville Care Center,37218.0,danville_care_center_2013_0032862.xml,16737.0,0032862
-27.04,Hickory Point Terrace,5678.0,hickory_point_terrace_2013_0047282.xml,680.0,0047282
-28.39,Meadowbrook Manor,101117.0,meadowbrook_manor_2013_0037366.xml,36436.0,0037366
-31.94,Manorcare of Homewood,40737.0,manorcare_of_homewood_2013_0049437.xml,27221.0,0049437
-28.33,TAMMERLANE HLTH CARE CENTRE,23031.0,tammerlane_health_care_centre_2013_0035659.xml,3627.0,0035659
-36.1,PRESENCE RESURRECTION N & R,77766.0,presence_resurrection_n_r_2013_0044362.xml,93783.0,0044362
-34.07,THE WESTWOOD MANOR,36227.0,westwood_manor_2013_0005249.xml,5723.0,0005249
-33.88,Alton Mem Hsp Hatch SK N W,4540.0,alton_mem_hsp_hatch_sk_n_w_2013_8000267.xml,24021.0,8000267
-32.08,Manorcare of Highland Park,41274.0,manorcare_of_highland_park_2013_0050278.xml,46587.0,0050278
-29.74,Evanston Nursing & Rehab Ctr,19772.0,evanston_nursing_rehab_ctr_2013_0048454.xml,11312.0,0048454
-21.57,Richland Care and Rehab,25013.0,richland_care_and_rehab_2013_0050757.xml,13972.0,0050757
-26.41,Heddington Oaks,16773.0,heddington_oaks_2013_0052357.xml,4143.0,0052357
-27.92,Grove of Skokie L & R,51434.0,grove_of_skokie_l_r_2013_0050237.xml,32946.0,0050237
-24.49,Sharon Health Care Willows,68141.0,sharon_health_care_willows_2013_0032797.xml,34553.0,0032797
-26.34,Frankfort Terrace Nrsg Ctr,40955.0,frankfort_terrace_nursing_ctr_2013_0051706.xml,3547.0,0051706
-28.59,Grove of Northbrook L & R,42181.0,grove_of_northbrook_l_r_2013_0052050.xml,20437.0,0052050
-0.0,Lincoln Terrace,5419.0,lincoln_terrace_2013_0035410.xml,0.0,0035410
-30.22,St Josephs Home F-T Elderly,21451.0,st_josephs_home_for_the_elderly_2013_0027045.xml,14975.0,0027045
-22.77,Jerseyville Nsg & Rehab Ctr,33361.0,jerseyville_nsg_rehab_center_2013_0039339.xml,9811.0,0039339
-0.0,Gaines Mill Place,5650.0,gaines_mill_place_2013_0035055.xml,0.0,0035055
-0.0,GLENWOOD HOUSE,5709.0,glenwood_house_2013_0037192.xml,0.0,0037192
-29.84,WESTMONT NURSING & REHAB CTR,69578.0,westmont_nursing_and_rehab_ctr_2013_0050120.xml,28599.0,0050120
-21.91,Aviston Terrace,4878.0,aviston_terrace_2013_0036749.xml,478.0,0036749
-31.37,The Tillers Nsg & Rehab Ctr,33538.0,tillers_nsg_rehab_ctr_2013_0018002.xml,69892.0,0018002
-0.0,Chamness Square,5566.0,chamness_square_2013_0048017.xml,0.0,0048017
-0.0,Froehlich House,5643.0,froehlich_house_2013_0032201.xml,0.0,0032201
-29.11,St Martha Manor,44956.0,st_martha_manor_2013_0023770.xml,5885.0,0023770
-29.22,Alden Estates of Shorewood,22710.0,alden_estates_of_shorewood_2013_0050781.xml,40199.0,0050781
-24.32,Mason City Area Nursing Home,25710.0,mason_city_area_nursing_home_2013_0034256.xml,11931.0,0034256
-30.06,WINDMILL NURSING PAVILION,41859.0,windmill_nursing_pavilion_2013_0031823.xml,4893.0,0031823
-22.92,McLeansboro Rehab & HCC,7757.0,mcleansboro_rehab_hlth_c_ctr_2013_0047498.xml,3176.0,0047498
-21.39,Snyders-Vaughn Haven,20313.0,snyders_vaughn_haven_2013_0005363.xml,2787.0,0005363
-0.0,Pine Terrace,5506.0,pine_terrace_2013_0043299.xml,0.0,0043299
-24.5,Manor Court of Peoria,17144.0,manor_court_of_peoria_2013_0047068.xml,6423.0,0047068
-20.87,Kankakee Terrace Nursing Ctr,49739.0,kankakee_terrace_nursing_ctr_2013_0051680.xml,2858.0,0051680
-29.57,Valley Hi Nursing Home,44150.0,valley_hi_nursing_home_2013_0046821.xml,33631.0,0046821
-31.07,Lexington Hlth Cr Ctr-Lombard,63080.0,lexington_hlth_cr_ctr_lombard_2013_0028860.xml,33110.0,0028860
-30.09,Elmwood Care,69398.0,elmwood_care_2013_0040410.xml,32118.0,0040410
-21.2,Way-Fair Nursing & Rehab Ctr,30835.0,way_fair_nursing_rehab_ctr_2013_0051235.xml,20118.0,0051235
-0.0,Schultz House,5326.0,schultz_house_2013_0035501.xml,0.0,0035501
-24.75,FAIRHAVEN CHRISTIAN RET CTR,54407.0,fairhaven_christian_ret_center_2013_0027987.xml,21835.0,0027987
-27.48,ALTON BLUFFS ESTATE,5663.0,alton_bluffs_estate_2013_0035907.xml,1550.0,0035907
-26.11,Sharon Health Care Pines,32929.0,sharon_health_care_pines_2013_0032763.xml,17183.0,0032763
-32.09,Manorcare of Palos Hts West,43771.0,manorcare_of_palos_hts_west_2013_0049353.xml,63382.0,0049353
-24.17,Pekin Manor,35963.0,pekin_manor_2013_0047969.xml,6942.0,0047969
-32.33,ALDEN VALLEY RIDGE REHAB & HCC,64144.0,alden_valley_ridge_rehab_hcc_2013_0036640.xml,22302.0,0036640
-21.21,Mercer County Nursing Home,29117.0,mercer_county_nursing_home_2013_0001396.xml,6213.0,0001396
-22.69,Elizabeth Nursing Home,12988.0,elizabeth_nursing_home_2013_0008300.xml,8428.0,0008300
-26.25,Elston Nrsg & Rehab Centre,37714.0,elston_nursing_rehab_centre_2013_0004861.xml,17683.0,0004861
-24.33,Helia Hlthcare of Greenville,26100.0,helia_healthcare_of_greenville_2013_0046680.xml,7460.0,0046680
-26.47,Joliet Terrace Nursing Ctr,41119.0,joliet_terrace_nursing_center_2013_0051698.xml,6698.0,0051698
-0.0,GROUP HOME #3,5377.0,group_home_3_2013_0037614.xml,0.0,0037614
-26.04,Elmwood Terrace Hlthcare Ctr,20686.0,elmwood_terrace_healthcare_ctr_2013_0046128.xml,10549.0,0046128
-0.0,Aberdeen Terrace,5800.0,aberdeen_terrace_2013_0039081.xml,0.0,0039081
-0.0,TAC House,5582.0,tac_house_2013_0034108.xml,0.0,0034108
-35.12,Krypton,5318.0,krypton_2013_0040212.xml,735.0,0040212
-33.94,ROLLING HILLS MANOR,37330.0,rolling_hills_manor_2013_0025239.xml,33919.0,0025239
-26.4,Watseka Rehab & HCC,35223.0,watseka_rehab_hlth_care_ctr_2013_0046847.xml,5092.0,0046847
-30.98,Alden Park Strathmoor,52145.0,alden_park_strathmoor_2013_0044909.xml,22459.0,0044909
-0.0,Sharon Health Care Woods,51333.0,sharon_health_care_woods_2013_0032813.xml,0.0,0032813
-27.9,Apostolic Christian Restmor,42255.0,apostolic_christian_restmor_2013_0047167.xml,38738.0,0047167
-33.02,Burgess Square Hlthcare Ctr,53832.0,burgess_square_healthcare_ctr_2013_0051847.xml,55752.0,0051847
-33.25,Lexington of Wheeling,67908.0,lexington_of_wheeling_2013_0040923.xml,20038.0,0040923
-25.54,St Anthonys St Clares Hosp,5483.0,st_anthonys_st_clares_hosp_2013_8042186.xml,11449.0,8042186
-27.48,LYNHAVEN,4414.0,lynhaven_2013_0036210.xml,1550.0,0036210
-25.81,Rochelle Gardens Care Center,19877.0,rochelle_gardens_care_center_2013_0050617.xml,11021.0,0050617
-22.61,Sunrise Skilled Nur & Rehab,23200.0,sunrise_skilled_nur_rehab_2013_0051458.xml,10607.0,0051458
-21.59,Pittsfield Manor,22291.0,pittsfield_manor_2013_0047944.xml,8994.0,0047944
-21.34,Riverwood Rehab,17312.0,riverwood_rehab_2013_0052324.xml,6085.0,0052324
-33.73,Manorcare of Arlington Hgts,37602.0,manorcare_of_arlington_heights_2013_0050302.xml,57004.0,0050302
-0.0,The Moorings Health Center,36895.0,moorings_health_center_2013_0045047.xml,0.0,0045047
-25.9,LAKEFRONT NRSG & REHAB CTR,34625.0,lakefront_nursing_rehab_ctr_2013_0047779.xml,11921.0,0047779
-16.95,Crawford County Convalescent,7664.0,crawford_county_convalescent_2013_0029645.xml,7118.0,0029645
-29.98,Lexington of Elmhurst,40559.0,lexington_of_elmhurst_2013_0037317.xml,15994.0,0037317
-34.3,Countryside Care Centre,69452.0,countryside_care_centre_2013_0051763.xml,27086.0,0051763
-20.97,Mt Vernon Health Care Center,28160.0,mt_vernon_health_care_center_2013_0052290.xml,5833.0,0052290
-26.28,Hallmark House Nursing Ctr,21616.0,hallmark_house_nursing_center_2013_0036343.xml,12077.0,0036343
-27.89,Countryside Nrsg & Rehab Ctr,60827.0,countryside_nrsg_rehab_ctr_2013_0050708.xml,17174.0,0050708
-24.88,Leroy Manor,30229.0,leroy_manor_2013_0047704.xml,5589.0,0047704
-23.81,Heartland of Henry,26935.0,heartland_of_henry_2013_0049452.xml,15743.0,0049452
-22.95,Aviston Countryside Manor,28411.0,aviston_countryside_manor_2013_0033407.xml,15640.0,0033407
-25.97,Boyd Avenue Home,5755.0,boyd_avenue_home_2013_0040188.xml,199.0,0040188
-22.76,Sullivan Rehab & HCC,19988.0,sullivan_rehab_hlth_care_ctr_2013_0046425.xml,512.0,0046425
-26.21,Nathan Health Care Center,28122.0,nathan_health_care_center_2013_0051367.xml,2515.0,0051367
-0.0,Shady Oaks East,5309.0,shady_oaks_east_2013_0039263.xml,0.0,0039263
-0.0,Wetherell Place,5274.0,wetherell_place_2013_0034074.xml,0.0,0034074
-25.56,Island City Rehab Center,59135.0,island_city_rehab_center_2013_0052506.xml,14060.0,0052506
-19.04,Newton Rest Haven,12552.0,newton_rest_haven_2013_0024984.xml,4985.0,0024984
-20.8,Mt Vernon Countryside Manor,26568.0,mount_vernon_countryside_manor_2013_0035998.xml,19726.0,0035998
-27.97,Brightview Care Center,40580.0,brightview_care_center_2013_0030551.xml,22027.0,0030551
-30.35,Greenfields of Geneva,1202.0,greenfields_of_geneva_2013_0050286.xml,4735.0,0050286
-28.99,Woodbridge Nursing Pavilion,69218.0,woodbridge_nursing_pavilion_2013_0034157.xml,15701.0,0034157
-26.99,ATRIUM HC & REHAB CTR-CAHOKIA,43946.0,atrium_hc_rehab_ctr_cahokia_2013_0048645.xml,4059.0,0048645
-31.12,Chateau Nrsg & Rehab Center,51678.0,chateau_nrsg_rehab_center_2013_0046177.xml,45770.0,0046177
-32.82,Winchester House,59505.0,winchester_house_2013_0010678.xml,46330.0,0010678
-34.35,Grosse Pointe Manor,29931.0,grosse_pointe_manor_2013_0045203.xml,6808.0,0045203
-24.33,Walnut Grove Village,36095.0,walnut_grove_village_2013_0050468.xml,26657.0,0050468
-26.98,Abbington Rehab & Nrsg Ctr,24594.0,abbington_rehab_nursing_ctr_2013_0039693.xml,8720.0,0039693
-31.6,Farmington Country Manor,28302.0,farmington_country_manor_2013_0045187.xml,8345.0,0045187
-31.95,Alden Estates of Evanston,20613.0,alden_estates_of_evanston_2013_0040733.xml,22101.0,0040733
-25.29,Heritage Health-Peru,28779.0,heritage_health_peru_2013_0048090.xml,16003.0,0048090
-20.55,Eastside Health & Rehab Ctr,22000.0,eastside_health_rehab_center_2013_0047456.xml,3998.0,0047456
-29.86,Providence Downers Grove,43998.0,providence_downers_grove_2013_0028605.xml,39118.0,0028605
-28.22,Alden Town Manor Rehab & HCC,67323.0,alden_town_manor_rehab_hcc_2013_0038000.xml,26192.0,0038000
-24.61,Walnut Manor,18545.0,walnut_manor_2013_0015784.xml,6276.0,0015784
-33.27,Exceptional Care,19333.0,exceptional_care_2013_0048496.xml,3952.0,0048496
-21.46,BEVERLY FARM FOUNDATION,96020.0,beverly_farm_foundation_2013_0038604.xml,18012.0,0038604
-27.04,SUTTON HOUSE,5528.0,sutton_house_2013_0051995.xml,416.0,0051995
-25.39,Capitol Hlthcare & Rehab Ctr,57438.0,capitol_hlthcare_rehab_ctr_2013_0052183.xml,10755.0,0052183
-25.21,Rosewood Care Ctr of Peoria,30163.0,rosewood_care_center_of_peoria_2013_0049312.xml,15508.0,0049312
-26.2,Heritage Health-Dwight,28820.0,heritage_health_dwight_2013_0050492.xml,16921.0,0050492
-26.65,Harmony Nursing & Rehab Ctr,58285.0,harmony_nursing_rehab_center_2013_0040535.xml,39876.0,0040535
-21.71,Rose-Angela Hall,27241.0,rose_angela_hall_2013_0033761.xml,9840.0,0033761
-27.42,Stearns Nsg & Rehab Center,32650.0,stearns_nsg_rehab_center_2013_0046870.xml,7833.0,0046870
-29.43,Claremont - Hanover Park,32052.0,claremont_hanover_park_2013_0049957.xml,40850.0,0049957
-25.34,Knox County Nursing Home,49660.0,knox_county_nursing_home_2013_0010561.xml,16399.0,0010561
-21.28,Bethalto Care Center,27139.0,bethalto_care_center_2013_0021584.xml,4686.0,0021584
-32.14,St Patricks Residence,69110.0,st_patricks_residence_2013_0035006.xml,34227.0,0035006
-31.56,BIRCHWOOD PLAZA,61176.0,birchwood_plaza_2013_0028696.xml,28346.0,0028696
-25.65,Renaissance at Midway,75616.0,renaissance_at_midway_2013_0041749.xml,46489.0,0041749
-26.13,New Main Group Home,5777.0,new_main_group_home_2013_0039057.xml,400.0,0039057
-25.87,Lebanon Care Center,16217.0,lebanon_care_center_2013_0050609.xml,3148.0,0050609
-21.33,Centralia Manor,34177.0,centralia_manor_2013_0047225.xml,13267.0,0047225
-23.18,SCOTT COUNTY NURSING CENTER,15166.0,scott_county_nursing_center_2013_0004234.xml,2900.0,0004234
-21.37,Rosiclare Rehab & Hlth C Ctr,16683.0,rosiclare_rehab_health_c_ctr_2013_0047548.xml,7175.0,0047548
-28.12,Meadowbrook Manor LaGrange,47376.0,meadowbrook_manor_lagrange_2013_0047274.xml,21612.0,0047274
-23.5,Westminster Place,77073.0,westminster_place_2013_0012930.xml,141233.0,0012930
-0.0,Columbus Manor Res Care Home,21866.0,columbus_manor_res_care_home_2013_0007781.xml,0.0,0007781
-25.16,Piper City Rehab & Livng Ctr,17923.0,piper_city_rehab_living_ctr_2013_0050773.xml,2605.0,0050773
-25.01,THE BRIDGE CARE SUITES,6829.0,bridge_care_suites_2013_0052209.xml,5766.0,0052209
-26.89,Polo Rehabilitation & HCC,18975.0,polo_rehabilitation_hcc_2013_0052647.xml,5114.0,0052647
-19.64,Westside Rehab & Care Center,18600.0,westside_rehab_care_center_2013_0050344.xml,3090.0,0050344
-23.49,Friendship Manor,31941.0,friendship_manor_2013_0024760.xml,16303.0,0024760
-0.0,Calumet City Terrace,5017.0,calumet_city_terrace_2013_0043190.xml,0.0,0043190
-0.0,LIBERTY HOUSE,5142.0,liberty_house_2013_0037085.xml,0.0,0037085
-23.82,St Anthonys Nsg & Rehab Ctr,33955.0,st_anthonys_nsg_rehab_ctr_2013_0047126.xml,10032.0,0047126
-22.45,Montebello Healthcare Center,27776.0,montebello_healthcare_center_2013_0047340.xml,12592.0,0047340
-0.0,Harris Place,4781.0,harris_place_2013_0038240.xml,0.0,0038240
-28.14,Park House Nrsg & Rehab Ctr,33489.0,park_house_nursing_rehab_ctr_2013_0050740.xml,8276.0,0050740
-24.31,Margaret Manor-North Branch,33406.0,margaret_manor_north_branch_2013_0017178.xml,1933.0,0017178
-22.02,Flora Gardens Care Center,18493.0,flora_gardens_care_center_2013_0050666.xml,11541.0,0050666
-34.64,Alden Poplar Creek Rehab & HCC,65856.0,alden_poplar_creek_rehab_hcc_2013_0032896.xml,29535.0,0032896
-33.85,Elmhurst Extended Care Ctr,25165.0,elmhurst_extended_care_center_2013_0003038.xml,17365.0,0003038
-21.5,Manor Court of Freeport,34676.0,manor_court_of_freeport_2013_0046839.xml,13142.0,0046839
-27.48,LEWIS AND CLARK MANOR,4025.0,lewis_and_clark_manor_2013_0036905.xml,1550.0,0036905
-27.3,St Claras Manor,37881.0,st_claras_manor_2013_0050724.xml,7024.0,0050724
-23.88,Mount St Joseph,42295.0,mt_st_joseph_2013_005520.xml,17684.0,0005520
-28.71,Astoria Place Living & Rehab,54023.0,astoria_place_living_rehab_2013_0050799.xml,27668.0,0050799
-25.06,Cornerstone Rehab & HC,25173.0,cornerstone_rehab_hc_2013_0052225.xml,7793.0,0052225
-34.95,Lutheran Home for the Aged,131713.0,lutheran_home_for_the_aged_2013_0005090.xml,137760.0,0005090
-27.14,Rainbow Beach Care Center,61841.0,rainbow_beach_care_center_2013_0047332.xml,8878.0,0047332
-26.14,Salem Village Nrsg & Rehab,84961.0,salem_village_nursing_rehab_2013_0044057.xml,49638.0,0044057
-29.97,St Matthew Center for Health,40896.0,st_matthew_center_for_health_2013_0013896.xml,50222.0,0013896
-31.68,Fondulac Rehab & Hlth Care C,23461.0,fondulac_rehab_health_care_c_2013_0047472.xml,4147.0,0047472
-26.08,Flanagan Rehab & HCC,14112.0,flanagan_rehabilitation_hcc_2013_0050591.xml,6223.0,0050591
-32.44,Lexington HCC Bloomingdale,51388.0,lexington_hlth_cr_ctr_blmngdl_2013_0035188.xml,21880.0,0035188
-32.01,PRESENCE BALLARD NURSING CTR,49921.0,presence_ballard_nursing_ctr_2013_0051490.xml,140208.0,0051490
-0.0,Taylor House,5355.0,taylor_house_2013_0035030.xml,0.0,0035030
-25.31,Lakeland Rehab & HCC,36512.0,lakeland_rehab_hcc_2013_0050971.xml,14891.0,0050971
-26.26,Bloomington Rehab & HCC,19850.0,bloomington_rehabilitation_hcc_2013_0047415.xml,6262.0,0047415
-27.73,GOOD SAM-PROPHETS RIVERVIEW,21607.0,good_sam_prophets_riverview_2013_0012955.xml,14847.0,0012955
-0.0,Edwardsville Terrace,5179.0,edwardsville_terrace_2013_0038844.xml,0.0,0038844
-29.48,Avenue Care Nrsg & Rehab Ctr,46094.0,avenue_care_nrsg_rehab_ctr_2013_0050732.xml,10953.0,0050732
-25.9,Odd Fellow-Rebekah Home,44567.0,odd_fellow_rebekah_home_2013_0010223.xml,13531.0,0010223
-26.07,Brentwood North HC & Rehab C,52495.0,brentwood_north_hc_rehab_ctr_2013_0050112.xml,49218.0,0050112
-32.17,CLEARBROOK WEST,5762.0,clearbrook_west_2013_0033035.xml,1040.0,0033035
-35.51,MONTGOMERY TERRACE,5472.0,montgomery_terrace_2013_0047001.xml,404.0,0047001
-33.03,Lexington of Lake Zurich,67134.0,lexington_of_lake_zurich_2013_0039768.xml,33819.0,0039768
-23.73,Breese Nursing Home,25574.0,breese_nursing_home_2013_0036012.xml,8231.0,0036012
-27.16,Good Samaritan-Pontiac,10535.0,good_samaritan_pontiac_2013_0050575.xml,4181.0,0050575
-26.92,St Josephs Medical Center,2164.0,st_josephs_medical_center_2013_8025355.xml,12968.0,8025355
-,Lewis Memorial Christian Vlg,51433.0,lewis_memorial_christian_vlg_2013_0021436.xml,21.69,0021436
-32.37,The Renaissance at 87th St,67275.0,renaissance_at_87th_street_2013_0042093.xml,34286.0,0042093
-28.06,West Chicago Terrace NH,41564.0,west_chicago_terrace_nh_2013_0051672.xml,11114.0,0051672
-25.82,Rachuy House,4880.0,rachuy_house_2013_0047936.xml,549.0,0047936
-26.93,Helia Southbelt Healthcare,40957.0,helia_southbelt_healthcare_2013_0048587.xml,18758.0,0048587
-0.0,Quincy Terrace,5401.0,quincy_terrace_2013_0031401.xml,0.0,0031401
-27.36,Sandwich Rehab & HCC,16495.0,sandwich_rehab_hlth_care_ctr_2013_0047555.xml,11311.0,0047555
-24.57,THREE SPRINGS LODGE NRSG H,23556.0,three_springs_lodge_nursing_h_2013_0051383.xml,1063.0,0051383
-28.17,Glen Bridge N & Rehab Centre,94864.0,glen_bridge_n_rehab_centre_2013_0035014.xml,65197.0,0035014
-0.0,Plonka Terrace,5637.0,plonka_terrace_2013_0036889.xml,0.0,0036889
-29.67,The H & J Vonderlieth Lvg Ctr,25498.0,h_j_vonderlieth_lvg_ctr_2013_0019976.xml,6225.0,0019976
-20.79,Bryan Manor,34816.0,bryan_manor_2013_0048629.xml,13291.0,0048629
-28.03,Little Sisters of the Poor,25136.0,little_sisters_of_the_poor_2013_0025346.xml,13710.0,0025346
-0.0,Eisenhower Terrace,5445.0,eisenhower_terrace_2013_0040279.xml,0.0,0040279
-26.03,Apos Christian Timber Ridge,25655.0,apos_christian_timber_ridge_2013_0016220.xml,14769.0,0016220
-20.86,Freeport Rehab & Health,21260.0,freeport_rehab_hlth_2013_0049155.xml,14890.0,0049155
-25.59,Christian Nursing Home,37879.0,christian_nursing_home_2013_0004630.xml,9547.0,0004630
-0.0,Champaign Terrace,4254.0,champaign_terrace_2013_0034934.xml,0.0,0034934
-26.47,Heritage Health-Jacksonville,59892.0,heritage_health_jacksonville_2013_0048918.xml,17719.0,0048918
-35.17,Manorcare of Elk Grove Vlg,60733.0,manorcare_of_elk_grove_village_2013_0049387.xml,75225.0,0049387
-23.11,Burnsides Community Hlth Ctr,26673.0,burnsides_community_health_ctr_2013_0007153.xml,7652.0,0007153
-21.37,Cisne Rehab & Hlth Care Ctr,10697.0,cisne_rehab_health_care_ctr_2013_0047423.xml,4102.0,0047423
-0.0,Park Place,5212.0,park_place_2013_0040360.xml,0.0,0040360
-22.67,Good Samaritan Home,68546.0,good_samaritan_home_2013_0009258.xml,37427.0,0009258
-29.98,Center Home Hispanic Elderly,52013.0,center_home_hispanic_elderly_2013_0050989.xml,18137.0,0050989
-31.54,Rosewood Care Ctr St Charles,30065.0,rosewood_care_ctr_st_charles_2013_0049320.xml,22945.0,0049320
-24.61,REHAB & CARE CTR-JACKSON CO,41112.0,rehab_care_ctr_jackson_co_2013_0010330.xml,12919.0,0010330
-27.51,All American Nursing Home,47277.0,all_american_nursing_home_2013_0026294.xml,3066.0,0026294
-0.0,Kepley House,5655.0,kepley_house_2013_0033332.xml,0.0,0033332
-27.33,McKinley Court,48777.0,mckinley_court_2013_0051821_revised.xml,5912.0,0051821
-24.82,Sheltered Village,31919.0,sheltered_village_2013_0023275.xml,13034.0,0023275
-29.24,Marklund Tommy Home,5822.0,marklund_tommy_home_2013_0045567.xml,6639.0,0045567
-25.52,ST PAULS HOME,42150.0,st_pauls_home_2013_0013920.xml,6915.0,0013920
-26.8,The Iroquois Resident Home,11210.0,iroquois_resident_home_2013_0014464.xml,5431.0,0014464
-21.29,Henderson County Ret Center,13617.0,henderson_county_ret_center_2013_0035246.xml,5760.0,0035246
-23.85,Evenglow Lodge,43237.0,evenglow_lodge_2013_0008425.xml,12172.0,0008425
-22.95,Nature Trail Health Care Ctr,17742.0,nature_trail_health_care_ctr_2013_0047357.xml,13045.0,0047357
-0.0,Carole Lane Terrace,4806.0,carole_lane_terrace_2013_0047977.xml,0.0,0047977
-32.34,Assisi HCC at Clare Oaks,35566.0,assisi_health_cc_at_clare_oaks_2013_0047613.xml,44203.0,0047613
-28.98,PRESENCE OUR LADY OF VICTORY,34346.0,presence_our_lady_of_victory_2013_0041723.xml,22979.0,0041723
-27.07,Arbour Health Care Center,34190.0,arbour_health_care_center_2013_0034736.xml,9664.0,0034736
-18.69,Heartland Manor Nursing Ctr,22922.0,heartland_manor_nursing_center_2013_0002923.xml,8320.0,0002923
-25.6,Amboy Terrace,5667.0,amboy_terrace_2013_0036715.xml,205.0,0036715
-20.62,Joshua Manor,4585.0,joshua_manor_2013_0040345.xml,466.0,0040345
-20.77,ANDOVER,5748.0,andover_2013_0038208.xml,393.0,0038208
-18.55,Hope Creek Care Center,82492.0,hope_creek_care_center_2013_0048694.xml,23764.0,0048694
-0.0,Golfview Developmental Ctr,48239.0,golfview_developmental_center_2013_0042614.xml,0.0,0042614
-25.53,Concordia Village Care Ctr,21965.0,concordia_village_care_center_2013_0051078.xml,9815.0,0051078
-30.13,PALOS HILLS HEALTHCARE,49611.0,palos_hills_healthcare_2013_0051136.xml,10381.0,0051136
-33.67,Briar Place,80146.0,briar_place_2013_0031765.xml,14068.0,0031765
-0.0,HART HOUSE,5194.0,hart_house_2013_0034769.xml,0.0,0034769
-27.53,Atrium Health Care Center,54545.0,atrium_health_care_center_2013_0033977.xml,11581.0,0033977
-26.34,Granite Nsg & Rehab Center,26279.0,granite_nsg_rehab_center_2013_0046904.xml,5222.0,0046904
-0.0,GROUP HOME #4,5339.0,group_home_4_2013_0037622.xml,0.0,0037622
-31.42,Monroe Pav Hlth Treatmnt Ctr,47517.0,monroe_pav_hlth_treatment_ctr_2013_0040071.xml,3670.0,0040071
-18.08,TRINITY LIVING CENTER #3,5485.0,trinity_living_center_3_2013_0034926.xml,1417.0,0034926
-25.16,Cedar Ridge Hlth & Rehab Ctr,37086.0,cedar_ridge_health_rehab_ctr_2013_0042838.xml,17993.0,0042838
-0.0,DYBALL SUNSHINE HOME,5322.0,dyball_sunshine_home_2013_0031021.xml,0.0,0031021
-29.33,Sharon Health Care Elms,28446.0,sharon_health_care_elms_2013_0032789.xml,10582.0,0032789
-28.12,Wilson Care,57608.0,wilson_care_2013_0029975.xml,3525.0,0029975
-28.34,Pleasant View Luther Home,29559.0,pleasant_view_luther_home_2013_0012864.xml,20178.0,0012864
-21.32,Ellner Terrace,5465.0,ellner_terrace_2013_0047803.xml,486.0,0047803
-21.86,White Oak Rehabilitation HCC,18341.0,white_oak_rehabilitation_hcc_2013_0052282.xml,7793.0,0052282
-0.0,Ridge Terrace,5367.0,ridge_terrace_2013_0033621.xml,0.0,0033621
-27.95,Boulevard Care Nrsg & Rehab,48826.0,boulevard_care_nrsg_rehab_2013_0050716.xml,16255.0,0050716
-25.51,Collinsville Rehab & Hlth CC,20470.0,collinsville_rehab_health_cc_2013_0048447.xml,3302.0,0048447
-25.98,Heritage Health-Mt Zion,24907.0,heritage_health_mt_zion_2013_0048074.xml,11942.0,0048074
-20.26,CLEARBROOK - WRIGHT HOME,5624.0,clearbrook_wright_home_2013_0044297.xml,10505.0,0044297
-34.71,Addolorata Villa,41544.0,addolorata_villa_2013_0045443.xml,34334.0,0045443
-31.25,Lakewood Nrsg & Rehab Center,43107.0,lakewood_nrsg_rehab_center_2013_0046169.xml,29705.0,0046169
-25.85,Arcola Health Care Center,25558.0,arcola_health_care_center_2013_0046045.xml,4087.0,0046045
-29.17,SOUTHPOINT NRSG & REHAB CTR,69125.0,southpoint_nrsg_rehab_ctr_2013_0050450.xml,14988.0,0050450
-24.1,Aledo Rehab & Hlth Care Ctr,19834.0,aledo_rehab_health_care_ctr_2013_0051300.xml,7023.0,0051300
-29.88,Oak Lawn Respiratory & Rehab,31349.0,oak_lawn_respiratory_rehab_2013_0051144.xml,7614.0,0051144
-31.67,MIDWAY NEUROLOGICAL/REHAB CTR,118006.0,midway_neurological_rehab_ctr_2013_0047175.xml,9187.0,0047175
-21.04,Sunny Acres Nursing Home,31357.0,sunny_acres_nursing_home_2013_0005009.xml,3547.0,0005009
-0.0,Gaylord Tull House,5117.0,gaylord_tull_house_2013_0032672.xml,0.0,0032672
-33.34,The Villa at Windsor Park,68857.0,villa_at_windsor_park_2013_0051243.xml,27306.0,0051243
-24.68,Fair Havens Christian Home,51444.0,fair_havens_christian_home_2013_0018143.xml,17974.0,0018143
-24.08,Linden Estate,5415.0,linden_estate_2013_0039305.xml,1722.0,0039305
-0.0,SHORE Homes East,4153.0,shore_homes_east_2013_0028720.xml,0.0,0028720
-30.14,Apostolic Chr Home of Eureka,,apostolic_chr_home_of_eureka_2013_0012328.xml,29429.0,0012328
-21.74,Havana Health Care Center,21883.0,havana_health_care_center_2013_0046086.xml,2291.0,0046086
-24.64,MOORE HOUSE,5396.0,moore_house_2013_0030593.xml,432.0,0030593
-21.68,Lutheran Care Center,27225.0,lutheran_care_center_2013_0025023.xml,5433.0,0025023
-25.56,A MERKLE-C KNIPPRATH N H,17178.0,a_merkle_c_knipprath_n_h_2013_0021832.xml,7703.0,0021832
-0.0,Phoenix Court,5661.0,phoenix_court_2013_0036350.xml,0.0,0036350
-22.92,Sunset Rehab & Hlth C,30009.0,sunset_rehabilitation_hlth_c_2013_0046094.xml,5606.0,0046094
-24.53,Parkway Manor,33318.0,parkway_manor_2013_0047886.xml,13204.0,0047886
-22.02,Metropolis Nrsg & Rehab Ctr,28039.0,metropolis_nursing_rehab_ctr_2013_0046276.xml,12243.0,0046276
-22.53,PLEASANT HILL VILLAGE,30524.0,pleasant_hill_village_2013_0021014.xml,5113.0,0021014
-38.08,Lieberman Ctr for Hlth & Reh,78603.0,lieberman_ctr_for_health_reh_2013_0026195.xml,65072.0,0026195
-0.0,Smith Square,5628.0,smith_square_2013_0033944.xml,0.0,0033944
-28.49,SKOKIE MEADOWS NRSG CENTER 2,34467.0,skokie_meadows_nrsg_center_2_2013_0048942.xml,12084.0,0048942
-25.1,Bourbonnais Terrace NH,63772.0,bourbonnais_terrace_nh_2013_0051631.xml,4591.0,0051631
-0.0,Gordon Jones Terrace,5215.0,gordon_jones_terrace_2013_0036970.xml,0.0,0036970
-31.09,Marklund Children's Home,7558.0,marklund_childrens_home_2013_0011288.xml,16875.0,0011288
-24.75,Franklin Grove Lvg & Rehab,36598.0,franklin_grove_living_rehab_2013_0051599.xml,5813.0,0051599
-22.8,Thomas Herbstritt House,5387.0,thomas_herbstritt_house_2013_0051466.xml,421.0,0051466
-0.0,The Cornerstone Home,4541.0,cornerstone_home_2013_0033837.xml,0.0,0033837
-27.45,GOOD SAM SOC-MT CARROLL,19648.0,good_sam_soc_mt_carroll_2013_0007344.xml,14785.0,0007344
-0.0,Casa Willis,5420.0,casa_willis_2013_0035071.xml,0.0,0035071
-0.0,DIAMONDVIEW,5115.0,diamondview_2013_0038638.xml,0.0,0038638
-30.82,NILES NRSG & REHAB CENTER,100467.0,niles_nrsg_rehab_center_2013_0050088.xml,52241.0,0050088
-3.0,Eden Village Care Center,36724.0,eden_village_care_center_2013_0023382.xml,11149.0,0023382
-29.33,Walter Lawson Childrens Home,33323.0,walter_lawson_childrens_home_2013_0035469.xml,19981.0,0035469
-0.0,Vahle Terrace,5725.0,vahle_terrace_2013_0032151.xml,0.0,0032151
-0.0,Lebanon Terrace,5656.0,lebanon_terrace_2013_0038430.xml,0.0,0038430
-26.31,Rock Falls Rehab & HCC,12740.0,rock_falls_rehab_hlth_care_c_2013_0047530.xml,4556.0,0047530
-0.0,PARK PLACE - CENTRALIA,5493.0,park_place_centralia_2013_0038646.xml,0.0,0038646
-32.7,FAIR OAKS HEALTH CARE CENTER,14912.0,fair_oaks_health_care_center_2013_0040915.xml,10701.0,0040915
-0.0,Adloff Place,5260.0,adloff_place_2013_0038463.xml,0.0,0038463
-34.42,Alden of Old Town East,5553.0,alden_of_old_town_east_2013_0042069.xml,4230.0,0042069
-24.84,Aspen Rehab & Hlth Care Ctr,18534.0,aspen_rehab_health_care_ctr_2013_0047381.xml,2848.0,0047381
-27.3,The Terrace Nursing Home,35262.0,terrace_nursing_home_2013_0051664.xml,23516.0,0051664
-28.23,St Agnes HC and Rehab Center,56032.0,st_agnus_hc_and_rehab_center_2013_0027870.xml,13770.0,0027870
-25.45,Bethshan Association,15979.0,bethshan_association_2013_0027086.xml,7188.0,0027086
-25.15,Heritage Square,24709.0,heritage_square_2013_0018176.xml,12542.0,0018176
-0.0,Moultrie Co Community Center,4327.0,moultrie_co_community_center_2013_0026112.xml,0.0,0026112
-22.78,Effingham Rehab & Hlth C Ctr,13670.0,effingham_rehab_health_c_ctr_2013_0047159.xml,6727.0,0047159
-32.79,Miller Health Care Center,43182.0,miller_health_care_center__2013_0040659.xml,55248.0,0040659
-34.23,Elmbrook Nursing,58591.0,elmbrook_nursing_2013_0051177.xml,26125.0,0051177
-29.0,Dolton Nursing & Rehab,26187.0,dolton_nursing_rehab_2013_0051151.xml,7463.0,0051151
-30.89,Renaissance Park South,86287.0,renaissance_park_south_2013_0049098.xml,38526.0,0049098
-30.22,El Valor Residence,3479.0,el_valor_residence_2013_0028514.xml,750.0,0028514
-29.62,Batavia Rehab & HCC,18594.0,batavia_rehab_hlth_care_ctr_2013_0047399.xml,3965.0,0047399
-0.0,Torrence Place,4954.0,torrence_place_2013_0043364.xml,0.0,0043364
-39.27,ASTA CARE CENTER OF COLFAX,13298.0,asta_care_center_of_colfax_2013_0051227.xml,1399.0,0051227
-19.76,Sycamore Healthcare Center,30363.0,sycamore_healthcare_center_2013_0051649.xml,15979.0,0051649
-22.71,Montgomery Nrsg & Rehab Ctr,35413.0,montgomery_nursing_rehab_ctr_2013_0039347.xml,6892.0,0039347
-28.79,Alden Long Grove Rehab & HCC,66370.0,alden_long_grove_rehab_hcc_2013_0040683.xml,34451.0,0040683
-25.87,El Paso Health Care Center,43094.0,el_paso_health_care_center_2013_0050914.xml,2477.0,0050914
-19.15,RANDOLPH COUNTY CARE CENTER,22037.0,randolph_county_care_center_2013_0000497.xml,5911.0,0000497
-31.14,Green Acres Hlthcare & Rehab,10796.0,green_acres_hc_rehab_2013_0047696.xml,2317.0,0052365
-28.34,Heritage Health-Litchfield,26210.0,heritage_health_litchfield_2013_0048900.xml,5128.0,0048900
-24.95,North Logan Healthcare Ctr,32275.0,north_logan_healthcare_center_2013_0046532.xml,13772.0,0046532
-29.16,Helia Hlthcare of Belleville,30244.0,helia_healthcare_of_belleville_2013_0048827.xml,7398.0,0048827
-24.44,Pleasant Meadows Chr Village,35829.0,pleasant_meadows_chr_village_2013_0019166.xml,16678.0,0019166
-27.87,Heritage Health-Normal,42834.0,heritage_health_normal_2013_0048082.xml,18962.0,0048082
-28.01,Champaign County Nrsg Home,68577.0,champaign_county_nursing_home_2013_0046664.xml,34195.0,0046664
-25.26,Park Haven Care Center,27874.0,park_haven_care_center_2013_0048785.xml,9547.0,0048785
-22.09,Parents & Friends of the SLC,34573.0,parents_and_friends_of_the_slc_2013_0026773.xml,292.0,0026773
-30.11,Markund @ Mill Creek 3,5785.0,marklund_@_mill_creek_3_2013_0047258.xml,6422.0,0047258
-27.01,Midwest Rehab & Respiratory,29179.0,midwest_rehab_respiratory_2013_0051342.xml,5154.0,0051342
-26.05,OTTAWA PAVILION,35462.0,ottawa_pavilion_2013_0039230.xml,12918.0,0039230
-26.26,Washington Christian Village,35287.0,washington_christian_village_2013_0026955.xml,21180.0,0026955
-17.46,Lydia Healthcare,144571.0,lydia_healthcare_2013_0045880.xml,23143.0,0045880
-35.59,Selfhelp Home of Chicago,22079.0,selfhelp_home_of_chicago_2013_0018580.xml,24298.0,0018580
-29.06,Heather Health Care Center,44295.0,heather_health_care_center_2013_0023945.xml,9907.0,0023945
-34.21,North Aurora Care Center,41329.0,north_aurora_care_center_2013_0047514.xml,4672.0,0047514
-26.72,Countryview Care Ctr Macomb,18704.0,countryview_care_center_macomb_2013_0047431.xml,4703.0,0047431
-29.94,Jackson Sq Skl Nrsg & Living,76972.0,jackson_sq_skl_nrsg_living_2013_0039834.xml,32922.0,0039834
-31.32,Bethesda Lutheran C-Sycamore,4793.0,bethesda_lutheran_c_sycamore_2013_0035303.xml,41642.0,0035303
-32.0,South Suburban Rehab Center,61484.0,south_suburban_rehab_center_2013_0048678.xml,19267.0,0048678
-25.76,Autumn Lake,5076.0,autumn_lake_2013_0040105.xml,947.0,0040105
-27.48,FOSTERBURG TERRACE,5759.0,fosterburg_terrace_2013_0039123.xml,1550.0,0039123
-19.99,White Hall Nsg & Rehab Ctr,34713.0,white_hall_nsg_rehab_center_2013_0046896.xml,8254.0,0046896
-22.42,FAIR ACRES NURSING HOME,15543.0,fair_acres_nusing_home_2013_0027367.xml,4546.0,0027367
-24.28,Florence Nursing Home,16481.0,florence_nursing_home_2013_0041657.xml,7114.0,0041657
-29.96,Bryn Mawr Care,57459.0,bryn_mawr_care_2013_0035618.xml,1543.0,0035618
-30.72,Lakeview Rehab & Nrsg Center,50507.0,lakeview_rehab_nrsg_center_2013_0051524.xml,32227.0,0051524
-0.0,Stern Square,5584.0,stern_square_2013_0033852.xml,0.0,0033852
-26.2,Rochelle Rehab & HCC,14501.0,rochelle_rehab_healthcare_cr_2013_0050856.xml,8201.0,0050856
-29.33,Meadowbrook Manor-Naperville,85944.0,meadowbrook_manor_naperville_2013_0041285.xml,50057.0,0041285
-0.0,GROUP HOME #6,4994.0,group_home_6_2013_0037721.xml,0.0,0037721
-24.23,Homestead House,5021.0,homestead_house_2013_0034173.xml,299.0,0034173
-31.92,Manorcare of Elgin,27130.0,manorcare_of_elgin_2013_0049692.xml,22799.0,0049692
-24.97,Manor Court of Peru,36894.0,manor_court_of_peru_2013_0047316.xml,26103.0,0047316
-0.0,Burnham House,5752.0,burnham_house_2013_0041327.xml,0.0,0041327
-0.0,Freeburg Terrace,5413.0,freeburg_terrace_2013_0036582.xml,0.0,0036582
-30.89,Alden Wentworth Rehab & HCC,78111.0,alden_wentworth_rehab_hcc_2013_0026435.xml,20192.0,0026435
-26.26,OAK HILL,44409.0,oak_hill_2013_0047019.xml,8449.0,0047019
-0.0,SULLIVAN HOUSE,5666.0,sullivan_house_2013_0034140.xml,0.0,0034140
-20.34,OAKVIEW HTS CONT C & REHAB CTR,28614.0,oakview_hts_cont_c_rehab_ctr_2013_0026328.xml,16292.0,0026328
-29.16,Applewood Rehabilitation Ctr,37313.0,applewood_rehabilitation_ctr_2013_0051359.xml,15910.0,0051359
-24.69,HAMMOND HOUSE,5393.0,hammond_house_2013_0030619.xml,432.0,0030619
-25.94,ST JOSEPH NURSING HOME,30211.0,st_joseph_nursing_home_2013_0005637.xml,15581.0,0005637
-0.0,Lawrence Place,5733.0,lawrence_place_2013_0034223.xml,0.0,0034223
-27.04,Buckingham Pavilion,36307.0,buckingham_pavilion_2013_0019836.xml,20931.0,0019836
-22.64,Eastview Terrace,14764.0,eastview_terrace_2013_0046060.xml,164.0,0046060
-32.06,Manorcare of Oak Lawn East,39506.0,manorcare_of_oak_lawn_east_2013_0049668.xml,56020.0,0049668
-0.0,Westlake Home,3976.0,westlake_home_2013_0036319.xml,0.0,0036319
-19.39,WILLOWS HEALTH CENTER,41924.0,willows_health_center_2013_0020792.xml,25821.0,0020792
-27.04,BELLE MANOR,5495.0,belle_manor_2013_0051961.xml,416.0,0051961
-30.58,Lexington of Streamwood,64648.0,lexington_of_streamwood_2013_0037002.xml,16446.0,0037002
-25.06,Prairie Rose Health Care Ctr,22285.0,prairie_rose_health_care_ctr_2013_0045245.xml,3738.0,0045245
-27.85,Holy Family Villa,34076.0,holy_family_villa_2013_0045393.xml,25021.0,0045393
-34.43,Rosewood Care Ctr Northbrook,46497.0,rosewood_care_ctr_northbrook_2013_0049783.xml,28574.0,0049783
-21.13,Taylorville Care Center,26703.0,taylorville_care_center_2013_0028787.xml,6638.0,0028787
-25.68,Villa Health Care East,32786.0,villa_health_care_east_2013_0037028.xml,9554.0,0037028
-0.0,Canterbury Place,5681.0,canterbury_place_2013_0039016.xml,0.0,0039016
-27.68,Glen Oaks Nrsg & Rehab Ctr,103136.0,glen_oaks_nrsg_rehab_ctr_2013_0022111.xml,53643.0,0022111
-22.12,Mattoon Hlthcare & Rehab Ctr,29045.0,mattoon_healthcare_rehab_ctr_2013_0051896.xml,8964.0,0051896
-24.26,Oregon Living & Rehab Center,25257.0,oregon_living_rehab_center_2013_0051607.xml,9371.0,0051607
-24.79,Prairie Village Hlthcare Ctr,22861.0,prairie_village_healthcare_ctr_2013_0042671.xml,5315.0,0042671
-25.55,Heritage Health-Gillespie,29792.0,heritage_health_gillespie_2013_0048892.xml,6694.0,0048892
-27.43,Riverside Foundation,32818.0,riverside_foundation_2013_0022988.xml,13062.0,0022988
-28.52,Forest Villa Nsg & Rehab Ctr,53780.0,forest_villa_nsg_rehab_ctr_2013_0045534.xml,33333.0,0045534
-23.7,Richland Manor,5538.0,richland_manor_2013_0036285.xml,170.0,0036285
-30.81,MCALLISTER NURSING AND REHAB,31017.0,mcallister_nursing_and_rehab_2013_0049502.xml,3487.0,0049502
-21.75,Cotillion Ridge Nursing Ctr,20964.0,cotillion_ridge_nursing_center_2013_0045138.xml,11555.0,0045138
-26.67,Heartland of Normal,34548.0,heartland_of_normal_2013_0049536.xml,13142.0,0049536
-31.87,Cedar Pointe Rehab & Nursing,102927.0,cedar_pointe_rehab_nursing_2013_0050955.xml,12224.0,0050955
-29.32,Illini Restorative Care,35988.0,illini_restorative_care_2013_0048264.xml,29879.0,0048264
-24.52,Park Lawn Home,5466.0,park_lawn_home_2013_0035527.xml,605.0,0035527
-23.23,Coulterville Care Center,25091.0,coulterville_care_center_2013_0042820.xml,4803.0,0042820
-31.31,Alden Terrace of McHenry Rehab,67500.0,alden_terrace_of_mchenry_rehab_2013_0040691.xml,33080.0,0040691
-29.82,Heartland of Peoria,47515.0,heartland_of_peoria_2013_0049379.xml,14798.0,0049379
-0.0,Davies Square,5767.0,davies_square_2013_0031955.xml,0.0,0031955
-15.24,Mulberry Manor,20548.0,mulberry_manor_2013_0025411.xml,2077.0,0025411
-27.11,Margaret Manor,40115.0,margaret_manor_2013_0011239.xml,2113.0,0011239
-19.46,Jonesboro Rehab & Hlth C Ctr,20258.0,jonesboro_rehab_health_c_ctr_2013_0047480.xml,6048.0,0047480
-26.15,Ashton Terrace,5814.0,ashton_terrace_2013_0036822.xml,88.0,0036822
-33.73,Manorcare of South Holland,60147.0,manorcare_of_south_holland_2013_0049361.xml,83235.0,0049361
-26.42,Snyder Village,33072.0,snyder_village_2013_0033647.xml,17504.0,0033647
-33.83,Manorcare of Westmont,42171.0,manorcare_of_westmont_2013_0049643.xml,42096.0,0049643
-30.0,The Grove of Evanston,31469.0,grove_of_evanston_2013_0050948.xml,20056.0,0050948
-23.2,Carrier Mills Nsg & Reh Ctr,33969.0,carrier_mills_nsg_rehab_ctr_2013_0025130.xml,10753.0,0025130
-0.0,Kanthak House,5036.0,kanthak_house_2013_0037747.xml,0.0,0037747
-27.04,TRAFFORD ESTATES,5302.0,trafford_estates_2013_0052001.xml,400.0,0052001
-32.86,Maple Crest Care Centre,28264.0,maple_crest_care_centre_2013_0051839.xml,7047.0,0051839
-29.47,Alden Estates of Skokie,9326.0,alden_estates_of_skokie_2013_0050146.xml,17898.0,0050146
-22.88,Robings Manor Rehab & HC,19039.0,robings_manor_rehab_hlth_cr_2013_0026716.xml,9638.0,0026716
-27.35,Piatt County Nursing Home,31489.0,piatt_county_nursing_home_2013_0020255.xml,17611.0,0020255
-20.43,North Church Nursing & Rehab,25925.0,north_church_nursing_rehab_2013_0051094.xml,12253.0,0051094
-18.33,TURNER MANOR,12229.0,turner_manor_2013_0037184.xml,11676.0, 0037184
-23.95,LaHarpe Davier Hlth Care Ctr,14726.0,laharpe_davier_health_care_ctr_2013_0050831.xml,1112.0,0050831
-33.0,Grove at the Lake Lvg & Reh,65750.0,grove_at_the_lake_lvg_rehab_2013_0051581.xml,30743.0,0051581
-22.45,DOUGLAS NURSING & REHAB CTR,14925.0,douglas_nursing_rehab_center_2013_0046250.xml,3189.0,0046250
-0.0,Hawthorne Terrace,4792.0,hawthorne_terrace_2013_0036871.xml,0.0,0036871
-24.41,Medina Nursing Center,22471.0,medina_nursing_center_2013_0011551.xml,12872.0,0011551
-30.5,Alden Lakeland Rehab & HCC,70962.0,alden_lakeland_rehab_hcc_2013_0017319.xml,52594.0,0017319
-24.65,Heritage Health-Mt Sterling,23468.0,heritage_health_mt_sterling_2013_0048041.xml,7461.0,0048041
-29.2,LAKE PARK CENTER,69056.0,lake_park_center_2013_0027052.xml,19230.0,0027052
-28.43,Mendota Lutheran Home,31726.0,mendota_lutheran_home_2013_0011593.xml,19132.0,0011593
-34.59,Lemont Nrsg & Rehab Center,53505.0,lemont_nrsg_rehab_center_2013_0046201.xml,27188.0,0046201
-0.0,Carolyn Smith House,5195.0,carolyn_smith_house_2013_0032128.xml,0.0,0032128
-35.42,EASTSIDE TERRACE,5201.0,eastside_terrace_2013_0046979.xml,388.0,0046979
-26.36,GOOD SAM SOC-GENESEO VILLAGE,20484.0,good_sam_soc_geneseo_village_2013_0004721.xml,13039.0,0004721
-18.08,TRINITY LIVING CENTER #1,5588.0,trinity_living_center_1_2013_0034900.xml,1417.0,0034900
-35.79,Alden Trails,5686.0,alden_trails_2013_0042051.xml,1550.0,0042051
-24.64,DANFORTH HOUSE,5207.0,danforth_house_2013_0030577.xml,432.0,0030577
-30.13,Morton Villa Hlth & Rehab Ctr,25967.0,morton_villa_hlth_rehab_ctr_2013_0052134.xml,7558.0,0052134
-29.74,Sheridan Shores Cr & Reh Ctr,65847.0,sheridan_shores_cr_rehab_ctr_2013_0040444.xml,14886.0,0040444
-24.22,Charleston Rehab & Health CC,21205.0,charleston_rehab_health_cc_2013_0050658.xml,5954.0,0050658
-29.99,Mayfield Care Center,50417.0,mayfield_care_center_2013_0029660.xml,12365.0,0029660
-30.37,Continental Nsg & Rehab Ctr,55399.0,continental_nsg_rehab_ctr_2013_0049932.xml,28090.0,0049932
-32.08,Lincoln Rehabilitation Ctr,41456.0,lincoln_rehabilitation_center_2013_0051482.xml,14852.0,0051482
-22.93,Neighbors Rehabilitation Ctr,30531.0,neighbors_rehabilitation_ctr_2013_0049973.xml,6046.0,0049973
-0.0,Briarbrook Place,4989.0,briarbrook_place_2013_0038232.xml,0.0,0038232
-22.68,Regency Nrsg Care Residence,28809.0,regency_nursing_care_residence_2013_0050138.xml,11569.0,0050138
-32.02,The Village at Victory Lakes,38054.0,village_at_victory_lakes_2013_0048256.xml,46690.0,0048256
-23.85,Casey Health Care Center,19840.0,casey_health_care_center_2013_0052308.xml,7467.0,0052308
-21.14,MONMOUTH NURSING HOME,16890.0,monmouth_nursing_home_2013_0027979.xml,3872.0,0027979
-34.51,Radford Green,20054.0,radford_green_2013_0051219.xml,28447.0,0051219
-31.43,DOBSON PLAZA,32579.0,dobson_plaza_2013_0051508.xml,22686.0,0051508
-21.66,Wabash Christian Retirement,48812.0,wabash_christian_retirement_2013_0020610.xml,18507.0,0020610
-31.29,Plum Grove Nrsg & Rehab Ctr,22906.0,plum_grove_nursing_rehab_ctr_2013_0050484.xml,9721.0,0050484
-22.66,Genesis Senior Living Aledo,15198.0,genesis_senior_living_aledo_2013_0052118.xml,2074.0,0052118
-28.69,CAMBRIDGE NURSING REHAB CTR,36019.0,cambridge_nursing_rehab_center_2013_0048959.xml,23846.0,0048959
-28.55,Pine Acres Rehab & Lvg Ctr,34553.0,pine_acres_rehab_living_ctr_2013_0047720.xml,19536.0,0047720
-30.23,Wheaton Care Center,42020.0,wheaton_care_center_2013_0039115.xml,10851.0,0039115
-23.62,Palm Terrace of Mattoon,51342.0,palm_terrace_of_mattoon_2013_0052274.xml,13561.0,0052274
-30.04,PETERSON PARK HLTH CARE CTR,62838.0,peterson_park_health_care_ctr_2013_0024463.xml,41093.0,0024463
-18.52,Prairie City Rehab & HC,8247.0,prairie_city_rehab_hc_2013_0050823.xml,4558.0,0050823
-32.52,Alden Orland Park Rehab & HCC,51865.0,alden_orland_park_rehab_hcc_2013_0042192.xml,38301.0,0042192
-34.31,Park Villa Nrsg & Rehab Ctr,25857.0,park_villa_nrsg_rehab_center_2013_0051417.xml,20704.0,0051417
-24.68,Walker Nursing Home,17923.0,walker_nursing_home_2013_0021428.xml,2324.0,0021428
-0.0,Piasa Manor,4549.0,piasa_manor_2013_0038422.xml,0.0,0038422
-25.23,Pershing Gardens HC Center,15172.0,pershing_gardens_hc_center_2013_0051854.xml,8071.0,0051854
-21.0,Auburn Nursing & Rehab Ctr,21901.0,auburn_nursing_rehab_center_2013_0047076.xml,9952.0,0047076
-36.29,PRESENCE ST BENEDICT N & R,44062.0,presence_saint_benedict_n_r_2013_0044784.xml,31153.0,0044784
-28.19,ASTA CARE CENTER OF ROCKFORD,34823.0,asta_care_center_of_rockford_2013_0041772.xml,11657.0,0041772
-23.93,Calhoun Nsg & Rehab Center,24084.0,calhoun_nsg_rehab_center_2013_0046888.xml,10396.0,0046888
-28.82,Heritage Health-Gibson City,21286.0,heritage_health_gibson_city_2013_0048116.xml,7742.0,0048116
-22.57,Searles Group Home,4325.0,searles_group_home_2013_0027326.xml,778.0,0027326
-0.0,New Way,5641.0,new_way_2013_0029397.xml,0.0,0029397
-32.69,Community Nrsg & Rehab Ctr,43666.0,community_nursing_rehab_ctr_2013_0044750.xml,25486.0,0044750
-0.0,Alpha Community House,5115.0,alpha_community_house_2013_0031161.xml,0.0,0031161
-23.66,Paris Health Care Center,29017.0,paris_health_care_center_2013_0046565.xml,9570.0,0046565
-27.96,Manorcare of Kankakee,33758.0,manorcare_of_kankakee_2013_0049429.xml,17857.0,0049429
-27.15,Balmoral Home,73335.0,balmoral_home_2013_0039966.xml,22784.0,0039966
-31.85,Grasmere Place,71419.0,grasmere_place_2013_0044271.xml,3898.0,0044271
-29.56,Hickory Nursing Pavilion,23735.0,hickory_nursing_pavilion_2013_0032029.xml,4523.0,0032029
-0.0,Patterson House,5224.0,patterson_house_2013_0037341.xml,0.0,0037341
-30.17,Aurora Rehab & Living Center,46731.0,aurora_rehab_living_center_2013_0040097.xml,20529.0,0040097
-30.95,Alden Village North,28627.0,alden_village_north_2013_0049122.xml,17211.0,0049122
-21.42,Vandalia Rehab & Hlth Care C,18598.0,vandalia_rehab_health_care_c_2013_0047589.xml,5217.0,0047589
-30.4,PARKSHORE ESTATES N & R,73091.0,parkshore_estates_nrsg_rehab_2013_0051375.xml,11304.0,0051375
-31.2,Bethesda Lutheran C-Plainfield,4853.0,bethesda_lutheran_c_plainfield_2013_0034967.xml,992.0,0034967
-30.07,Vip Manor,27921.0,vip_manor_2013_0048793.xml,14219.0,0048793
-27.23,Heritage Health-Carlinville,26969.0,heritage_health_carlinville_2013_0048850.xml,3532.0,0048850
-26.8,Hilltop Skilled Nsg & Rehab,21117.0,hilltop_skilled_nsg_rehab_2013_0051441.xml,8618.0,0051441
-0.0,Carthage Terrace,5726.0,carthage_terrace_2013_0035543.xml,0.0,0035543
-34.22,Gottlieb Memorial Hospital,10105.0,gottlieb_memorial_hospital_2013_8008518.xml,26979.0,8008518
-29.94,Rosewood Care Ctr of Joliet,31377.0,rosewood_care_center_of_joliet_2013_0049130.xml,26260.0,0049130
-32.22,BRIDGEVIEW HEALTH CARE CTR,45933.0,bridgeview_health_care_center_2013_0037358.xml,10074.0,0037358
-25.04,Champaign Urbana Nsg & Rehab,51640.0,champaign_urbana_nrsg_rehab_2013_0052217.xml,24012.0,0052217
-24.07,Fairview Haven,20692.0,fairview_haven_2013_0008524.xml,6594.0,0008524
-28.41,Crystal Pines Rehab & HCC,36839.0,crystal_pines_rehab_hcc_2013_0051052.xml,28044.0,0051052
-25.48,Hillside Rehab & Care Center,21359.0,hillside_rehab_care_center_2013_0050310.xml,16081.0,0050310
-0.0,South Haven Home,5635.0,south_haven_home_2013_0035253.xml,0.0,0035253
-0.0,RESERVOIR MANOR,5610.0,reservoir_manor_2013_0051060.xml,0.0,0051060
-30.02,Berkshire Nrsing & Rehab Ctr,59780.0,berkshire_nursing_rehab_ctr_2013_0049247.xml,17818.0,0049247
-25.48,Heritage Health-Springfield,55927.0,heritage_health_springfield_2013_0041699.xml,18250.0,0041699
-28.18,Fairview Nursing Plaza,72320.0,fairview_nursing_plaza_2013_0037655.xml,8273.0,0037655
-18.53,Ridgway Rehab & Nrsg Center,13670.0,ridgway_rehab_and_nrsg_center_2013_0051037.xml,2959.0,0051037
-22.03,Hillcrest Home,36138.0,hillcrest_home_2013_0001099.xml,15252.0,0001099
-24.88,University Nsg & Rehab Ctr,35461.0,university_nsg_rehab_center_2013_0046557.xml,7897.0,0046557
-27.48,TWIN RIVERS ESTATE,4826.0,twin_rivers_estate_2013_0036814.xml,1550.0,0036814
-35.36,PRESENCE MARYHAVEN N & R,39829.0,presence_maryhaven_nsg_rehab_2013_0044768.xml,40294.0,0044768
-25.63,Caseyville Nrsg & Rehab Ctr,43234.0,caseyville_nursing_rehab_ctr_2013_0039644.xml,3646.0,0039644
-30.75,Heritage Health-Mendota,25163.0,heritage_health_mendota_2013_0048108.xml,9762.0,0048108
-20.61,Stonebridge Senior Lvg Ctr,21097.0,stonebridge_senior_living_ctr_2013_0051888.xml,4446.0,0051888
-28.38,Heartland of Champaign,29544.0,heartland_of_champaign_2013_0049395.xml,14020.0,0049395
-34.53,River Bluff Nursing Home,73229.0,river_bluff_nursing_home_2013_0005611.xml,34068.0,0005611
-19.35,Roseville Rehab & Hlth Care,19987.0,roseville_rehab_health_care_2013_0050849.xml,2364.0,0050849
-24.08,Sheldon Health Care Center,9605.0,sheldon_health_care_center_2013_0046573.xml,1020.0,0046573
-23.98,Mclean County Nursing Home,49974.0,mcclean_county_nursing_home_2013_0018150.xml,16886.0,0018150
-24.85,Lasalle County Nursing Home,23342.0,lasalle_county_nursing_home_2013_0010637.xml,14791.0,0010637
-21.19,Sparta Terrace,4870.0,sparta_terrace_2013_0047787.xml,470.0,0047787
-21.19,Terrace on the Park,17214.0,terrace_on_the_park_2013_0051623.xml,7219.0,0051623
-20.93,CLEARBROOK EAST,5750.0,clearbrook_east_2013_0033027.xml,1599.0,0033027
-25.74,Blu Fountain Manor,18906.0,blu_fountain_manor_2013_0048801.xml,14071.0,0048801
-28.28,Ambassador Nsg & Rehab Ctr,54577.0,ambassador_nsg_rehab_center_2013_0049924.xml,28692.0,0049924
-32.21,Hammond Henry District Hsp,13052.0,hammond_henry_district_hsp_2013_8000192.xml,8518.0,8000192
-31.65,Symphony of Lincoln,32523.0,symphony_of_lincoln_2013_0051789.xml,13589.0,0051789
-28.63,Riviera Care Center,70011.0,riviera_care_center_2013_0049940.xml,10095.0,0049940
-25.22,BELLEVILLE HLTHCARE & REHAB,46038.0,belleville_healthcare_rehab_2013_0034678.xml,11451.0,0034678
-20.56,Care Center of Abingdon,23319.0,care_center_of_abingdon_2013_0047951.xml,5925.0,0047951
-0.0,Dearborn Court,5701.0,dearborn_court_2013_0043208.xml,0.0,0043208
-32.8,Aria Post Acute Care,63167.0,aria_post_acute_care_2013_0052019.xml,35343.0,0052019
-27.98,Ridgeview Rehab & Nsg Center,46316.0,ridgeview_rehab_nsg_center_2013_0048470.xml,10709.0,0048470
-34.02,Manorcare of Wilmette,24909.0,manorcare_of_wilmette_2013_0049650.xml,22533.0,0049650
-25.51,Renaissance Care Center,43453.0,renaissance_care_center_2013_0040295.xml,26398.0,0040295
-25.26,Red Bud Regional Care,37596.0,red_bud_regional_care_2013_0045476.xml,8647.0,0045476
-0.0,Country Club Terrace,5840.0,country_club_terrace_2013_0037267.xml,0.0,0037267
-18.65,POPE COUNTY CARE CENTER,10129.0,pope_county_care_center_2013_0019760.xml,4392.0,0019760
-30.6,St Joseph Village of Chicago,16877.0,st_joseph_village_of_chicago_2013_0046581.xml,18187.0,0046581
-28.15,East Bank Center LLC,12364.0,east_bank_center_llc_2013_0047209.xml,26720.0,0047209
-21.66,Golden Good Shepherd Home,15149.0,golden_good_shepherd_home_2013_0009175.xml,3961.0,0009175
-29.32,St Pauls House & Hlth Cr Ctr,37789.0,st_pauls_house_hlth_cr_ctr_2013_0005165.xml,27874.0,0005165
-32.37,Covenant HCC-Batavia,30374.0,covenant_hlth_cr_ctr_batavia_2013_0025577.xml,34602.0,0025577
-28.14,Heartland of Paxton,33476.0,heartland_of_paxton_2013_0049494.xml,15337.0,0049494
-27.86,Shelbyville Rehab & HCC,10793.0,shelbyville_rehab_hlth_c_ctr_2013_0047563.xml,128.0,0047563
-32.49,Clark Manor Cnv Center,79644.0,clark_manor_cnv_center_2013_0038596.xml,29667.0,0038596
-24.37,PAVILION OF WAUKEGAN,33462.0,pavilion_of_waukegan_2013_0049809.xml,33581.0,0049809
-35.68,JAMES R THOMPSON HOUSE,4712.0,james_r_thompson_house_2013_0046987.xml,386.0,0046987
-22.09,Willow Rose Rehab & Health,18272.0,willow_rose_rehab_health_2013_0050633.xml,6918.0,0050633
-21.38,St Vincents Home,25160.0,st_vincents_home_2013_0036723.xml,31282.0,0036723
-25.55,Sterling Pavilion,28601.0,sterling_pavilion_2013_0040436.xml,9491.0,0040436
-24.21,Highland Health Care Center,29790.0,highland_health_care_center_2013_0042853.xml,9708.0,0042853
-33.22,Manorcare of Hinsdale,61755.0,manorcare_of_hinsdale_2013_0049445.xml,65221.0,0049445
-0.0,Brauns Terrace,5757.0,brauns_terrace_2013_0035402.xml,0.0,0035402
-22.46,Flora Rehab & Hlth Care Ctr,25073.0,flora_rehab_health_care_ctr_2013_0052266.xml,12002.0,0052266
-28.82,Alden Village Hlth Facility,44001.0,alden_village_health_facility_2014_0038455.xml,30406.0,0038455
-30.3,Symphony of Joliet,61411.0,symphony_of_joliet_2013_0051797.xml,38406.0,0051797
-21.72,Friendship Home,12670.0,friendship_home_2013_0042846.xml,7628.0,0042846
-26.1,Greenwood Care,47137.0,greenwood_care_2013_0031971.xml,3175.0,0031971
-35.0,Marklund Sayers Home,5836.0,marklund_sayers_home_2013_0045575.xml,5908.0,0045575
-32.08,Manorcare of Northbrook,43778.0,manorcare_of_northbrook_2013_0049676.xml,45314.0,0049676
-27.61,Rosewood Care Ctr of Swansea,31281.0,rosewood_care_center_swansea_2013_0032680.xml,23233.0,0032680
-0.0,Lewis Terrace,5372.0,lewis_terrace_2013_0043265.xml,0.0,0043265
-32.3,Manorcare of Rolling Meadows,37621.0,manorcare_of_rolling_meadows_2013_0049569.xml,26957.0,0049569
-24.35,Helia Hlthcare of Carbondale,21406.0,helia_healthcare_of_carbondale_2013_0046920.xml,6153.0,0046920
-24.04,Winston Manor Cnv & Nursing,60978.0,winston_manor_cnv_nursing_2013_0035782.xml,19450.0,0035782
-0.0,Walsh Terrace,5233.0,walsh_terrace_2013_0031948.xml,0.0,0031948
-25.03,Rosewood Care Ctr Galesburg,34862.0,rosewood_care_center_galesburg_2013_0049791.xml,13113.0,0049791
-32.63,Manorcare of Libertyville,41768.0,manorcare_of_libertyville_2013_0049411.xml,38218.0,0049411
-28.77,The Grove of Lagrange Park,41126.0,grove_of_lagrange_park_2013_0050443.xml,18522.0,0050443
-27.69,Heritage Health-Hoopeston,26745.0,heritage_health_hoopeston_2013_0052027.xml,7585.0,0052027
-29.15,Grove Lincoln Park Lvg & Rehab,29911.0,grove_lincoln_park_lvg_rehab_2013_0050245.xml,28607.0,0050245
-30.93,Norwood Crossing,67379.0,norwood_crossing_2013_0012237.xml,45101.0,0012237
-26.42,Our Lady of Angels Ret Home,40316.0,our_lady_of_angels_ret_home_2013_0034975.xml,27842.0,0034975
-30.22,Misericordia Home North,116133.0,misericordia_home_north_2013_0029876.xml,48364.0,0029876
-26.27,CROSSROADS CARE CTR WOODSTOCK,34480.0,crossroads_care_ctr_woodstock_2013_0049999.xml,19550.0,0049999
-26.45,Helia Hlthcare of Champaign,26938.0,helia_healthcare_of_champaign_2013_0048181.xml,5522.0,0048181
-0.0,Beardstown Terrace,5759.0,beardstown_terrace_2013_0035766.xml,0.0,0035766
-19.18,Cobden Rehab and Nrsg Center,20611.0,cobden_rehab_and_nrsg_center_2013_0051003.xml,3278.0,0051003
-27.07,Country Health,31050.0,country_health_2013_0007880.xml,16642.0,0007880
-23.68,ALHAMBRA CARE CENTER,20681.0,alhambra_care_center_2013_0045609.xml,3482.0,0045609
-33.32,PRESENCE VILLA FRANCISCAN,44404.0,presence_villa_franciscan_2013_0042861.xml,56110.0,0042861
-30.19,GENEVA NURSING & REHAB CTR,31519.0,geneva_nursing_rehab_center_2013_0051540.xml,22961.0,0051540
-25.38,ASTA CARE CTR OF BLOOMINGTON,35965.0,asta_care_center_of_bloomingtn_2013_0042283.xml,7708.0,0042283
-22.57,Milestone-Elmwood East,4265.0,milestone_elmwood_east_2013_0027334.xml,778.0,0027334
-29.22,Gibson Community Hsp Annex,8693.0,gibson_community_hsp_annex_2013_0005868.xml,8453.0,0005868
-26.01,Columbus Park N & Rehab Ctr,67563.0,columbus_park_n_rehab_center_2013_2013_0037960.xml,15769.0,0037960
-21.65,Clinton Manor Living Center,31569.0,clinton_manor_living_center_2013_0033159.xml,3802.0,0033159
-35.51,LINCOLN HOUSE,4634.0,lincoln_house_2013_0046995.xml,388.0,0046995
-24.42,Nokomis Rehab & Hlth Care C,15252.0,nokomis_rehab_health_care_c_2013_0050641.xml,3147.0,0050641
-31.15,Albany Care,124782.0,albany_care_2013_2013_0037762.xml,1920.0,0037762
-0.0,HARTRICK HOUSE,5326.0,hartrick_house_2013_0034751.xml,0.0,0034751
-25.63,Kilker-Pine Acres Group Home,2545.0,kilker_pine_acres_group_home_2013_0026385.xml,117.0,0026385
-40.01,BELMONT NURSING HOME,18113.0,belmont_nursing_home_2013_0024968.xml,1056.0,0024968
-30.08,Park Ridge Care Center,15581.0,park_ridge_care_center_2013_0039255.xml,6668.0,0039255
-22.0,Manor Court of Maryville,40166.0,manor_court_of_maryville_2013_0050427.xml,8754.0,0050427
-22.64,JENNINGS TERRACE,45889.0,jennings_terrace_2013_0010371.xml,4877.0,0010371
-22.35,Toulon Rehab & Hlth Care Ctr,31467.0,toulon_rehab_health_care_ctr_2013_0052258.xml,3093.0,0052258
-28.84,Forest View Rehab & Nrsg Ctr,31328.0,forest_view_rehab_nrsg_ctr_2013_0051516.xml,14129.0,0051516
-27.78,Tibstra House,5657.0,tibstra_house_2013_0035196.xml,1140.0,0035196
-32.27,Lexington of Schaumburg,66124.0,lexington_of_schaumburg_2013_0036095.xml,37130.0,0036095
-22.61,Rosewood Care Ctr of Moline,24934.0,rosewood_care_center_of_moline_2013_0049304.xml,16544.0,0049304
-26.87,Community Care Center,62486.0,community_care_center_2013_0051722.xml,20930.0,0051722
-30.78,Tower Hill Healthcare Center,67466.0,tower_hill_healthcare_center_2013_0051557.xml,37304.0,0051557
-34.83,Highland Park Nrsg & Rehab,30962.0,highland_park_nursing_rehab_2013_0048330.xml,14763.0,0048330
-28.56,Marklund Richard Home,5793.0,marklund_richard_home_2013_0047266.xml,6896.0,0047266
-0.0,Carlinville Estates,5809.0,carlinville_estates_2013_0039362.xml,0.0,0039362
-27.92,Regency Rehabilitation Ctr,85758.0,regency_rehabilitation_center_2013_0049841.xml,43527.0,0049841
-28.88,CHALET LIVING & REHAB CTR,66180.0,chalet_living_rehab_ctr_2013_0051615.xml,43754.0,0051615
-26.5,Maple Lawn Health Center,31686.0,maple_lawn_health_center_2013_0042424.xml,11817.0,0042424
-18.92,Imboden Creek Living Center,29631.0,imboden_creek_living_center_2013_0036574.xml,4126.0,0036574
-24.28,Hawthorne Inn of Danville,42073.0,hawthorne_inn_of_danville_2013_0046367.xml,17412.0,0046367
-0.0,"Autumn Leaves, Inc. d/b/a/ Fourty-Fourth Street Place",5402.0,beacon_street_place_2013_0038729.xml,0.0,0036764
-41.48,Symphony of Decatur,62517.0,symphony_of_decatur_2013_0051771.xml,6410.0,0051771
-23.33,Carlyle Healthcare Center,32736.0,carlyle_healthcare_center_2013_0010660.xml,17561.0,0010660
-0.0,Alvin Eades Center,5761.0,alvin_eades_center_2013_0040220.xml,0.0,0040220
-29.68,Decatur Rehab & Hlth Care Ct,14864.0,decatur_rehab_health_care_ct_2013_0047449.xml,2534.0,0047449
-20.18,Rivershores Htlh & Rehab Ctr,26756.0,rivershores_htlh_rehab_ctr_2013_0052175.xml,12527.0,0052175
-19.83,The United Methodist Village,23889.0,united_methodist_village_2013_0014506.xml,8484.0,0014506
-23.0,Shelbyville Manor,26900.0,shelbyville_manor_2013_0047878.xml,7752.0,0047878
-720.0,Bridgeway Chr Vlg Rehab & SNF,56139.0,bridgeway_chr_vlg_rehab_snf_2013_0048819.xml,32.02,0048819
-28.74,The Renaissance at So Shore,80782.0,renaissance_at_south_shore_2013_0042085.xml,48918.0,0042085
-0.0,GROUP HOME #1,5596.0,group_home_1_2013_0036947.xml,0.0,0036947
-26.36,North Kickapoo,5766.0,north_kickapoo_2013_0047290.xml,680.0,0047290
-27.4,AMBERWOOD CARE CENTRE,42639.0,amberwood_care_centre_2013_0052191.xml,12212.0,0052191
-24.73,Alton Rehab & Nursing Center,36350.0,alton_rehab_and_nursing_center_2013_0051334.xml,6490.0,0051334
-0.0,Taylorville Terrace,5682.0,taylorville_terrace_2013_0047795.xml,0.0,0047795
-24.48,Crestwood Terrace Nrsg Ctr,41932.0,crestwood_terrace_nursing_ctr_2013_0051714.xml,3529.0,0051714
-25.7,VERMILION MANOR NURSING HOME,34169.0,vermilion_manor_nursing_home_2013_0000786.xml,24087.0,0000786
-23.15,Exceptional Cr & Training Ctr,29857.0,exceptional_cr_training_ctr_2013_0035477.xml,6439.0,0035477
-26.71,Meadows Mennonite Home,,meadows_mennonite_home_2013_0011544.xml,11508.0,0011544
-26.08,Heartland of Moline,46411.0,heartland_of_moline_2013_0049403.xml,17552.0,0049403
-25.48,First Street Group Home,5660.0,first_street_group_home_2013_0041152.xml,193.0,0041152
-3.0,FAYETTE COUNTY HOSPITAL LTC,20849.0,fayette_county_hospital_ltc_2013_8000846.xml,10202.0,8000846
-30.72,ASTA CARE CENTER OF ELGIN,30107.0,asta_care_center_of_elgin_2013_0041608.xml,7775.0,0041608
-0.0,Matteson Court,5464.0,matteson_court_2013_0043281.xml,0.0,0043281
-33.37,Central Plaza Residential H,73867.0,central_plaza_residential_h_2013_0017038.xml,6492.0,0017038
-34.11,St John Hospital LTC Unit,11058.0,st_john_hospital_ltc_unit_2013_8000978.xml,41602.0,8000978
-27.73,Swann Special Care Center,43224.0,swann_special_care_center_2013_0035485.xml,33622.0,0035485
-25.02,Glenwood Healthcare & Rehab,50518.0,glenwood_healthcare_rehab_2013_0032839.xml,19252.0,0032839
-0.0,Trulson House,5744.0,trulson_house_2013_0032219.xml,0.0,0032219
-35.45,Park View Rehab Center,41890.0,park_view_rehab_center_2013_0052092.xml,8421.0,0052092
-18.52,Hamilton Mem Nsg & Rehab Ctr,17518.0,hamilton_mem_nsg_rehab_ctr_2013_0051292.xml,9050.0,0051292
-20.0,RESTHAVE HOME-WHITESIDE CO,23294.0,resthave_home_whiteside_county_2013_0005785.xml,5405.0,0005785
-26.48,Heartland of Riverview,21875.0,heartland_of_riverview_2013_0049486.xml,16685.0,0049486
-27.04,MEADOWBROOK ESTATES,5455.0,meadowbrook_estates_2013_0051979.xml,416.0,0051979
-30.57,Alden of Waterford,27333.0,alden_of_waterford_2013_0042036.xml,35704.0,0042036
-22.35,Fireside House of Centralia,28048.0,fireside_house_of_centralia_2013_0051755.xml,9205.0,0051755
-35.16,West Suburban Nsg & Reh Ctr,67349.0,west_suburban_nsg_rehab_ctr_2013_0049759.xml,32914.0,0049759
-20.67,Seminary Manor,35536.0,seminary_manor_2013_0047233.xml,8628.0,0047233
-24.99,Marigold Rehab & HCC,49475.0,marigold_rehab_hcc_2013_0049148.xml,7580.0,0049148
-23.74,Litchfield Care Center,22443.0,litchfield_care_center_2013_0051102.xml,3289.0,0051102
-28.5,WESLEY PLACE,22267.0,wesley_place_2013_0005439.xml,29219.0,0005439
-29.83,Claremont Rehab & Living Ctr,59374.0,claremont_rehab_living_ctr_2013_0047043.xml,34437.0,0047043
-27.02,Glenshire Nrsg & Rehab Ctre,72558.0,glenshire_nursing_rehab_ctre_2013_0039321.xml,54029.0,0039321
-32.99,Concord Nursing & Rehab Ctr,42094.0,concord_nursing_rehab_center_2013_0050500.xml,13399.0,0050500
-32.84,Central Baptist Village,44174.0,central_baptist_village_2013_0007435.xml,25659.0,0007435
-20.25,Hitz Memorial Home,16777.0,hitz_memorial_home_2013_0032979.xml,4397.0,0032979
-33.32,Westchester Hlth & Rehab Ctr,42242.0,westchester_health_rehab_ctr_2013_0047373.xml,8199.0,0047373
-27.8,Meridian Village Care Center,23694.0,meridian_village_care_center_2013_0045807.xml,14409.0,0045807
-31.56,Belhaven Nursing & Rehab Ctr,72940.0,belhaven_nursing_rehab_ctr_2013_0048215.xml,14962.0,0048215
-31.88,Friendship Vlg Schaumburg,78961.0,friendship_village_schaumburg_2013_0023218.xml,74493.0,0023218
-25.7,Galena Stauss Nursing Home,18609.0,galena_stauss_nursing_home_2013_0049718.xml,6347.0,0049718
-0.0,Rose House,5765.0,rose_house_2013_0033928.xml,0.0,0033928
-26.52,Heritage Health-Staunton,25254.0,heritage_health_staunton_2013_0048876.xml,7270.0,0048876
-25.65,PRESENCE ST JOSEPH CENTER,37082.0,presence_st_joseph_center_2013_0041871.xml,17306.0,0041871
-0.0,Hallam Terrace,5453.0,hallam_terrace_2013_0033902.xml,0.0,0033902
-22.9,Good Samaritan-Flanagan,17066.0,good_samaritan_flanagan_2013_0050567.xml,3865.0,0050567
-22.86,BARRY COMMUNITY CARE CENTER,18973.0,barry_community_care_center_2013_0017590.xml,6856.0,0017590
-25.73,The Elms,34562.0,elms_2013_0021568.xml,12233.0,0021568
-0.0,Stouffer Terrace,5175.0,stouffer_terrace_2013_0033951.xml,0.0,0033951
-0.0,Maple Terrace,5811.0,maple_terrace_2013_0035295.xml,0.0,0035295
-29.81,Lake Shore Hlthcare & Rehab,89678.0,lake_shore_healthcare_rehab_2013_0050765.xml,31548.0,0050765
-23.22,Heartland Christian Village,22699.0,heartland_christian_village_2013_0048751.xml,10930.0,0048751
-26.38,Cahokia Nursing & Rehab Ctr,43413.0,cahokia_nursing_rehab_center_2013_0039636.xml,4446.0,0039636
-25.78,Pleasant View Rehab & HCC,19642.0,pleasant_view_rehab_hcc_2013_0050203.xml,4690.0,0050203
-18.55,Terra Estates,4419.0,terra_estates_2013_0040352.xml,466.0,0040352
-24.8,The Lutheran Home,28143.0,lutheran_home_2013_0019109.xml,8535.0,0019109
-28.88,California Gardens N & R Ctr,101163.0,california_gardens_n_rehab_c_2013_0040022.xml,33269.0,0040022
-32.18,NAZARETHVILLE,27287.0,nazarethville_2013_0021790.xml,19691.0,0021790
-29.45,Colonial Hlthcre & Rehab Ctr,25116.0,colonial_hlthcare_rehab_ctr_2013_0052167.xml,15661.0,0052167
-27.08,Winfield Woods Hlthcare Ctr,48283.0,winfield_woods_healthcare_ctr_2013_0052100.xml,11694.0,0052100
-28.06,Glencrest Hlthcr & Rehab Ctr,95203.0,glencrest_hlthcr_rehab_ctre_2013_0028753.xml,70501.0,0028753
-28.93,Heritage Health-El Paso,18136.0,heritage_health_el_paso_2013_0048124.xml,8747.0,0048124
-28.35,Rosewood Care Ctr of Rockford,28154.0,rosewood_care_ctr_of_rockford_2013_0049270.xml,28613.0,0049270
-24.64,KNIGHT HOUSE,5289.0,knight_house_2013_0030601.xml,432.0,0030601
-23.09,St Marys Square Living Ctr,67116.0,st_marys_square_living_center_2013_0034066.xml,3458.0,0034066
-24.85,Prairie Crossing Lvg & Rehab,21195.0,prairie_crossing_lvg_rehab_2013_0052126.xml,7561.0,0052126
-20.93,Galesburg Terrace,18180.0,galesburg_terrace_2013_0042317.xml,10484.0,0042317
-25.48,Heritage Health-Beardstown,26069.0,heritage_health_beardstown_2013_0048843.xml,9702.0,0048843
-35.42,SOUTHSIDE MANOR,4791.0,southside_manor_2013_0046961.xml,386.0,0046961
-31.68,Alden Northmoor Rehab & HCC,64128.0,alden_northmoor_rehab_hcc_2013_0041277.xml,29616.0,0041277
-0.0,Tanner Place,5786.0,tanner_place_2013_0035139.xml,0.0,0035139
-23.58,NORTH ADAMS HOME,22014.0,north_adams_home_2013_0020925.xml,12853.0,0020925
-28.44,ASTA CARE CENTER OF PONTIAC,29707.0,asta_care_center_of_pontiac_2013_0043968.xml,11089.0,0043968
-35.55,Newman Rehab & Hlth Care Ctr,17201.0,newman_rehab_health_care_ctr_2013_0047506.xml,1949.0,0047506
-26.72,Chicago Ridge Nursing Center,79695.0,chicago_ridge_nursing_center_2013_0045815.xml,31659.0,0045815
-,Arlington Rehab & Living Ctr,58838.0,arlington_rehab_living_ctr_2013_0040899.xml,922996.0,0040899
-18.55,United Methodist Vlg N Cam,23127.0,united_methodist_village_n_cam_2013_0046656.xml,10968.0,0046656
-23.86,Heartland of Galesburg,25442.0,heartland_of_galesburg_2013_0049460.xml,9842.0,0049460
-31.44,Rosewood Care Ctr of Elgin,40494.0,rosewood_care_ctr_of_elgin_2013_0049346.xml,35659.0,0049346
-25.86,Heritage Health-Minonk,17139.0,heritage_health_minonk_2013_0048058.xml,9643.0,0048058
-24.49,Oakton Pavillion,48421.0,oakton_pavillion_2013_0025056.xml,24754.0,0025056
-22.6,Meadow Manor Skl Nur & Rehab,23967.0,meadow_manor_skld_nur_rehab_2013_0051425.xml,6356.0,0051425
-28.69,PRESENCE COR MARIAE CENTER,48180.0,presence_cor_mariae_center_2013_0041046.xml,22342.0,0041046
-20.39,Marion Rehab and Nrsg Ctr,28633.0,marion_rehab_and_nrsg_ctr_2013_0050997.xml,5098.0,0050997
-33.2,Fair Oaks Rehab & HCC,25886.0,fair_oaks_rehab_hcc_2013_0050963.xml,9116.0,0050963
-30.48,Clayton Residential Home,73833.0,clayton_residential_home_2013_0016634.xml,3153.0,0016634
-41.48,Mercy Harvard Hospital Care,6957.0,mercy_harvard_hospital_care_2013_8049116.xml,77049.0,8049116
-24.12,Rock Island Nsg & Rehab Ctr,44453.0,rock_island_nsg_rehab_ctr_2013_0049866.xml,10095.0,0049866
-28.14,Oakbrook Healthcare Centre,42646.0,oakbrook_healthcare_centre_2013_0034694.xml,55452.0,0034694
-0.0,Willow House,5709.0,willow_house_2013_0041335.xml,0.0,0041335
-29.39,Sacred Heart Home ,51900.0,sacred_heart_home_2013_0013334.xml,9248.0,0013334
-29.23,McAuley Residence,43072.0,mcauley_residence_2013_0045906.xml,40923.0,0045906
-32.54,Alden North Shore Rehab & HCC,22452.0,alden_north_shore_rehab_hcc_2013_0042028.xml,32586.0,0042028
-31.87,Alden Estates of Barrington,41955.0,alden_estates_of_barrington_2013_0046524.xml,51212.0,0046524
-0.0,Hammett House,5622.0,hammett_house_2013_0033845.xml,0.0,0033845
-20.41,Herrin Rehab and Nrsg Center,9378.0,herrin_rehab_and_nrsg_center_2013_0051045.xml,1719.0,0051045
-0.0,Holland Terrace,5793.0,holland_terrace_2013_0043240.xml,0.0,0043240
-28.41,Rosewood Care Ctr-Edwardsville,27560.0,rosewood_care_ctr_edwardsville_2013_0049031.xml,22770.0,0049031
-29.43,Marklund Haverkampf Home,5772.0,marklund_haverkampf_home_2013_0045542.xml,6481.0,0045542
-0.0,Highview Terrace,5558.0,highview_terrace_2013_0032003.xml,0.0,0032003
-17.03,MEADOWOOD,16493.0,meadowood_2013_0019356.xml,3897.0,0019356
-25.76,Rosewood Care Ctr E Peoria,33902.0,rosewood_care_ctr_east_peoria_2013_0049338.xml,15574.0,0049338
-31.92,Rosewood Care Ctr Inverness,35300.0,rosewood_care_ctr_inverness_2013_0049023.xml,34654.0,0049023
-22.91,Twin Lakes Rehab & Hlth Care,13194.0,twin_lakes_rehab_health_care_2013_0048223.xml,7213.0,0048223
-27.65,,26892.0,alpine_fireside_health_center_2013_0018275.xml,12725.0,
-34.99,Covenant HCC-Northbrook,27727.0,covenant_hlth_cr_ctr_northbrk_2013_0033779.xml,27765.0,0033779
-0.0,Raintree Terrace,4471.0,raintree_terrace_2013_0042465.xml,0.0,0042465
-0.0,Garden Center Services,5044.0,garden_center_services_2013_0036103.xml,0.0,0036103
-22.8,Thomas Lombard House,5566.0,thomas_lombard_house_2013_0051474.xml,421.0,0051474
-20.09,Rest Haven Manor,10844.0,rest_haven_manor_2013__0013052.xml,8724.0,0013052
-27.24,FREEBURG CARE CENTER,33549.0,freeburg_care_center_2013_0025098.xml,3213.0,0025098
-0.0,Eagle Court,5417.0,eagle_court_2013_0043224.xml,0.0,0043224
-29.23,Lexington of LaGrange,35051.0,lexington_of_lagrange_2013_0038083.xml,22948.0,0038083
-23.02,Royal Oaks Care Center,49595.0,royal_oaks_care_center_2013_0046243.xml,8648.0,0046243
-31.38,PRESENCE MCAULEY MANOR,23085.0,presence_mcauley_manor_2013_0042879.xml,30020.0,0042879
-36.76,Wynscape,41913.0,wynscape_2013_0050674.xml,59117.0,0050674
-0.0,Smith Village,33932.0,smith_village_2013_0015032.xml,0.0,0015032
-28.68,Heights Hlthcare & Rehab Ctr,32256.0,heights_hlthcare_rehab_ctr_2013_0052159.xml,10924.0,0052159
-23.82,Prairie View Cr Ctr-Lewistwn,19322.0,prairie_view_cr_ctr_lewistown_2013_0040303.xml,9537.0,0040303
-22.8,Shawnee Christian Nursing Ctr,42071.0,shawnee_christian_nursing_ctr_2013_0048744.xml,15396.0,0048744
-0.0,Seborg Terrace,5673.0,seborg_terrace_2013_0033936.xml,0.0,0033936
-20.42,DOCTORS NURSING & REHAB CTR,28827.0,doctors_nursing_rehab_center_2013_0046235.xml,11905.0,0046235
-28.02,Alden Princeton Rehab & HCC,62067.0,alden_princeton_rehab_hcc_2013_0036244.xml,14739.0,0036244
-0.0,Marigold Estates,5559.0,marigold_estates_2013_0039370.xml,0.0,0039370
-0.0,Countryview Terrace,3350.0,countryview_terrace_2013_0046078.xml,0.0,0046078
-30.57,Alden Des Plaines Rehab & HC,27757.0,alden_des_plaines_rehab_hc_2013_0042010.xml,26380.0,0042010
-33.29,Manorcare of Oak Lawn West,52759.0,manorcare_of_oak_lawn_west_2013_0049551.xml,55114.0,0049551
-23.37,Decatur Manor Healthcare,46060.0,decatur_manor_healthcare_2013_0049262.xml,1834.0,0049262
-0.0,HUNTER HOUSE,5322.0,hunter_house_2013_0034744.xml,0.0,0034744
-0.0,Olson Terrace,5658.0,olson_terrace_2013_0033910.xml,0.0,0033910
-21.25,Bradley Royale,31192.0,bradley_royale_2013_0028712.xml,17692.0,0028712
-27.9,Courtyard Healthcare Center,44646.0,courtyard_healthcare_center_2013_0050807.xml,22943.0,0050807
-32.64,Alden of Old Town West,5740.0,alden_of_old_town_west_2013_0042077.xml,4230.0,0042077
-29.09,Tri-State Nrsg & Rehab Ctr,27698.0,tri_state_nursing_rehab_ctr_2013_0041186.xml,11797.0,0041186
-32.22,The Imperial Grove Pavilion,82395.0,imperial_grove_pavilion_2013_0037754.xml,63381.0,0037754
-27.28,Highland Oaks,16845.0,highland_oaks_2013_0029892.xml,18281.0,0029892
-26.59,Heritage Health-LaSalle,30091.0,heritage_health_lasalle_2013_0051276.xml,8660.0,0051276
-29.47,The Wealshire,41150.0,wealshire_2013_0040956.xml,41791.0,0040956
-29.4,Columbia Rehab & Nrsg Center,38765.0,columbia_rehab_and_nrsg_center_2013_0051381.xml,6785.0,0051381
-27.8,Heritage Health-Chillicothe,33241.0,heritage_health_chillicothe_2013_0048868.xml,11027.0,0048868
-27.48,Hillsboro Rehab & HCC,35732.0,hillsboro_rehab_hcc_2013_0049221.xml,9336.0,0049221
-3.0,HILLVIEW HEALTH CARE CENTER,15256.0,hillview_health_care_center_2013_0045302.xml,1646.0,0045302
-19.82,Frankfort HC & Rehab Ctr,16010.0,frankfort_hlthcare_rehab_ctr_2013_0046268.xml,5140.0,0046268
-25.81,Timber Point Healthcare Ctr,20473.0,timber_point_healthcare_center_2013_0043158.xml,11742.0,0043158
-28.49,WOODSIDE EXTENDED CARE,39154.0,woodside_extended_care_2013_0043406.xml,6514.0,0043406
-17.53,Ridgeview Care Center,17439.0,ridgeview_care_center_2013_0051912.xml,4377.0,0051912
-0.0,Countryview Home,5308.0,countryview_home_2013_0035493.xml,0.0,0035493
-33.2,South Elgin Rehab & HCC,26155.0,south_elgin_rehab_hlth_c_ctr_2013_0047621.xml,16803.0,0047621
-24.64,DAVIS HOUSE,5217.0,davis_house_2013_0030585.xml,432.0,0030585
-23.27,Springfield Care Center,22620.0,springfield_care_center_2013_0051086.xml,4601.0,0051086
-27.79,RIVER OAKS HC & REHAB CTR,96186.0,river_oaks_hlthcare_rehab_ctr_2013_0052043.xml,19588.0,0052043
-0.0,Benjamin Green Field Residence,5227.0,benjamin_green_field_residence_2013_0041582_.xml,0.0,0041582
-42.62,WATERFRONT TERRACE,37754.0,waterfront_terrace_2013_0028076.xml,4137.0,0028076
-38.26,Alden Springs,5544.0,alden_springs_2013_0047191.xml,1550.0,0047191
-0.0,Bellefontaine Place,5366.0,bellefontaine_place_2013_0033993.xml,0.0,0033993
-27.33,McKinley Court,48777.0,mckinley_court_2013_0051821.xml,5912.0,0051821
-0.0,VICTORIAN MANOR,5451.0,victorian_manor_2013_0040766.xml,0.0,0040766
-22.56,Milestone-Elmwood Heights,30436.0,milestone_elmwood_heights_2013_0024943.xml,4111.0,0024943
-31.0,Lexington of Chicago Ridge,63361.0,lexington_of_chicago_ridge_2013_0042739.xml,20179.0,0042739
-20.05,Daystar Nursing & Rehab Ctr,16947.0,daystar_nursing_rehab_center_2013_0052316.xml,8792.0,0052316
-0.0,OUR PLACE,5457.0,our_place_2013_0050211.xml,0.0,0050211
-3.0,BJORKLUND HOUSE,5840.0,bjorklund_house_2013_0039149.xml,1352.0,0039149
+31.38,BRIA OF PALOS HILLS,47306.0,bria_of_palos_hills_2014_0051136.xml,12680.0,0051136
+27.48,TWIN RIVERS ESTATE,4311.0,twin_rivers_estate_2014_0036814.xml,1550.0,0036814
+30.77,WINDMILL NURSING PAVILION,40579.0,windmill_nursing_pavilion_2014_0031823.xml,5637.0,0031823
+28.52,Heritage Health-Beardstown,23468.0,heritage_health_beardstown_2014_0048843.xml,8244.0,0048843
+32.36,Illinois Knights Templar Home,19989.0,illinois_knights_templar_home_2014_0010058.xml,7846.0,0010058
+32.45,Sheridan Shores Cr & Reh Ctr,65496.0,sheridan_shores_cr_rehab_ctr_2014_0040444.xml,15281.0,0040444
+28.53,Tibstra House,5493.0,tibstra_house_2014_0035196.xml,1099.0,0035196
+31.78,CLEARBROOK CENTER,32317.0,clearbrook_center_2014_0030023.xml,17775.0,0030023
+,Lutheran Care Center,26522.0,lutheran_care_center_2014_0025023.xml,8066.0,0025023
+29.27,Lexington of LaGrange,37224.0,lexington_of_lagrange_2014_0038083.xml,28069.0,0038083
+29.77,Mid America Care Center,97261.0,mid_america_care_center_2014_0047035.xml,41093.0,0047035
+23.02,Jacksonville Skld N & Rehab,30149.0,jacksonville_skld_nur_rehab_2014_0051433.xml,7409.0,0051433
+27.63,Rosewood Care Ctr of Rckford,30610.0,rosewood_care_ctr_of_rockford_2014_0049270.xml,31086.0,0049270
+31.91,The Tillers Nsg & Rehab Ctr,32580.0,tillers_nsg_rehab_ctr_2014_0018002.xml,56858.0,0018002
+26.47,Flanagan Rehab & HCC,15264.0,flanagan_rehabilitation_hcc_2014_0050591.xml,5965.0,0050591
+24.84,Heritage Health-Gillespie,28395.0,heritage_health_gillespie-2014_0048892.xml,6762.0,0048892
+34.02,WATERFRONT TERRACE,35406.0,waterfront_terrace_2014_0028076.xml,7132.0,0028076
+32.08,Manorcare of Hinsdale,59701.0,manorcare_of_hinsdale_2014_0049445.xml,70612.0,0049445
+28.76,WESLEY PLACE,26361.0,wesley_place_2014_0005439.xml,35232.0,0005439
+25.95,Heritage Health-Springfield,60043.0,heritage_health_springfield_2014_0041699.xml,20112.0,0041699
+26.42,Watseka Rehab & Hlth Cre Ctr,35029.0,watseka_rehab_hlth_care_ctr_2014_0046847.xml,10247.0,0046847
+28.96,Apostolic Christian Home,,apostolic_christian_home_2014_0021493.xml,12232.0,0021493
+0.0,Dearborn Court,5696.0,dearborn_court_2014_0043208.xml,0.0,0043208
+29.01,West Chicago Terrace NH,42450.0,west_chicago_terrace_n_h_2014_0051672.xml,3359.0,0051672
+0.0,GROUP HOME #1,5493.0,group_home_1_2014_0036947.xml,0.0,0036947
+26.75,WILLOWS HEALTH CENTER,43140.0,willows_health_center_2014_0020792.xml,19099.0,0020792
+0.0,SHORE Homes East,4240.0,shore_homes_east_2014_0028720.xml,0.0,0028720
+29.12,Country Health,30549.0,country_health_2014_0007880.xml,13180.0,0007880
+26.28,ST PAULS HOME,39152.0,st_pauls_home_2014_0013920.xml,7518.0,0013920
+23.45,TRANSITIONS NSG & REHAB CTR,9249.0,transitions_nsg_and_rehab_ctr_2014_0035642.xml,3103.0,0035642
+0.0,Edwardsville Terrace,5259.0,edwardsville_terrace_2014_0038844.xml,0.0,0038844
+21.98,Cotillion Ridge Nursing Ctr,21939.0,cotillion_ridge_nursing_center_2014_0045138.xml,11462.0,0045138
+28.68,DeKalb County Rehab & Nrsing,62533.0,dekalb_county_rehab_nursing_2014_0044321.xml,44954.0,0044321
+34.11,Gibson Community Hsp Annex,8600.0,gibson_community_hsp_annex_2014_0005868.xml,7807.0,0005868
+28.69,Sharon Health Care Elms,28698.0,sharon_health_care_elms_2014_0032789.xml,11078.0,0032789
+27.46,AMBERWOOD CARE CENTRE,42241.0,amberwood_care_centre_2014_0052191.xml,14609.0,0052191
+33.78,Manorcare of South Holland,61318.0,manorcare_of_south_holland_2014_0049361.xml,69227.0,0049361
+16.92,Stonebridge Senior Lvg Ctr,21235.0,stonebridge_senior_living_ctr_2014_0051888.xml,6332.0,0051888
+29.65,McAuley Residence,43509.0,mcauley_residence_2014_0045906.xml,39569.0,0045906
+27.85,ST MARTHA MANOR,45382.0,st_martha_manor_2014_0023770.xml,6980.0,0023770
+24.26,Hawthorne Inn of Danville,44312.0,hawthorne_inn_of_danville_2014_0046367.xml,19011.0,0046367
+25.43,First Street Group Home,5591.0,first_street_group_home_2014_0041152.xml,193.0,0041152
+23.19,Pleasant Meadows Senior Lvg,35806.0,pleasant_meadows_senior_living_2014_0052555.xml,15773.0,0052555
+25.87,Illini Restorative Care,38164.0,illini_restorative_care_2014_0048264.xml,34437.0,0048264
+25.3,The Waterford Nrsing & Rehab,45181.0,waterford_nursing_rehab_2014_0038612.xml,17586.0,0038612
+21.32,Seminary Manor,35621.0,seminary_manor_2014_0047233.xml,8351.0,0047233
+33.46,PRESENCE VILLA FRANCISCAN,44562.0,presence_villa_franciscan_2014_0042861.xml,61360.0,0042861
+0.0,South Haven Home,5427.0,south_haven_home_2014_0035253.xml,0.0,0035253
+24.58,Morrison Hsp Four Seasons,9678.0,morrison_hsp_four_seasons_2014_8022127.xml,6371.0,8022127
+24.2,Milestone Elmwood Heights,30245.0,milestone_elmwood_heights_2014_0024943.xml,5236.0,0024943
+23.08,NEW ATHENS HOME FOR THE AGED,14272.0,new_athens_home_for_the_aged_2014_0033043.xml,884.0,0033043
+0.0,Canterbury Place,5634.0,canterbury_place_2014_0039016.xml,0.0,0039016
+34.16,Manorcare of Arlington Hgts,38388.0,manorcare_of_arlington_heights_2014_0050302.xml,61513.0,0050302
+20.88,Central Nrsg & Rehab Center,84116.0,central_nrsg_rehab_center_2014_0050526.xml,35004.0,0050526
+20.54,Mt Vernon Countryside Manor,25947.0,mount_vernon_countryside_manor_2014_0035998.xml,18061.0,0035998
+30.38,Alden Lakeland Rehab & HCC,53484.0,alden_lakeland_rehab_hcc_2014_0017319.xml,53233.0,0017319
+27.92,Glen Oaks Nrsg & Rehab Ctr,94605.0,glen_oaks_nrsg_rehab_ctr_0022111.xml,59614.0,0022111
+25.4,Rosewood Care Ctr of Alton,46424.0,rosewood_care_center_of_alton_2014_0049288.xml,20870.0,0049288
+27.54,Glencrest Hlthcr & Rehab Ctr,94544.0,glencrest_hlthcr_rehab_ctre_2014_0028753.xml,72535.0,0028753
+31.91,Lexington of Wheeling,69943.0,lexington_of_wheeling_2014_0040923.xml,20397.0,0040923
+24.24,Linden Estate,5430.0,linden_estate_2014_0039305-.xml,1700.0,0039305
+22.87,Aspen Rehab & Hlth Care Ctr,16568.0,aspen_rehab_health_care_ctr_2014_0053496.xml,2735.0,0053496
+20.85,Phoenix Rehab Nursing,8354.0,phoenix_rehabilitation_nursing_2014_0049882.xml,3015.0,0049882
+28.19,Glenwood Healthcare & Rehab,50026.0,glenwood_healthcare_rehab_2014_0032839.xml,17979.0,0032839
+34.94,Alden Poplar Creek Reh & HCC,64738.0,alden_poplar_creek_rehab_hcc_2014_0032896.xml,36585.0,0032896
+31.09,Cedar Pointe Rehab & Nursing,98333.0,cedar_pointe_rehab_nursing_2014_0050955.xml,11591.0,0050955
+20.28,OAKVIEW HTS CONT C & REHAB C,28616.0,oakview_hts_cont_c_rehab_ctr_2014_0026328.xml,15066.0,0026328
+33.93,CLEARBROOK WEST,5823.0,clearbrook_west_2014_0033035.xml,1040.0,0033035
+32.59,Alden Park Strathmoor,53168.0,alden_park_strathmoor_2014_0044909.xml,23870.0,0044909
+28.17,Heartland of Decatur,36759.0,heartland_of_decatur_2014_0049544.xml,13656.0,0049544
+33.76,Warren Barr Lvg & Rehab Ctr,65941.0,warren_barr_living_rehab_ctr_2014_0052415.xml,63339.0,0052415
+32.39,Marklund Sayers Home,5815.0,marklund_sayers_home_2014_0045575.xml,6343.0,0045575
+21.06,Midway Neurological Reh Ctr,122918.0,midway_neurological_rehab_ctr_2014_0047175.xml,10710.0,0047175
+24.47,Manor Court of Peru,39059.0,manor_court_of_peru_2014_0047316.xml,25597.0,0047316
+29.58,Heartland of Peoria,45709.0,heartland_of_peoria_2014_0049379.xml,17882.0,0049379
+23.86,BELLWOOD DEVELOPMENTAL CTR,28297.0,bellwood_developmental_center_2014_0051904.xml,10005.0,0051904
+21.63,Manor Court of Carbondale,12446.0,manor_court_of_carbondale_2014_0052894.xml,11814.0,0052894
+26.03,Heartland of Moline,46343.0,heartland_of_moline_2014_0049403.xml,19230.0,0049403
+30.91,Burgess Square Hlthcare Ctr,53147.0,burgess_square_healthcare_ctr_2014_0051847.xml,60727.0,0051847
+24.75,St Anthonys St Clares Hosp,5052.0,st_anthonys_st_clares_hosp_2014_8042186.xml,10368.0,8042186
+33.7,River View Rehab Center,39940.0,river_view_rehab_center_2014_0052795.xml,17789.0,0052795
+25.22,Alton Rehab & Nursing Center,39089.0,alton_rehab_and_nursing_center_2014_0051334.xml,13202.0,0051334
+25.61,The Elms,33997.0,elms_2014_0021568.xml,12374.0,0021568
+22.59,The Wealshire,34152.0,wealshire_2014_0040956.xml,33130.0,0040956
+35.2,Radford Green,25954.0,radford_green_2014_0051219.xml,40483.0,0051219
+21.27,ANDOVER,5500.0,andover_2014_0038208.xml,547.0,0038208
+32.6,Alden Estates of Naperville,54580.0,alden_estates_of_naperville_2014_0022509.xml,34879.0,0022509
+36.09,Wynscape,41941.0,wynscape_2014_0050674.xml,59942.0,0050674
+0.0,Taylor House,5281.0,taylor_house_2014_0035030.xml,0.0,0035030
+26.03,Mason City Area Nursing Home,26335.0,mason_city_area_nursing_home_2014_0034256.xml,10793.0,0034256
+0.0,Gordon Jones Terrace,5221.0,gordon_jones_terrace_2014_0036970.xml,0.0,0036970
+25.5,Chester Rehab & Nrsg Center,13907.0,chester_rehab_and_nrsg_center_2014_0051532.xml,1195.0,0051532
+29.45,Alden of Waterford,27192.0,alden_of_waterford_2014_0042036.xml,35445.0,0042036
+0.0,Lincoln Terrace,5435.0,lincoln_terrace_2014_0035410.xml,0.0,0035410
+0.0,Shelbyville Reh & Hlth C Ctr,10106.0,shelbyville_rehab_hlth_c_ctr_2014_0053066.xml,0.0,0053066
+24.08,Carlinville Rehab & HCC,25719.0,carlinville_rehab_hcc_2014_0049239.xml,7932.0,0049239
+31.71,Lexington Hlth Cr Ctr Lombrd,65143.0,lexington_hlth_cr_ctr_lombard_2014_0028860.xml,37138.0,0028860
+31.97,Lexington HCC Bloomingdale,51378.0,lexington_hlth_cr_ctr_blmngdl_2014_0035188.xml,22386.0,0035188
+24.25,SCOTT COUNTY NURSING CENTER,16616.0,scott_county_nursing_center_2014_0004234.xml,2742.0,0004234
+17.53,Ridgeview Care Center,18821.0,ridgeview_care_center_2014_0051912.xml,7533.0,0051912
+26.76,Heartland of Riverview,22874.0,heartland_of_riverview_2014_0049486.xml,19688.0,0049486
+32.51,Providence Downers Grove,41748.0,providence_downers_grove_2014_0028605.xml,31616.0,0028605
+0.0,Broadway Terrace,5417.0,broadway_terrace_2014_0043182.xml,0.0,0043182
+30.23,Ambassador Nsg & Rehab Ctr,53643.0,ambassador_nsg_rehab_center_2014_0049924.xml,27879.0,0049924
+0.0,Champaign Terrace,3962.0,champaign_terrace_2014_0034934.xml,0.0,0034934
+15.7,Mulberry Manor,16236.0,mulberry_manor_2014_0025411.xml,2000.0,0025411
+27.41,Astoria Place Living & Rehab,55988.0,astoria_place_living_rehab_2014_0050799.xml,31632.0,0050799
+0.0,Hammett House,5612.0,hammett_house_2014_0033845.xml,0.0,0033845
+32.07,Brentwood Sub Acute HC Ctr,29273.0,brentwood_sub_acute_hlthcr_ctr_2014_0052522.xml,32255.0,0052522
+26.59,Heritage Health-LaSalle,26791.0,heritage_health_lasalle_2014_0051276.xml,9434.0,0051276
+34.62,PRESENCE RESURRECTION LIFE C,57701.0,presence_resurrection_life_ctr_2014_0044354.xml,51967.0,0044354
+0.0,PARK PLACE CENTRALIA,4877.0,park_place_centralia_2014_0038646.xml,0.0,0038646
+30.75,Tower Hill Healthcare Center,68825.0,tower_hill_healthcare_center_2014_0051557.xml,45249.0,0051557
+30.54,Wheaton Care Center,41981.0,wheaton_care_center_2014_0039115.xml,12053.0,0039115
+29.05,Buckingham Pavilion,34618.0,buckingham_pavilion_2014_0019836.xml,20567.0,0019836
+27.77,Helia Southbelt Healthcare,37942.0,helia_southbelt_healthcare_2014_0048587.xml,16850.0,0048587
+35.3,Westminster Place,77952.0,westminster_place_2014_0012930.xml,74016.0,0012930
+21.95,DOCTORS NURSING & REHAB CTR,31023.0,doctors_nursing_rehab_center_2014_0046235.xml,12082.0,0046235
+29.7,Lake Shore Hlthcare & Rehab,87077.0,lake_shore_healthcare_rehab_2014_0050765.xml,36668.0,0050765
+29.45,Momence Meadows Nrsing & Reh,34508.0,momence_meadows_nursing_reh_2014_0048033.xml,11352.0,0048033
+30.33,St Josephs Home F-T Elderly,20436.0,st_josephs_home_for_the_elderly_2014_0027045.xml,17466.0,0027045
+,Lewis Memorial Christian Vlg,54175.0,lewis_memorial_christian_vlg_2014_0021436.xml,17293.0,0021436
+25.43,Collinsville Rehab & Hlth CC,21012.0,collinsville_rehab_health_cc_2014_0048447.xml,2181.0,0048447
+25.55,Leroy Manor,28596.0,leroy_manor_2014_0047704.xml,8955.0,0047704
+32.91,Bethesda Luth C Plainfield,3808.0,bethesda_lutheran_c_plainfield_2014_0034967.xml,1543.0,0034967
+22.23,EVERGREEN NRSING & REHAB CTR,32387.0,evergreen_nursing_rehab_ctr_2014_0046417.xml,9221.0,0046417
+29.01,Aperion Care Plum Grove,22812.0,aperion_care_plum_grove_2014_0050484.xml,10079.0,0050484
+25.3,Boyd Avenue Home,5729.0,boyd_avenue_home_2014_0040188.xml,207.0,0040188
+0.0,COLONIAL APARTMENTS,5149.0,colonial_apartments_2014_0038125.xml,0.0,0038125
+22.63,Wesley Village,24817.0,wesley_village_2014_0022350.xml,8486.0,0022350
+28.63,ST JOSEPH NURSING HOME,28362.0,st_joseph_nursing_home_2014_0005637.xml,16648.0,0005637
+18.0,River Crossing Rehab,27162.0,river_crossing_rehab_2014_0052761.xml,10559.0,0052761
+144.0,Christian Nursing Home,37239.0,christian_nursing_home_2014_0004630.xml,27.18,0004630
+28.09,Covenant HCC Northbrook,30990.0,covenant_hlth_cr_ctr_northbrk_2014_0033779.xml,30852.0,0033779
+24.78,Sullivan Rehab & HCC,22577.0,sullivan_rehab_hlth_care_ctr_2014_0046425.xml,2694.0,0046425
+33.34,Alden North Shore Reh & HCC,19622.0,alden_north_shore_rehab_hcc_2014_0042028.xml,25184.0,0042028
+24.55,Coventry Living Center,31953.0,coventry_living_center_2014_0050476.xml,9193.0,0050476
+22.54,Manor Court of Maryville,43714.0,manor_court_of_maryville_2014_0050427.xml,12336.0,0050427
+28.0,Pleasant View Luther Home,30301.0,pleasant_view_luther_home_2014_0012864.xml,21299.0,0012864
+24.75,Margaret Manor North Branch,33202.0,margaret_manor_north_branch_2014_0017178.xml,3521.0,0017178
+0.0,STRIVE,5739.0,strive_2014_0036921.xml,0.0,0036921
+36.45,PARKSHORE ESTATES NRSG & REH,74501.0,parkshore_estates_nrsg_rehab_2014_0051375.xml,13450.0,0051375
+30.98,Lakeview Rehab & Nrsg Center,52573.0,lakeview_rehab_nrsg_center_2014_0051524.xml,26427.0,0051524
+27.81,PRESENCE COR MARIAE CENTER,45600.0,presence_cor_mariae_center_2014_0041046.xml,28116.0,0041046
+28.47,Alden Lincoln Rehab & HC Ctr,29201.0,alden_lincoln_rehab_h_c_ctr_2014_0040709.xml,25297.0,0040709
+30.02,Countryside Nrsg & Rehab Ctr,60814.0,countryside_nrsg_rehab_ctr_2014_0050708.xml,17082.0,0050708
+25.02,Charleston Rehab & Health CC,22027.0,charleston_rehab_health_cc_2014_0050658.xml,4290.0,0050658
+23.75,Heartland of Henry,26659.0,heartland_of_henry_2014_0049452.xml,17190.0,0049452
+24.76,Sheldon Health Care Center,9090.0,sheldon_health_care_center_2014_0046573.xml,620.0,0046573
+28.94,Tri State Nrsing & Rehab Ctr,27462.0,tri_state_nursing_rehab_ctr_2014_0041186.xml,12992.0,0041186
+0.0,Holland Terrace,5473.0,holland_terrace_2014_0043240.xml,0.0,0043240
+35.18,PRESENCE VILLA SCALABRNI N&R,74002.0,presence_villa_scalabrini_n_r_2014_0044792.xml,87896.0,0044792
+26.53,Snyder Village Health Center,31411.0,snyder_village_2014_0033647-amended.xml,21642.0,0033647
+0.0,Hope House,4603.0,hope_house_2014_0033811.xml,0.0,0033811
+23.55,Friendship Manor Health Care,37610.0,friendship_manor_health_care_2014_0050161.xml,7266.0,0050161
+25.54,Tuscola Health Care Center,18135.0,tuscola_health_care_center_2014_0046805.xml,4626.0,0046805
+22.55,MAR KA NURSING HOME,21203.0,mar_ka_nursing_home_2014_0031740.xml,7980.0,0031740
+20.82,Herrin Rehab and Nrsg Center,11227.0,herrin_rehab_and_nrsg_center_2014_0051045.xml,3724.0,0051045
+28.62,Bethesda Home & Retire Ctr,29207.0,bethesda_home_retirement_ctr_2014_0012229.xml,14773.0,0012229
+20.18,Randolph County Care Center,20904.0,randolph_county_care_center_2014_0000497.xml,6930.0,0000497
+27.89,Rainbow Beach Care Center,64324.0,rainbow_beach_care_center_2014_0047332.xml,6977.0,0047332
+22.88,Harbor Crest Home,16239.0,harbor_crest_home_2014_0009530.xml,6559.0,0009530
+0.0,GROUP HOME #4,5178.0,group_home_4_2014_0037622.xml,0.0,0037622
+21.06,Heartland Christian Village,23958.0,heartland_christian_village_2014_0048751.xml,16844.0,0048751
+23.89,Mount St Joseph,39195.0,mount_st_joseph_2014_0005520.xml,16097.0,0005520
+24.33,Evenglow Lodge,48032.0,evenglow_lodge_2014_0008425.xml,12774.0,0008425
+30.43,Abbott House,37571.0,abbott_house_2014_0023739.xml,7624.0,0023739
+25.48,Freeburg Care Center,35257.0,freeburg_care_center_2014_0025098.xml,7596.0,0025098
+0.0,LYNWOOD ESTATES,5165.0,lynwood_estates_2014_0036004.xml,0.0,0036004
+28.59,Grove of Northbrook L & R,43747.0,grove_of_northbrook_l_r_2014_0052050.xml,25411.0,0052050
+23.54,Snyders Vaughn Haven,19732.0,snyders_vaughn_haven_2014__0005363.xml,2535.0,0005363
+34.94,LINCOLN HOUSE,3995.0,lincoln_house_2014_0046995.xml,405.0,0046995
+26.42,Hearthstone Manor,33045.0,hearthstone_manor_2014_0027664.xml,32529.0,0027664
+0.0,Wetherell Place,5577.0,wetherell_place_2014_0034074.xml,0.0,0034074
+26.39,Heritage Health-Litchfield,25644.0,heritage_health_litchfield_2014_0048900.xml,7508.0,0048900
+31.5,Alden Long Grove Rehab & HCC,56010.0,alden_long_grove_rehab_hcc_2014_0040683.xml,30740.0,0040683
+29.63,Sacred Heart Home,53881.0,sacred_heart_home_2014_0013334.xml,3594.0,0013334
+26.34,Newman Rehab & Hlth Care Ctr,15589.0,newman_rehab_health_care_ctr_2014_0053116.xml,4787.0,0053116
+0.0,Brother James Court,31945.0,brother_james_court_2014_0020495.xml,0.0,0020495
+0.0,Harris Place,4792.0,harris_place_2014_0038240.xml,0.0,0038240
+34.71,EASTSIDE TERRACE,4683.0,eastside_terrace_2014_0046979.xml,405.0,0046979
+21.65,Rosewood Care Ctr of Moline,29418.0,rosewood_care_center_of_moline_2014_0049304.xml,11679.0,0049304
+32.18,DOBSON PLAZA,32072.0,dobson_plaza_2014_0051508.xml,21048.0,0051508
+28.29,Arbour Health Care Center,34077.0,arbour_health_care_center_2014_0034736.xml,10791.0,0034736
+33.99,Alton Mem Hsp Hatch Sk N W,4202.0,alton_mem_hsp_hatch_sk_n_w_2014_8000267.xml,22624.0,8000267
+28.8,Nathan Health Care Center,26354.0,nathan_health_care_center_2014_0051367.xml,5224.0,0051367
+26.47,El Paso Health Care Center,42544.0,el_paso_health_care_center_2014_0050914.xml,5636.0,0050914
+29.34,Alden Princeton Rehab & HCC,61427.0,alden_princeton_rehab_hcc_2014_0036244.xml,18194.0,0036244
+26.05,Joliet Terrace Nrsing Center,42368.0,joliet_terrace_nursing_center_2014_0051698.xml,8590.0,0051698
+25.31,Eden Village Care Center,36960.0,eden_village_care_center_2014_0023382.xml,13214.0,0023382
+21.28,Friendship Skilled Nsg & Reh,13143.0,friendship_skilled_nsg_rehab_2014_0042846.xml,6658.0,0042846
+28.67,Maple Crest Care Centre,28172.0,maple_crest_care_centre_2014_0051839.xml,11290.0,0051839
+25.38,ARBA CARE CTR OF BLOOMINGTON,17835.0,arba_care_ctr_of_bloomington_2014_0052951.xml,7000.0,0052951
+25.35,Winston Manor Cnv & Nursing,59177.0,winston_manor_cnv_nursing_2014_0035782.xml,20740.0,0035782
+27.72,Heritage Health-Hoopeston,26516.0,heritage_health_hoopeston_2014_0052027.xml,8367.0,0052027
+29.13,Aperion Care Dolton,26847.0,aperion_care_dolton_2014_0051151.xml,4862.0,0051151
+25.44,Prairie View Cr Ctr Lewistwn,24178.0,prairie_view_cr_ctr_lewistown_2014_0040303.xml,9072.0,0040303
+24.1,Walnut Grove Village,31985.0,walnut_grove_village_2014_0050468.xml,25450.0,0050468
+21.08,Pittsfield Manor,19922.0,pittsfield_manor_2014_0047944.xml,7047.0,0047944
+30.79,Aperion Care Highwood,30012.0,aperion_care_highwood_2014_0048330.xml,16477.0,0048330
+30.26,Alden Des Plaines Rehab & HC,31193.0,alden_des_plaines_rehab_hc_2014_0042010.xml,27301.0,0042010
+32.48,The Carlton at the Lake,80746.0,carlton_at_the_lake_2014_0025403.xml,50529.0,0025403
+0.0,Ridge Terrace,4855.0,ridge_terrace_2014_0033621.xml,0.0,0033621
+27.55,Crestwood Terrace Nrsing Ctr,42709.0,crestwood_terrace_nursing_ctr_2014_0051714.xml,3078.0,0051714
+29.96,Markund @ Mill Creek 3,5697.0,marklund_mill_creek_3_2014_0047258.xml,6422.0,0047258
+30.98,Meadows,,meadows_2014_0021766.xml,3468.0,0021766
+25.97,Mclean County Nursing Home,48582.0,mclean_county_nursing_home_2014_0018150.xml,13016.0,0018150
+22.32,Bethalto Care Center,24698.0,bethalto_care_center_2014_0021584.xml,3227.0,0021584
+33.46,Central Baptist Village,46932.0,central_baptist_village_2014_0007435.xml,26466.0,0007435
+26.69,Heritage Health-Normal,42695.0,heritage_health_normal_2014_0048082.xml,21501.0,0048082
+0.0,Brauns Terrace,5733.0,brauns_terrace_2014_0035402.xml,0.0,0035402
+21.43,Taylorville Care Center,29263.0,taylorville_care_center_2014_0028787.xml,4457.0,0028787
+0.0,Hunt Terrace,4782.0,hunt_terrace_2014_0047985.xml,0.0,0047985
+21.67,Jerseyville Manor,46463.0,jerseyville_manor_2014_0047597.xml,26938.0,0047597
+0.0,Shady Oaks West,5637.0,shady_oaks_west_2014_0040527.xml,0.0,0040527
+27.93,Symphony of Lincoln,30745.0,symphony_of_lincoln_2014_0051789.xml,20055.0,0051789
+36.51,Selfhelp Home of Chicago,21982.0,selfhelp_home_of_chicago_2014_0018580.xml,25527.0,0018580
+27.68,Highland Oaks,16599.0,highland_oaks_2014_0029892.xml,19461.0,0029892
+27.57,Dixon Rehab & HCC,29189.0,dixon_rehab_hcc_2014_0051870.xml,7969.0,0051870
+34.45,Bethesda Luth C Montgomery,3917.0,bethesda_lutheran_c_montgomery_2014_0034587.xml,2451.0,0034587
+23.05,FIRESIDE HOUSE OF CENTRALIA,32983.0,fireside_house_of_centralia_2014_0051755.xml,8745.0,0051755
+22.78,BRIA OF CAHOKIA,43964.0,bria_of_cahokia_2014_0048645.xml,3191.0,0048645
+30.61,Batavia Rehab & Hlth Cr Ctr,19147.0,batavia_rehab_hlth_care_ctr_2014_0047399.xml,4099.0,0047399
+33.22,Alden Orland Prk Rehab & HCC,50613.0,alden_orland_park_rehab_hcc_2014_0042192.xml,40708.0,0042192
+33.19,South Elgin Rehab & HC Ctr,25654.0,south_elgin_rehab_hlth_c_ctr_2014_0053140.xml,16233.0,0053140
+27.05,Atrium Health Care Center,54316.0,atrium_health_care_center_2014_0033977.xml,11603.0,0033977
+32.7,Albany Care,124533.0,albany_care_2014_0037762.xml,1372.0,0037762
+26.97,Sterling Pavilion,31285.0,sterling_pavilion_2014_0040436.xml,10168.0,0040436
+24.8,Bement Health Care Center,11629.0,bement_health_care_center_2014_0053173.xml,3698.0,0053173
+34.84,PRESENCE ST ANDREW LIFE CTR,53682.0,presence_saint_andrew_life_ctr_2014_0044776.xml,10082.0,0044776
+27.23,Southgate Health Care Center,45729.0,southgate_health_care_center_2014_0017996.xml,13032.0,0017996
+26.59,Chicago Ridge Nursing Center,78720.0,chicago_ridge_nursing_center_2014_0045815.xml,31727.0,0045815
+32.72,Warren Barr North Shore,20302.0,warren_barr_north_shore_2014_0052787.xml,22026.0,0052787
+24.74,University Nsg & Rehab Ctr,33173.0,university_nsg_rehab_center_2014_0046557.xml,7561.0,0046557
+30.76,St Joseph Village of Chicago,16172.0,st_joseph_village_of_chicago_2014_0046581.xml,20089.0,0046581
+27.4,Community Nrsing & Rehab Ctr,42199.0,community_nursing_rehab_ctr_2014_0044750.xml,27704.0,0044750
+33.19,Briar Place,80173.0,briar_place_2014_0031765.xml,19793.0,0031765
+24.89,Oregon Living & Rehab Center,24301.0,oregon_living_rehab_center_2014_0051607.xml,10182.0,0051607
+19.56,Cobden Rehab and Nrsg Center,22406.0,cobden_rehab_and_nrsg_center_2014_0051003.xml,5742.0,0051003
+22.57,Heartland Manor Nursing Ctr,21926.0,heartland_manor_nursing_center_2014_0002923.xml,7270.0,0002923
+27.0,Heartland of Normal,33479.0,heartland_of_normal_2014_0049536.xml,14959.0,0049536
+27.98,The Villa at South Holland,44161.0,villa_at_south_holland_2014_0052340.xml,37068.0,0052340
+20.09,Carrier Mills Nsg & Reh Ctr,34282.0,carrier_mills_nsg_rehab_ctr_2014_0025130.xml,8270.0,0025130
+0.0,VICTORIAN MANOR,5386.0,victorian_manor_2014_0040766.xml,0.0,0040766
+23.49,Jerseyville Nsg & Rehab Ctr,35970.0,jerseyville_nsg_rehab_center_2014_0039339.xml,10431.0,0039339
+27.14,Aperion Care Decatur,40883.0,aperion_care_decatur_2014_0051482.xml,13435.0,0051482
+26.56,Columbus Park N & Rehab Ctr,70486.0,columbus_park_n_rehab_center_2014_0037960.xml,15488.0,0037960
+31.64,Manorcare of Homewood,39339.0,manorcare_of_homewood_2014_0049437.xml,29122.0,0049437
+29.07,California Gardens N & Reh C,100031.0,california_gardens_n_rehab_c_2014_0040022.xml,32002.0,0040022
+28.28,Sunny Acres Nursing Home,30562.0,sunny_acres_nursing_home_2014_0005009.xml,4760.0,0005009
+0.0,Piasa Manor,4489.0,piasa_manor_2014_0038422.xml,0.0,0038422
+0.0,Taylorville Terrace,5245.0,taylorville_terrace_2014_0047795.xml,0.0,0047795
+23.94,Heritage Health-Carlinville,26369.0,heritage_health_carlinville_2014_0048850.xml,5336.0,0048850
+24.92,CLEARBROOK WRIGHT HOME,5762.0,clearbrook_wright_home_2014_0044297.xml,11252.0,0044297
+23.0,White Hall Nsg & Rehab Ctr,38014.0,white_hall_nsg_rehab_center_2014_0046896.xml,10983.0,0046896
+31.89,Alden Estates of Evanston,19414.0,alden_estates_of_evanston_2014_0040733.xml,28174.0,0040733
+32.93,Spring Creek Nsg & Rehab Ctr,2302.0,spring_creek_nrsg_rehab_ctr_2014_0052613.xml,1517.0,0052613
+30.14,Lexington of Streamwood,63250.0,lexington_of_streamwood_2014_0037002.xml,20089.0,0037002
+24.65,Davis House,5261.0,davis_house_2014_0030585.xml,458.0,0030585
+26.58,Good Sam Soc Geneseo Village,21113.0,good_sam_soc_geneseo_village_2014_0004721.xml,15387.0,0004721
+30.09,PRESENCE MCAULEY MANOR,19457.0,presence_mcauley_manor_2014_0042879.xml,23541.0,0042879
+28.35,The Grove of Evanston,32989.0,grove_of_evanston_2014_0050948.xml,25182.0,0050948
+25.55,Bourbonnais Terrace N H,44374.0,bourbonnais_terrace_n_h_2014_0051631.xml,4619.0,0051631
+0.0,Carlinville Estates,5728.0,carlinville_estates_2014_0039362.xml,0.0,0039362
+25.29,Blackhawk Group Home,4928.0,blackhawk_group_home_2014_0034785.xml,207.0,0034785
+35.45,Memorial Care Center,22895.0,memorial_care_center_2014_0003103.xml,44131.0,0003103
+0.0,Carthage Terrace,5630.0,carthage_terrace_2014_0035543.xml,0.0,0035543
+33.28,Grove Lincoln Park Lvg & Reh,28970.0,grove_lincoln_park_lvg_rehab_2014_0050245.xml,16728.0,0050245
+29.19,Kensington Place Nsg & Rehab,46870.0,kensington_place_nrsg_rehab_2014_0052712.xml,15431.0,0052712
+23.83,Mason Point,38031.0,mason_point_2014_0050294.xml,6886.0,0050294
+27.11,Gardenview Manor,43381.0,gardenview_manor_2014_0052456.xml,25923.0,0052456
+0.0,Moultrie Co Community Center,4248.0,moultrie_co_community_center_2014_0026112.xml,0.0,0026112
+37.04,The Moorings Health Center,34175.0,moorings_health_center_2014_0045047.xml,52439.0,0045047
+33.27,Lemont Nrsg & Rehab Center,51322.0,lemont_nrsg_rehab_center_2014_0046201.xml,28152.0,0046201
+26.26,Polo Rehabilitation & HCC,19000.0,polo_rehabilitation_hcc_2014_0052647.xml,4128.0,0052647
+25.08,Cedar Ridge Hlth & Rehab Ctr,37540.0,cedar_ridge_health_rehab_ctr_2014_0042838.xml,21946.0,0042838
+25.03,Odd Fellow Rebekah Home,44002.0,odd_fellow_rebekah_home_2014_0010223.xml,15572.0,0010223
+30.71,Bryn Mawr Care,55818.0,bryn_mawr_care_2014_0035618.xml,1466.0,0035618
+28.82,North Kickapoo,5545.0,north_kickapoo_2014_0047290.xml,286.0,0047290
+38.19,Alden Springs,5570.0,alden_springs_2014_0047191.xml,2687.0,0047191
+26.77,Margaret Manor,181.0,margaret_manor_2014_0011239.xml,4272.0,0011239
+20.8,Marion Rehab and Nrsg Ctr,30524.0,marion_rehab_and_nrsg_ctr_2014_0050997.xml,5630.0,0050997
+31.72,Chateau Nrsg & Rehab Center,50732.0,chateau_nrsg_rehab_center_2014_0046177.xml,33687.0,0046177
+36.3,PRESENCE ST BENEDICT N & R,42512.0,presence_saint_benedict_n_r_2014_0044784.xml,32402.0,0044784
+26.99,Harmony Nursing & Rehab Ctr,59782.0,harmony_nursing_rehab_center_2014_0040535.xml,45326.0,0040535
+26.43,Heritage Health-Dwight,29864.0,heritage_health_dwight_2014_0050492.xml,17238.0,0050492
+26.27,Caseyville Nrsg & Rehab Ctr,44362.0,caseyville_nursing_rehab_ctr_2014_0039644.xml,3163.0,0040543
+22.56,Hillcrest Home,36765.0,hillcrest_home_2014_0001099.xml,15278.0,0001099
+24.69,Countryview Care Ctr Macomb,18737.0,countryview_care_center_macomb_2014_0053199.xml,5936.0,0053199
+0.0,Alvin Eades Center,5548.0,alvin_eades_center_2014_0040220.xml,0.0,0040220
+32.51,Grasmere Place,69801.0,grasmere_place_2014_0044271.xml,3881.0,0044271
+33.49,Manorcare of Oak Lawn West,49234.0,manorcare_of_oak_lawn_west_2014_0049551.xml,59540.0,0049551
+26.92,OTTAWA PAVILION,43872.0,ottawa_pavilion_2014_0039230.xml,17328.0,0039230
+0.0,Stern Square,5091.0,stern_square_2014_0033852.xml,0.0,0033852
+22.22,Frankfort Hlthcr & Rehab Ctr,14037.0,frankfort_hlthcare_rehab_ctr_2014_0046268.xml,4835.0,0046268
+23.78,Florence Nursing Home,16717.0,florence_nursing_home_2014_0041657.xml,8046.0,0041657
+24.35,Shelbyville Manor,29254.0,shelbyville_manor_2014_0047878.xml,6240.0,0047878
+19.09,United Methodist Vlg N Cam,23086.0,united_methodist_village_n_cam_2014_0046656.xml,13310.0,0046656
+28.14,Heartland of Paxton,32265.0,heartland_of_paxton_2014_0049494.xml,19748.0,0049494
+28.0,Heather Health Care Center,46415.0,heather_health_care_center_2014_0023945.xml,11594.0,0023945
+26.34,TAMMERLANE HLTH CARE CENTRE,19334.0,tammerlane_health_care_centre_2014_0035659.xml,3204.0,0035659
+23.45,Knox County Nurisng Home,51181.0,knox_county_nursing_home_2014_0010561.xml,18829.0,0010561
+22.0,Meadow Manor Skld Nur & Reh,21840.0,meadow_manor_skld_nur_rehab_2014_0051425.xml,8126.0,0051425
+28.95,Northwoods Care Centre,37218.0,northwoods_care_centre_2014_0051813.xml,21056.0,0051813
+20.35,FAIRHAVEN CHRISTIAN RET CTR,55553.0,fairhaven_christian_ret_center_2014_0027987.xml,20099.0,0027987
+0.0,Golfview Developmental Ctr,47788.0,golfview_developmental_center_2014_0042614.xml,0.0,0042614
+25.5,Kankakee Terrace Nursing Ctr,49403.0,kankakee_terrace_nursing_ctr_2014_0051680.xml,3215.0,0051680
+25.85,Prairie Rose Health Care Ctr,20196.0,prairie_rose_health_care_ctr_2014_0045245.xml,3356.0,0045245
+22.54,Robings Manor Rehab & HC,19941.0,robings_manor_rehab_hlth_cr_2014_0026716.xml,10082.0,0026716
+32.58,Prairie Manor Nrsg & Reh Ctr,47936.0,prairie_manor_nrsg_rehab_ctr_2014_0046011.xml,19924.0,0046011
+31.01,Aperion Care Forest Park,59354.0,aperion_care_forest_park_2014_0049247.xml,20051.0,0049247
+24.27,NORTH ADAMS  HOME,21552.0,north_adams_home_2014_0020925.xml,15838.0,0020925
+27.53,Heights Hlthcare & Rehab Ctr,32313.0,heights_hlthcare_rehab_ctr_2014_0052159.xml,11750.0,0052159
+23.23,Decatur Manor Healthcare,45434.0,decatur_manor_healthcare_2014_0049262.xml,2509.0,0049262
+0.0,Torrence Place,4604.0,torrence_place_2014_0043364.xml,0.0,0043364
+31.93,North Aurora Care Center,41872.0,north_aurora_care_center_2014_0047514.xml,6292.0,0047514
+22.01,Sunrise Skilled Nur & Rehab,24691.0,sunrise_skilled_nur_rehab_2014_0051458.xml,11481.0,0051458
+,Marigold Rehabilitation HCC,49968.0,marigold_rehabilitation_hcc_2014_0052662.xml,7945.0,0052662
+35.3,Heritage Health-Mendota,25245.0,heritage_health_mendota_2014_0048108.xml,7422.0,0048108
+3.0,FAYETTE COUNTY HOSPITAL LTC,20757.0,fayette_county_hospital_ltc_2014_8000846.xml,12278.0,8000846
+25.03,Homestead House,4745.0,homestead_house_2014_0034173.xml,330.0,0034173
+28.54,Champaign County Nrsing Home,79467.0,champaign_county_nursing_home_2014_0046664.xml,35000.0,0046664
+19.14,Newton Rest Haven,12371.0,newton_rest_haven_2014_0024984.xml,3631.0,0024984
+27.57,Good Sam Soc Mt Carroll,20126.0,good_sam_soc_mt_carroll_2014_0007344.xml,15800.0,0007344
+36.62,Lieberman Ctr for Hlth & Reh,77587.0,lieberman_ctr_for_health_reh_2014_0026195.xml,69916.0,0026195
+0.0,Quincy Terrace,5617.0,quincy_terrace_2014_0031401.xml,0.0,0031401
+30.16,Aperion Care Evanston,19837.0,aperion_care_evanston_2014_0048454.xml,12468.0,0048454
+30.67,Tabor Hills Health Care Fac,61928.0,tabor_hills_health_care_fac_2014_0040543.xml,75717.0,0040543
+31.75,Alden Northmoor Rehab & HCC,61031.0,alden_northmoor_rehab_hcc_2014_0041277.xml,35305.0,0041277
+21.84,Eastside Health & Rehab Ctr,22568.0,eastside_health_rehab_center_2014_0047456.xml,4532.0,0047456
+0.0,Countryview Terrace,2958.0,countryview_terrace_2014_0053041.xml,0.0,0053041
+36.44,Park Villa Nrsg & Rehab Ctr,25397.0,park_villa_nrsg_rehab_center_2014_0051417.xml,24087.0,0051417
+25.14,Good Samaritan Flanagan,17293.0,good_samaritan_flanagan_2014_0050567.xml,4067.0,0050567
+27.7,Childrens Habilitation Ctr,22509.0,childrens_habilitation_ctr_2014_0018424.xml,15878.0,0018424
+24.38,Alhambra Care Center,19828.0,alhambra_care_center_2014_0045609.xml,5207.0,0045609
+0.0,Highview Terrace,5630.0,highview_terrace_2014_0032003.xml,0.0,0032033
+29.39,Lasalle County Nursing Home,22426.0,lasalle_county_nursing_home_2014_0010637.xml,11342.0,0010637
+33.62,BRIDGEVIEW HLTH CARE CENTER,49723.0,bridgeview_health_care_center_2014_0037358.xml,10934.0,0037358
+29.99,Columbia Rehab & Nrsg Center,39928.0,columbia_rehab_and_nrsg_center_2014_0051381.xml,5367.0,0051381
+30.26,Wauconda Healthcare & Rehab,34659.0,wauconda_healthcare_and_rehab_2014_0044859.xml,34822.0,0044859
+27.48,Granite Nsg & Rehab Center,28013.0,granite_nsg_rehab_center_2014_0046904.xml,5009.0,0046904
+31.6,Holy Family Villa,34333.0,holy_family_villa_2014_0045393.xml,27880.0,0045393
+25.12,Eastview Terrace,18796.0,eastview_terrace_2014_0053009.xml,2647.0,0053009
+29.92,Apostolic Chr Home of Eureka,,apostolic_chr_home_of_eureka_2014_0012328.xml,31972.0,0012328
+25.71,Rochelle Rehab & Hlthcare Cr,14478.0,rochelle_rehab_healthcare_cr_2014_0050856.xml,8914.0,0050856
+21.92,MONMOUTH NURSING HOME,16994.0,monmouth_nursing_home_2014_0027979.xml,3837.0,0027979
+33.77,Renaissance at Midway,78843.0,renaissance_at_midway_2014_0041749.xml,40686.0,0041749
+23.54,Manor Court of Princeton,33343.0,manor_court_of_princeton_2014_0047324.xml,18611.0,0047324
+0.0,Calumet City Terrace,5269.0,calumet_city_terrace_2014_0043190.xml,0.0,0043190
+31.26,Hickory Point Terrace,5840.0,hickory_point_terrace_2014_0047282.xml,504.0,0047282
+31.7,ARBA CARE CENTER OF ELGIN,15759.0,arba_care_center_of_elgin_2014_0052985.xml,5950.0,0052985
+30.78,Continental Nsg & Rehab Ctr,61006.0,continental_nsg_rehab_ctr_2014_0049932.xml,27058.0,0049932
+26.82,Timber Point Hlthcare Center,21522.0,timber_point_healthcare_center_2014_0043158.xml,14543.0,0043158
+24.0,ARBA CARE CENTER OF TOLUCA,13489.0,arba_care_center_of_toluca_2014_0052977.xml,6250.0,0052977
+29.76,Stearns Nsg & Rehab Center,32241.0,stearns_nsg_rehab_center_2014_0046870.xml,5558.0,0046870
+31.26,NAZARETHVILLE,28183.0,nazarethville_2014_0021790.xml,19361.0,0021790
+25.18,Country Club Terrace,5840.0,country_club_terrace_2014_0037267.xml,82.0,0037267
+19.65,Westside Rehab & Care Center,21345.0,westside_rehab_care_center_2014_0053488.xml,4500.0,0053488
+31.13,Symphony of Crestwood,80412.0,symphony_of_crestwood_2014_0051805.xml,37641.0,0051805
+20.89,Freeport Rehab & Health,20219.0,freeport_rehab_hlth_2014_0049155.xml,16468.0,0049155
+0.0,Cornerstone Home,4317.0,cornerstone_home_2014_0033837.xml,0.0,0033837
+31.14,Lexington of Chicago Ridge,64925.0,lexington_of_chicago_ridge_2014_0042739.xml,29358.0,0042739
+0.0,Maple Terrace,5669.0,maple_terrace_2014_0035295.xml,0.0,0035295
+0.0,Lewis Terrace,5339.0,lewis_terrace_2014_0052720.xml,0.0,0052720
+29.33,The Terrace Nursing Home,36042.0,terrace_nursing_home_2014_0051664.xml,24345.0,0051664
+28.38,Good Sam Prophets Riverview,20700.0,good_sam_prophets_riverview_2014_0012955.xml,13657.0,0012955
+32.82,Alden of Old Town West,5824.0,alden_of_old_town_west_2014_0042077.xml,3213.0,0042077
+26.32,Arcola Health Care Center,27464.0,arcola_health_care_center_2014_0053074.xml,3091.0,0053074
+26.03,Colonial Manor,26163.0,colonial_manor_2014_0042168.xml,14839.0,0042168
+34.71,SOUTHSIDE MANOR,4529.0,southside_manor_2014_0046961.xml,405.0,0046961
+29.12,Spring Creek Terrace,5754.0,spring_creek_terrace_2014_0045955.xml,522.0,0045955
+34.26,Symphony of Decatur,64501.0,symphony_of_decatur_2014_0051771.xml,10230.0,0051771
+18.9,Ridgway Rehab & Nrsg Center,12910.0,ridgway_rehab_and_nrsg_center_2014_0051037.xml,5470.0,0051037
+25.39,Pekin Manor,40441.0,pekin_manor_2014_0047969.xml,12780.0,0047969
+26.74,The Grove of Fox Valley,42316.0,grove_of_fox_valley_2014_0052621.xml,30553.0,0052621
+26.64,Iona Glos SLC,35905.0,iona_glos_slc_2014_0022996.xml,11441.0,0022996
+23.92,Metropolis Rehab & HCC,29477.0,metropolis_rehab_hcc_2014_0046276.xml,13975.0,0046276
+25.23,Rock Island Nsg & Rehab Ctr,41056.0,rock_island_nsg_rehab_ctr_2014_0049866.xml,11268.0,0049866
+0.0,Lebanon Terrace,5455.0,lebanon_terrace_2014_0038430.xml,0.0,0038430
+23.85,Decatur Rehab & Hlth Care Ct,13229.0,decatur_rehab_health_care_ct_2014_0053124.xml,4480.0,0053124
+27.53,LAKEFRONT NRSING & REHAB CTR,34526.0,lakefront_nursing_rehab_ctr_2014_0047779.xml,6121.0,0047779
+31.22,Jackson Sq Skl Nrsg & Living,78089.0,jackson_sq_skl_nrsg_living_2014_0039834.xml,25622.0,0039834
+32.06,Lakewood Nrsg & Rehab Center,42049.0,lakewood_nrsg_rehab_center_2014_0046169.xml,30524.0,0046169
+29.77,The Springs at Crystal Lake,22569.0,springs_at_crystal_lake_2014_0051284.xml,27703.0,0051284
+26.43,OUR LADY OF ANGELS RET HOME,37203.0,our_lady_of_angels_ret_home_2014_0034975.xml,23924.0,0034975
+24.06,Farmington Country Manor,26812.0,farmington_country_manor_2014_0045187.xml,9199.0,0045187
+27.43,Crystal Pines Rehab & HCC,35466.0,crystal_pines_rehab_hcc_2014_0051052.xml,27145.0,0051052
+0.0,HUNTER HOUSE,5396.0,hunter_house_2014_0034744.xml,0.0,0034744
+27.27,Apostolic Christian Skylines,,apostolic_christian_skylines_2014_0006353.xml,18064.0,0006353
+25.61,Walker Nursing Home,15658.0,walker_nursing_home_2014_0021428.xml,3927.0,0021428
+18.94,BURGIN MANOR OF OLNEY INC ,48285.0,burgin_manor_of_olney_inc_2014_0026765.xml,32436.0,0026765
+30.27,Alden Estates of Skokie,9200.0,alden_estates_of_skokie_2014_0050146.xml,17511.0,0050146
+0.0,Alpha Community House,5088.0,alpha_community_house_2014_0031161.xml,0.0,0031161
+26.05,PRESENCE ST JOSEPH CENTER,37032.0,presence_st_joseph_center_2014_0041871.xml,18692.0,0041871
+32.8,PRESENCE BALLARD NURSING CTR,42385.0,presence_ballard_nursing_ctr_2014_0051490.xml,79919.0,0051490
+26.11,Hickorypoint Christian Vlg,17015.0,hickorypoint_christian_village_2014_0050682.xml,18237.0,0050682
+27.4,Villa Health Care East,32323.0,villa_health_care_east_2014_0037028.xml,8262.0,0037028
+26.45,Elston Nrsing & Rehab Centre,39202.0,elston_nursing_rehab_centre_2014_0004861.xml,23310.0,0004861
+33.27,Greenfields of Geneva,3714.0,greenfields_of_geneva_2014_0050286.xml,13180.0,0050286
+27.89,PRESENCE ST ANNE CENTER,50131.0,presence_st_anne_center_2014_0041731.xml,52994.0,0041731
+26.61,Rochelle Gardens Care Center,21566.0,rochelle_gardens_care_center_2014_0050617.xml,7485.0,0050617
+36.51,PRESENCE RESURRECTION N & R,75866.0,presence_resurrection_n_r_2014_0044362.xml,95208.0,0044362
+0.0,Walsh Terrace,5647.0,walsh_terrace_2014_0031948.xml,0.0,0031948
+30.15,Hammond Henry District Hsp,13084.0,hammond_henry_district_hsp_2014_8000192.xml,7841.0,8000192
+33.51,Alden Estates of Barrington,42782.0,alden_estates_of_barrington_2014_0046524.xml,46548.0,0046524
+27.91,Glen Bridge N & Rehab Centre,93875.0,glen_bridge_n_rehab_centre_2014_0035014.xml,73028.0,0035014
+29.25,Asbury Gardens Nrsg & Rehab,968.0,asbury_gardens_nrsg_rehab_2014_0051193.xml,3958.0,0051193
+27.02,PAVILION OF WAUKEGAN,32827.0,pavilion_of_waukegan_2014_0049809.xml,25261.0,0049809
+33.39,Berkeley Nrsg & Rehab Center,21505.0,berkeley_nrsg_rehab_center_2014_0050534.xml,1405.0,0050534
+25.24,Elmwood Terrace Hlthcare Ctr,21103.0,elmwood_terrace_healthcare_ctr_2014_0046128.xml,9942.0,0046128
+27.48,FOSTERBURG TERRACE,5584.0,fosterburg_terrace_2014_0039123.xml,1550.0,0039123
+26.57,Heritage Health-Bloomington,25863.0,heritage_health_bloomington_2014_0048157.xml,20630.0,0048157
+25.8,Fondulac Rehab & Hlth Care C,25165.0,fondulac_rehab_health_care_c_2014_0047472.xml,10053.0,0047472
+25.87,Helia Healthcare of Energy,22758.0,helia_healthcare_of_energy_2014_0046672.xml,15787.0,0046672
+33.8,Miller Health Care Center,43632.0,miller_health_care_center_2014_0040659.xml,64648.0,0040659
+23.84,Helia Hlthcare of Carbondale,20582.0,helia_healthcare_of_carbondale_2014_0046920.xml,6001.0,0046920
+26.85,St Josephs Medical Center,2958.0,st_josephs_medical_center_2014_8025355.xml,16992.0,8025355
+26.15,New Main Group Home,5796.0,new_main_group_home_2014_0039057.xml,400.0,0039057
+30.28,Marklund Haverkampf Home,5824.0,marklund_haverkampf_home_2014_0045542.xml,6481.0,0045542
+21.87,Cumberland Rehab & Health CC,13845.0,cumberland_rehab_health_cc_2014_0050583.xml,4343.0,0050583
+21.65,Terra Estates,4903.0,terra_estates_2014_0040352.xml,551.0,0040352
+23.85,Park Lawn Center,14135.0,park_lawn_center_2014_0027078.xml,5188.0,0027078
+32.24,NILES NRSG & REHAB CENTER,101798.0,niles_nrsg_rehab_center_2014_0050088.xml,51824.0,0050088
+22.29,Sycamore Healthcare Center,31312.0,sycamore_healthcare_center_2014_0051649.xml,9312.0,0051649
+0.0,Willow House,5666.0,willow_house_2014_0041335.xml,0.0,0041335
+28.2,Little Sisters of the Poor,24930.0,little_sisters_of_the_poor_2014_0025346.xml,16485.0,0025346
+38.19,Alden Trails,5586.0,alden_trails_2014_0042051.xml,2688.0,0042051
+29.78,Claremont Hanover Park,32381.0,claremont_hanover_park_2014_0049957.xml,43311.0,0049957
+30.15,Park House Nrsg & Rehab Ctr,34780.0,park_house_nursing_rehab_ctr_2014_0050740.xml,5861.0,0050740
+0.0,Matteson Court,4823.0,matteson_court_2014_0043281.xml,0.0,0043281
+23.97,North Logan Healthcare Ctr,30544.0,north_logan_healthcare_center_2014_0046532.xml,17053.0,0046532
+24.46,Palm Terrace of Mattoon,51535.0,palm_terrace_of_mattoon_2014_0052274.xml,13922.0,0052274
+33.47,Manorcare of Libertyville,41496.0,manorcare_of_libertyville_2014_0049411.xml,43610.0,0049411
+24.88,Auburn Rehab & HCC,22544.0,auburn_rehab_hcc_2014_0047076.xml,7728.0,0047076
+30.2,Alden Village Hlth Facility,44271.0,alden_village_health_facility_2014_0038455.xml,27348.0,0038455
+25.41,Lebanon Care Center,21637.0,lebanon_care_center_2014_0052654.xml,4789.0,0052654
+29.19,Rosewood Care Ctr Inverness,39515.0,rosewood_care_ctr_inverness_2014_0049023.xml,37648.0,0049023
+23.8,Aledo Rehab & Hlth Care Ctr,21726.0,aledo_rehab_health_care_ctr_2014_0051300.xml,7626.0,0051300
+28.07,Ridgeview Rehab & Nsg Center,42756.0,ridgeview_rehab_nsg_center_2014_0048470.xml,10740.0,0048470
+37.2,PRESENCE MARYHAVEN NSG & REH,40507.0,presence_maryhaven_nsg_rehab_2014_0044768.xml,42891.0,0044768
+23.32,Aviston Countryside Manor,29652.0,aviston_countryside_manor_2014_0033407.xml,16496.0,0033407
+21.61,Kewanee Care Home,22258.0,kewanee_care_home_2014_0053132.xml,4078.0,0053132
+32.62,Sherman West Court,27348.0,sherman_west_court_2014_0037507.xml,44761.0,0037507
+0.0,HARTRICK HOUSE,5354.0,hartrick_house_2014_0034751.xml,0.0,0034751
+21.82,Cisne Rehab & Hlth Care Ctr,11196.0,cisne_rehab_health_care_ctr_2014_0047423.xml,5574.0,0047423
+23.83,Elizabeth Nursing Home,13589.0,elizabeth_nursing_home_2014_0008300.xml,8684.0,0008300
+28.11,ARBA CARE CENTER OF COLFAX,7324.0,arba_care_center_of_colfax_2014_0052969.xml,1978.0,0052969
+19.75,Bryan Manor,34841.0,bryan_manor_2014_0048629.xml,8712.0,0048629
+28.3,CROSSROADS C CTR WOODSTOCK,34288.0,crossroads_care_ctr_woodstock_2014_0049999.xml,14432.0,0049999
+24.57,Lakeland Rehab & HCC,39928.0,lakeland_rehab_hcc_2014_0050971.xml,17470.0,0050971
+23.31,Highland Health Care Center,27322.0,highland_health_care_center_2014_0042853.xml,9998.0,0042853
+0.0,Sharon Health Care Woods,51152.0,sharon_health_care_woods_2014_0032813.xml,0.0,0032813
+42.62,Mercy Harvard Hospital Care,8512.0,mercy_harvard_hospital_care_2014_8049116.xml,80757.0,8049116
+25.86,Heritage Square,24574.0,heritage_square_2014_0018176.xml,10373.0,0018176
+32.43,Manorcare of Northbrook,46044.0,manorcare_of_northbrook_2014_0049676.xml,48364.0,0049676
+23.37,Effingham Rehab & Hlth C Ctr,13573.0,effingham_rehab_health_c_ctr_2014_0047159.xml,7795.0,0047159
+27.5,Pine Crest Health Care,64013.0,pine_crest_health_care_2014_0051318.xml,11100.0,0051318
+26.15,Ashton Terrace,5820.0,ashton_terrace_2014_0036822.xml,189.0,0036822
+26.53,Frankfort Terrace Nrsing Ctr,41686.0,frankfort_terrace_nursing_ctr_2014_0051706.xml,4015.0,0051706
+31.63,Rosewood Care Ctr Northbrook,45888.0,rosewood_care_ctr_northbrook_2014_0049783.xml,24923.0,0049783
+26.74,Balmoral Home,72142.0,balmoral_home_2014_0039966.xml,21809.0,0039966
+31.9,The Parc at Joliet,43728.0,parc_at_joliet_2014_0052571.xml,17745.0,0052571
+28.55,Fairview Haven,20793.0,fairview_haven_2014_0008524.xml,6993.0,0008524
+0.0,Douglas Terrace,5352.0,douglas_terrace_2014_0035774.xml,0.0,0035774
+25.78,Sharon Health Care Pines,33416.0,sharon_health_care_pines_2014_0032763.xml,17460.0,0032763
+28.63,Meadowbrook Manor,99616.0,meadowbrook_manor_2014_0037366.xml,44446.0,0037366
+26.77,The Iroquois Resident Home,12320.0,iroquois_resident_home_2014_0014464.xml,6297.0,0014464
+30.04,Clayton Residential Home,73976.0,clayton_residential_home_2014_0016634.xml,2545.0,0016634
+25.08,Washington Christian Village,33547.0,washington_christian_village_2014_0026955.xml,27528.0,0026955
+27.48,LYNHAVEN,4495.0,lynhaven_2014_0036210.xml,1550.0,0036210
+25.88,Norridge Gardens,94780.0,norridge_gardens_2014_0052431.xml,61597.0,0052431
+21.02,Rosiclare Rehab & HCC,17027.0,rosiclare_rehab_health_c_ctr_2014_0053512.xml,5848.0,0053512
+27.97,Libertyville Manor Ext Care,18644.0,libertyville_manor_ext_care_2014_0017780.xml,10775.0,0017780
+21.12,Clinton Manor Living Center,31574.0,clinton_manor_living_center_2014_0033159.xml,4346.0,0033159
+32.82,Central Plaza Residential H,72290.0,central_plaza_residential_h_2014_0017038.xml,4645.0,0017038
+28.97,Avantara Long Grove,55671.0,avantara_long_grove_2014_0052639.xml,30421.0,0052639
+25.76,Pine Acres Group Home,864.0,pine_acres_group_home_2014_0026385.xml,60.0,0026385
+27.31,Maple Lawn Health Center,31474.0,maple_lawn_health_center_2014_0042424.xml,15043.0,0042424
+32.02,Aperion Care Midlothian,31086.0,aperion_care_midlothian_2014_0049858.xml,4026.0,0049858
+20.63,McLeansboro Rehab & HCC,9632.0,mcleansboro_rehab_hlth_c_ctr_2014_0053108.xml,4237.0,0053108
+0.0,Trulson House,5777.0,trulson_house_2014_0032219.xml,0.0,0032219
+0.0,Gaylord Tull House,4758.0,gaylord_tull_house_2014_0032672.xml,0.0,0032672
+26.2,Abbington Rehab & Nrsing Ctr,25521.0,abbington_rehab_nursing_ctr_2014_0039693.xml,11077.0,0039693
+24.04,Medina Nursing Center,22413.0,medina_nursing_center_2014_0011551.xml,10324.0,0011551
+29.62,Heritage Health-El Paso,20512.0,heritage_health_el_paso_2014_0048124.xml,10222.0,0048124
+25.41,Morton Terrace H & R Centre,36781.0,morton_terrace_h_r_centre_2014_0052142.xml,7952.0,0052142
+0.0,Gaines Mill Place,5007.0,gaines_mill_place_2014_0035055.xml,0.0,0035055
+30.31,Franciscan Village,40269.0,franciscan_village_2014_0045419.xml,33261.0,0045419
+33.73,The Imperial Grove Pavilion,83073.0,imperial_grove_pavilion_2014_0037754.xml,77803.0,0037754
+0.0,Whispering Oaks,3654.0,whispering_oaks_2014_0050625.xml,0.0,0050625
+18.39,TRINITY LIVING CENTER #2,5353.0,trinity_living_center_2_2014_0034918.xml,1442.0,0034918
+28.03,Hickory Nursing Pavilion,23359.0,hickory_nursing_pavilion_2014_0032029.xml,4317.0,0032029
+0.0,Garden Center Services,5038.0,garden_center_services_2014_0036103.xml,0.0,0036103
+18.98,TURNER MANOR,5947.0,turner_manor_2014_0037184.xml,59.0,0037184
+31.35,PARKER NURSING & REHAB CTR,18504.0,parker_nursing_and_rehab_ctr_2014_0050880.xml,7836.0,0050880
+0.0,Marigold Estates,5380.0,marigold_estates_2014_0039370.xml,0.0,0039370
+26.29,Heritage Health-Chillicothe,32021.0,heritage_health_chillicothe_2014_0048868.xml,12396.0,0048868
+0.0,Shady Oaks East,5598.0,shady_oaks_east_2014_0039263.xml,0.0,0039263
+24.65,Knight House,5322.0,knight_house_2014_0030601.xml,458.0,0030601
+0.0,Adloff Place,5278.0,adloff_place_2014_0038463.xml,0.0,0038463
+26.71,Apos Christian Timber Ridge,25524.0,apos_christian_timber_ridge_2014_0016220.xml,15005.0,0016220
+24.96,PARK POINTE HLTHCARE & REHAB,43078.0,park_pointe_healthcare_rehab_2014_0052449.xml,24638.0,0052449
+0.0,Countryview Home,4500.0,countryview_home_2014_0035493.xml,0.0,0035493
+29.89,St Claras Manor,36052.0,st_claras_manor_2014_0050724.xml,8014.0,0050724
+28.65,Swann Special Care Center,42496.0,swann_special_care_center_2014_0035485.xml,33227.0,0035485
+0.0,Schultz House,5026.0,schultz_house_2014_0035501.xml,0.0,0035501
+22.91,Helia Healthcare of Olney,24014.0,helia_healthcare_of_olney_2014_0050757.xml,15325.0,0050757
+0.0,Hallam Terrace,5347.0,hallam_terrace_2014_0033902.xml,0.0,0033902
+32.65,Alden Village North,29353.0,alden_village_north_2014_0049122.xml,17663.0,0049122
+0.0,Seborg Terrace,5604.0,seborg_terrace_2014_0033936.xml,0.0,0033936
+26.32,Galena Stauss Nursing Home,18327.0,galena_stauss_nursing_home_2014_0049718.xml,6986.0,0049718
+21.64,Joshua Manor,3859.0,joshua_manor_2014_0040345.xml,495.0,0040345
+33.49,Winchester House,58709.0,winchester_house_2014_0010678.xml,54811.0,0010678
+34.36,Lutheran Home for the Aged,128043.0,lutheran_home_for_the_aged_2014_0005090.xml,120606.0,0005090
+33.58,The Villa at Windsor Park,68339.0,villa_at_windsor_park_2014_0051243.xml,33920.0,0051243
+31.86,Greek American Rehab & Nursing,59435.0,greek_american_rehab_care_ct_2014_0044149.xml,46776.0,0044149
+31.29,Aperion Care International,57916.0,aperion_care_international_2014_0050187.xml,29299.0,0050187
+25.82,Heritage Health-Mt Zion,24523.0,heritage_health_mt_zion_2014_0048074.xml,9694.0,0048074
+25.65,Piper City Rehab & Lving Ctr,18222.0,piper_city_rehab_living_ctr_2014_0050773.xml,4600.0,0050773
+27.19,BELLE MANOR,5453.0,belle_manor_2014_0051961.xml,325.0,0051961
+27.63,Community Care Center,65394.0,community_care_center_2014_0051722.xml,22885.0,0051722
+24.52,Oakton Pavillion,45473.0,oakton_pavillion_2014_0025056.xml,31178.0,0025056
+24.39,Casey Health Care Center,20121.0,casey_health_care_center_2014_0052308.xml,6436.0,0052308
+34.85,Manorcare of Westmont,41972.0,manorcare_of_westmont_2014_0049643.xml,47611.0,0049643
+24.81,Oak Hill,45380.0,oak_hill_2014_0047019.xml,22033.0,0047019
+23.16,Manor Court of Clinton,42462.0,manor_court_of_clinton_2014_0047134.xml,16747.0,0047134
+24.05,Breese Nursing Home,26742.0,breese_nursing_home_2014_0036012.xml,11477.0,0036012
+25.71,Rachuy House,4247.0,rachuy_house_2014_0047936.xml,594.0,0047936
+20.64,Faith Care Center,26670.0,faith_care_center_2014_0044552.xml,9459.0,0044552
+0.0,Westlake Home,3526.0,westlake_home_2014_0036319.xml,0.0,0036319
+24.24,Greenwood Care,46470.0,greenwood_care_2014_0031971.xml,2595.0,0031971
+0.0,Kanthak House,4618.0,kanthak_house_2014_0037747.xml,0.0,0037747
+34.79,WOOD GLEN NRSING & REHAB CTR,75655.0,wood_glen_nursing_rehab_ctr_2014_0043935.xml,17463.0,0043935
+37.04,St Patricks Residence,70899.0,st_patricks_residence_2014_0035006.xml,41709.0,0035006
+23.14,Willow Rose Rehab & Health,18344.0,willow_rose_rehab_health_2014_0050633.xml,5281.0,0050633
+27.23,BRIA OF BELLEVILLE,45244.0,bria_of_belleville_2014_0034678.xml,7672.0,0034678
+21.65,Ellner Terrace,5546.0,ellner_terrace_2014_0047803.xml,503.0,0047803
+27.05,A MERKLE C KNIPPRATH N H,23038.0,a_merkle_c_knipprath_n_h_2014_0021832.xml,7542.0,0021832
+25.22,McKinley Court,47371.0,mckinley_court_2014_0051821.xml,13695.0,0051821
+25.3,Nokomis Rehab & Hlth Care C,15322.0,nokomis_rehab_health_care_c_2014_0050641.xml,3162.0,0050641
+30.99,Heritage Health-Gibson City,19876.0,heritage_health_gibson_city_2014_0048116.xml,8711.0,0048116
+0.0,Heritage Fifty Three,17367.0,heritage_fifty_three_2014_0024836.xml,0.0,0024836
+22.79,Flora Rehab & Hlth Care Ctr,24127.0,flora_rehab_health_care_ctr_2014_0052266.xml,9857.0,0052266
+18.88,Anna Rehab and Nrsg Center,16872.0,anna_rehab_and_nrsg_center_2014_0051011.xml,2942.0,0051011
+30.51,Beecher Manor N & R Ctr,39649.0,beecher_manor_nrsg_rehab_ctr_2014_0047738.xml,22807.0,0047738
+19.57,Aperion Care St Elmo,15949.0,aperion_care_st_elmo_2014_0052696.xml,4441.0,0052696
+0.0,Carolyn Smith House,4847.0,carolyn_smith_house_2014_0032128.xml,0.0,0032128
+26.38,Heritage Health-Jacksonville,59496.0,heritage_health_jacksonville_2014_0048918.xml,17939.0,0048918
+23.35,Wabash Christian Retirement,47586.0,wabash_christian_retirement_2014_0020610.xml,23286.0,0020610
+27.37,Rosewood Care Ctr Edwrdsvill,33030.0,rosewood_care_ctr_edwardsville_2014_0049031.xml,30842.0,0049031
+0.0,Chamness Square,5689.0,chamness_square_2014_0048017.xml,0.0,0048017
+30.85,Symphony of Joliet,62073.0,symphony_of_joliet_2014_0051797.xml,41658.0,0051797
+0.0,Park Place,5053.0,park_place_2014_0040360.xml,0.0,0040360
+29.87,Forest View Rehab & Nrsg Ctr,33802.0,forest_view_rehab_nrsg_ctr_2014_0051516.xml,16598.0,0051516
+29.97,Elmwood Care,67554.0,elmwood_care_2014_0040410.xml,35439.0,0040410
+27.18,Morton Villa Hlth & Reh Ctr,28503.0,morton_villa_hlth_rehab_ctr_2014_0052134.xml,12016.0,0052134
+28.92,Pine Acres Rehab & Lving Ctr,34557.0,pine_acres_rehab_living_ctr_2014_0047720.xml,22331.0,0047720
+23.37,Thomas Herbstritt House,5217.0,thomas_herbstritt_house_2014_0051466.xml,725.0,0051466
+21.47,Carbondale Rehab & Nrsg Ctr,23421.0,carbondale_rehab_and_nrsg_ctr_2014_0051029.xml,6574.0,0051029
+25.37,Gilman Healthcare Center,25979.0,gilman_healthcare_center_2014_0049981.xml,10143.0,0049981
+28.28,Willow Crest Nrsing Pavilion,34911.0,willow_crest_nursing_pavilion_2014_0036533.xml,18591.0,0036533
+33.79,ROLLING HILLS MANOR,38289.0,rolling_hills_manor_2014_0025239.xml,30175.0,0025239
+24.1,Helia Healthcare of Benton,23459.0,helia_healthcare_of_benton_2014_0049775.xml,7209.0,0049775
+20.86,Hitz Memorial Home,17255.0,hitz_memorial_home_2014_0032979.xml,1931.0,0032979
+20.59,Way Fair Nursing & Rehab Ctr,27550.0,way_fair_nursing_rehab_ctr_2014_0051235.xml,15450.0,0051235
+20.77,Aperion Care Springfield,22544.0,aperion_care_springfield_2014_0051086.xml,4154.0,0051086
+29.82,OAKRIDGE HEALTHCARE CENTER,22020.0,oakridge_healthcare_center_2014_0051862.xml,7823.0,0051862
+27.99,Regency Rehabilitation Ctr,83804.0,regency_rehabilitation_center_2014_0049841.xml,36771.0,0049841
+18.52,Saline Care Center,48032.0,saline_care_center_2014_0051920.xml,8099.0,0051920
+29.69,Marklund Van Der Molen Home,5824.0,marklund_van_der_molen_home_2014_0045559.xml,6698.0,0045559
+31.66,Manorcare of Palos Hts West,42249.0,manorcare_of_palos_hts_west_2014_0049353.xml,59826.0,0049353
+26.02,Mattoon Rehab & HCC,29559.0,mattoon_rehab_hcc_2014_0051896.xml,7321.0,0051896
+26.32,Rosewood Care Ctr E Peoria,34486.0,rosewood_care_ctr_east_peoria_2014_0049338.xml,14995.0,0049338
+0.0,Casa Willis,5434.0,casa_willis_2014_0035071.xml,0.0,0035071
+25.75,Southview Manor Nursing Ctr,69131.0,southview_manor_nursing_center_2014_0051656.xml,14729.0,0051656
+19.93,Rose Angela Hall,27123.0,rose_angela_hall_2014_0033761.xml,8910.0,0033761
+22.05,CLEARBROOK EAST,5833.0,clearbrook_east_2014_0033027.xml,1600.0,0033027
+0.0,Stevens House,5567.0,stevens_house_2014_0031088.xml,0.0,0031088
+31.67,The Village at Victory Lakes,36446.0,village_at_victory_lakes_2014_0048256.xml,47603.0,0048256
+23.13,Montebello Healthcare Center,26771.0,montebello_healthcare_center_2014_0047340.xml,14879.0,0047340
+25.69,Heartland of Canton,26953.0,heartland_of_canton_2014_0049296.xml,18187.0,0049296
+0.0,Smith Village,32854.0,smith_village_2014_0015032.xml,0.0,0015032
+27.46,Glenview Terrace Nursing Ctr,96196.0,glenview_terrace_nursing_ctr_2014_0026237.xml,83965.0,0026237
+21.63,Monroe Pav Hlth Treatmnt Ctr,43064.0,monroe_pav_hlth_treatment_ctr_2014_0040071.xml,3206.0,0040071
+0.0,Flossmoor Terrace,5435.0,flossmoor_terrace_2014_0043232.xml,0.0,0043232
+36.22,SOUTHPOINT NRSG & REHAB CTR,66770.0,southpoint_nrsg_rehab_ctr_2014_0050450.xml,13891.0,0050450
+28.56,Glenshire Nrsg & Rehab Ctre,70828.0,glenshire_nursing_rehab_ctre_2014_0039321.xml,54137.0,0039321
+0.0,DIAMONDVIEW,4944.0,diamondview_2014_0038638.xml,0.0,0038638
+24.01,Edwardsville Nsg & Rehab Ctr,33622.0,edwardsville_nsg_rehab_ctr_2014_0046540.xml,10794.0,0046540
+29.9,Alden Estates of Shorewood,27448.0,alden_estates_of_shorewood_2014_0050781.xml,43710.0,0050781
+24.06,BARRY COMMUNITY CARE CENTER,18976.0,barry_community_care_center_2014_0017590.xml,6968.0,0017590
+33.18,Manorcare of Naperville,29356.0,manorcare_of_naperville_2014_0049577.xml,54085.0,0049577
+29.52,Meadowbrook Manor Naperville,85155.0,meadowbrook_manor_naperville_2014_0041285.xml,41513.0,0041285
+25.79,Brentwood Nrth HC Rehab Ctr,51067.0,brentwood_north_hc_rehab_ctr_2014_0050112.xml,58422.0,0050112
+27.68,BELMONT NURSING HOME,18400.0,belmont_nursing_home_2014_0024968.xml,1683.0,0024968
+27.36,Brightview Hlthcare & Rehab,39428.0,brightview_healthcare_rehab_2014_0030551.xml,22160.0,0030551
+29.37,Marklund Childrens Home,7463.0,marklund_childrens_home_2014_0011288.xml,17863.0,0011288
+26.12,Exceptional Cr & Training Ctr,29817.0,exceptional_cr_training_ctr_2014_0035477.xml,4264.0,0035477
+27.59,Riverside Foundation,32539.0,riverside_foundation_2014_0022988.xml,12678.0,0022988
+25.17,Three Springs Lodge Nrsing H,23194.0,three_springs_lodge_nursing_h_2014_0051383.xml,810.0,0051383
+28.09,Winfield Woods Hlthcare Ctr,47257.0,winfield_woods_healthcare_ctr_2014_0052100.xml,12721.0,0052100
+0.0,Harvey House,4293.0,harvey_house_2014_0049254.xml,0.0,0049254
+20.7,Mt Vernon Health Care Center,31198.0,mt_vernon_health_care_center_2014_0052290.xml,9816.0,0052290
+29.11,Salem Village Nrsing & Rehab,89792.0,salem_village_nursing_rehab_2014_0044057.xml,47485.0,0044057
+29.15,St James Wellness Reh Villas,24066.0,st_james_wellness_rehab_villas_2014_0052779.xml,9734.0,0052779
+32.1,Covenant Hlth Cr Ctr Batavia,31154.0,covenant_hlth_cr_ctr_batavia_2014_0025577.xml,38589.0,0025577
+26.51,Sandwich Rehab & HCC,16216.0,sandwich_rehab_hlth_care_ctr_2014_0053546.xml,9458.0,0053546
+27.89,Assisi Hlth CC at Clare Oaks,34757.0,assisi_health_cc_at_clare_oaks_2014_0047613.xml,53429.0,0047613
+24.23,Shawnee Christian Nrsing Ctr,43979.0,shawnee_christian_nursing_ctr_2014_0048744.xml,13514.0,0048744
+20.49,Toulon Rehab & Hlth Care Ctr,30490.0,toulon_rehab_health_care_ctr_2014_0052258.xml,1261.0,0052258
+27.62,Hillside Rehab & Care Center,18936.0,hillside_rehab_care_center_2014_0050310.xml,19171.0,0050310
+30.62,Applewood Rehabilitation Ctr,35262.0,applewood_rehabilitation_ctr_2014_0051359.xml,15900.0,0051359
+30.73,PETERSON PARK HEALTH CR CTR,62708.0,peterson_park_health_care_ctr_2014_0024463.xml,38035.0,0024463
+21.79,Vandalia Rehab & Hlth Care C,18740.0,vandalia_rehab_health_care_c_2014_0053058.xml,4347.0,0053058
+28.92,Rosewood Care Ctr of Elgin,42143.0,rosewood_care_ctr_of_elgin_2014_0049346.xml,33337.0,0049346
+24.52,Heritage Health-Mt Sterling,24233.0,heritage_health_mt_sterling_2014_0048041.xml,4626.0,0048041
+20.0,MEADOWOOD,17033.0,meadowood_2014_0019356.xml,5977.0,0019356
+31.28,CAMBRIDGE NURSING REHAB CTR,36677.0,cambridge_nursing_rehab_center_2014_0048959.xml,21260.0,0048959
+29.97,Paramount Oak Park R & N Ctr,47582.0,paramount_oak_park_r_n_ctr_2014_0052233.xml,9092.0,0052233
+24.45,Twin Lakes Rehab & Hlth Care,17029.0,twin_lakes_rehab_health_care_2014_0048223.xml,7294.0,0048223
+31.81,Marklund Richard Home,5810.0,marklund_richard_home_2014_0047266.xml,6896.0,0047266
+35.03,River Bluff Nursing Home,73715.0,river_bluff_nursing_home_2014_0005611.xml,35861.0,0005611
+25.56,Manor Court of Peoria,17607.0,manor_court_of_peoria_2014_0047068.xml,11672.0,0047068
+32.62,Bronzeville Park N & Lvg Ctr,96514.0,bronzeville_park_nsg_lvg_ctr_2014_0040592.xml,37768.0,0040592
+17.5,TAC House,5507.0,tac_house_2014_0034108.xml,4000.0,0034108
+28.59,Grove at the Lake Lvg & Reh,69963.0,grove_at_the_lake_lvg_rehab_2014_0051581.xml,31169.0,0051581
+23.12,Stephenson Nursing Center,44442.0,stephenson_nursing_center_2014_0004259.xml,22936.0,0004259
+31.32,Manorcare of Palos Hts East,60054.0,manorcare_of_palos_hts_east_2014_0049478.xml,79465.0,0049478
+0.0,Emerald Estates,5749.0,emerald_estates_2014_0039354.xml,0.0,0039354
+32.98,The Renaissance at 87th St,68042.0,renaissance_at_87th_street_2014_0042093.xml,39004.0,0042093
+32.83,Alden of Old Town East,5722.0,alden_of_old_town_east_2014_0042069.xml,3212.0,0042069
+26.82,TRAFFORD ESTATES,5334.0,trafford_estates_2014_0052001.xml,300.0,0052001
+27.62,DOUGLAS NURSING & REHAB CTR,14005.0,douglas_nursing_rehab_center_2014_0046250.xml,3377.0,0046250
+27.38,Renaissance Care Center,45308.0,renaissance_care_center_2014_0040295.xml,24310.0,0040295
+0.0,GROUP HOME #5,5712.0,group_home_5_2014_0037713.xml,0.0,0037713
+30.82,The Estates of Hyde Park,22549.0,estates_of_hyde_park_2014_0052837.xml,6970.0,0052837
+29.98,Alden Wentworth Rehab & HCC,78166.0,alden_wentworth_rehab_hcc_2014_0026435.xml,20220.0,0026435
+30.48,Aperion Care Chicago Heights,70154.0,aperion_care_chicago_heights_2014_0049940.xml,9751.0,0049940
+31.88,Woodbridge Nursing Pavilion,67748.0,woodbridge_nursing_pavilion_2014_0034157.xml,18527.0,0034157
+0.0,Tanner Place,5733.0,tanner_place_2014_0035139.xml,0.0,0035139
+31.3,Du Page Convalescent Center,116999.0,du_page_convalescent_center_2014_0008201.xml,94408.0,0008201
+0.0,Beacon Street Place,5224.0,beacon_street_place_2014_0038729.xml,0.0,0038729
+20.3,Care Center of Abingdon,19409.0,care_center_of_abingdon_2014_0047951.xml,7551.0,0047951
+0.0,Curtiss Court,4891.0,curtiss_court_2014_0037531.xml,0.0,0037531
+30.75,FAIR OAKS HEALTH CARE CENTER,15853.0,fair_oaks_health_care_center_2014_0040915.xml,12900.0,0040915
+25.26,Rosewood Care Ctr Galesburg,33712.0,rosewood_care_center_galesburg_2014_0049791.xml,10882.0,0049791
+32.54,Rosewood Care Ctr St Charles,33925.0,rosewood_care_ctr_st_charles_2014_0049320.xml,26260.0,0049320
+31.11,BIRCHWOOD PLAZA,63123.0,birchwood_plaza_2014_0028696.xml,30285.0,0028696
+27.02,Helia Hlthcare of Champaign,25231.0,helia_healthcare_of_champaign_2014_0048181.xml,7461.0,0048181
+25.95,Hilltop Skilled Nsg & Rehab,19160.0,hilltop_skilled_nsg_rehab_2014_0051441.xml,7307.0,0051441
+32.49,Lexington of Lake Zurich,68108.0,lexington_of_lake_zurich_2014_0039768.xml,45601.0,0039768
+30.32,Lexington of Elmhurst,40300.0,lexington_of_elmhurst_2014_0037317.xml,26254.0,0037317
+0.0,Collins Square,4304.0,collins_square_2014_0048009.xml,0.0,0048009
+26.21,Prairie Crossing Lvg & Rehab,24044.0,prairie_crossing_lvg_rehab_2014_0052126.xml,8636.0,0052126
+0.0,Briarbrook Place,4696.0,briarbrook_place_2014_0038232.xml,0.0,0038232
+0.0,Lawrence Place,5492.0,lawrence_place_2014_0034223.xml,0.0,0034223
+29.62,THE WESTWOOD MANOR,36363.0,westwood_manor_2014_0005249.xml,11100.0,0005249
+29.82,The H & J Vonderlieth Lv Ctr,25064.0,h_j_vonderlieth_lvg_ctr_2014_0019976.xml,7672.0,0019976
+29.07,All American Nursing Home,48411.0,all_american_nursing_home_2014_0026294.xml,4444.0,0026294
+21.15,Prairie City Rehab & HC,9856.0,prairie_city_rehab_hc_2014_0050823.xml,3188.0,0050823
+29.04,Grove of Skokie L & R,51841.0,grove_of_skokie_l_r_2014_0050237.xml,31878.0,0050237
+27.41,Friendship Manor,29783.0,friendship_manor_2014_0024760.xml,11383.0,0024760
+23.42,Genesis Senior Living Aledo,,genesis_senior_living_aledo_2014_0052118.xml,5061.0,0052118
+25.22,Hillcrest Retirement Village,44252.0,hillcrest_retirement_village_2014_0030312.xml,19772.0,0030312
+25.88,Lena Living Center,28003.0,lena_living_center_2014_0047746.xml,14497.0,0047746
+28.1,Red Bud Regional Care,37955.0,red_bud_regional_care_2014_0045476.xml,4718.0,0045476
+21.99,Flora Gardens Care Center,20174.0,flora_gardens_care_center_2014_0050666.xml,9212.0,0050666
+26.86,Walnut Manor,17260.0,walnut_manor_2014_0015784.xml,6085.0,0015784
+3.0,BJORKLUND HOUSE,5718.0,bjorkland_house_2014_0039149.xml,1157.0,0039149
+0.0,Froehlich House,5383.0,froehlich_house_2014_0032201.xml,0.0,0032201
+30.29,Renaissance Park South,85837.0,renaissance_park_south_2014_0049098.xml,41967.0,0049098
+28.51,BRIA OF RIVER OAKS,94154.0,bria_of_river_oaks_2014_0052043.xml,18842.0,0052043
+24.65,Danforth House,5240.0,danforth_house_2014_0030577.xml,458.0,0030577
+0.0,Burnham House,5515.0,burnham_house_2014_0041327.xml,0.0,0041327
+0.0,Graham Hospital,10299.0,graham_hospital_2014_8000200.xml,0.0,8000200
+30.36,Lexington of Orland Park,80912.0,lexington_of_orland_park_2014_0041855.xml,34230.0,0041855
+32.94,The Renaissance at Sth Shore,81260.0,renaissance_at_south_shore_2014_0042085.xml,42009.0,0042085
+416.0,Fair Havens Christian Home,51306.0,fair_havens_christian_home_2014_0018143.xml,26.4,0018143
+31.26,Bayside Terrace,54133.0,bayside_terrace_2014_0023036.xml,14967.0,0023036
+30.55,Misericordia Home North,114392.0,misericordia_home_north_2014_0029876.xml,49218.0,0029876
+26.42,Winning Wheels,27127.0,winning_wheels_2014_0024745.xml,10597.0,0024745
+26.18,Illini Heritage Rehab & HC,19635.0,illini_heritage_rehab_hc_2014_0050930.xml,5793.0,0050930
+0.0,Raintree Terrace,4252.0,raintree_terrace_2014_0042465.xml,0.0,0042465
+0.0,Pine Terrace,5441.0,pine_terrace_2014_0052753.xml,0.0,0052753
+31.51,Manorcare of Highland Park,20485.0,manorcare_of_highland_park_2014_0050278.xml,24863.0,0050278
+33.3,St Pauls House & Hlth Cr Ctr,41437.0,st_pauls_house_hlth_cr_ctr_2014_0005165.xml,33305.0,0005165
+24.65,Moore House,5426.0,moore_house_2014_0030593.xml,458.0,0030593
+27.59,Alpine Fireside Health Ctr,22910.0,alpine_fireside_health_center_2014_0018275.xml,13445.0,0018275
+30.76,BRIA OF CHICAGO HEIGHTS,37327.0,bria_of_chicago_heights_2014_0043406.xml,11376.0,0043406
+29.64,Park Place of Belvidere,19458.0,park_place_of_belvidere_2014_0052514.xml,8074.0,0052514
+23.39,Swansea Rehab & Hlth Cr Ctr,25164.0,swansea_rehab_hlth_care_ctr_2014_0048611.xml,3953.0,0048611
+27.05,MEADOWBROOK ESTATES,5112.0,meadowbrook_estates_2014_0051979.xml,287.0,0051979
+25.17,Hillsboro Rehab & HCC,35596.0,hillsboro_rehab_hcc_2014_0049221.xml,8670.0,0049221
+29.58,Manorcare of Kankakee,32411.0,manorcare_of_kankakee_2014_0049429.xml,21675.0,0049429
+29.71,Danville Care Center,36834.0,danville_care_center_2014_0032862.xml,19488.0,0032862
+21.65,Sparta Terrace,4288.0,sparta_terrace_2014_0047787.xml,504.0,0047787
+0.0,Eagle Court,5651.0,eagle_court_2014_0043224.xml,0.0,0043224
+23.07,Timbercreek Rehab & HCC,46092.0,timbercreek_rehab_hlth_c_ctr_2014_0047522.xml,10960.0,0047522
+22.0,Havana Health Care Center,21232.0,havana_health_care_center_2014_0053165.xml,2767.0,0053165
+0.0,Beardstown Terrace,5780.0,beardstown_terrace_2014_0035766.xml,0.0,0035766
+0.0,Anna Terrace,5481.0,anna_terrace_2014_0038836.xml,0.0,0038836
+30.37,BRIA OF WESTMONT,66315.0,bria_of_westmont_2014_0050120.xml,23394.0,0050120
+0.0,Effingham Terrace,5304.0,effingham_terrace_2014_0034041.xml,0.0,0034041
+24.3,Fountainview,35185.0,fountainview_2014_0020628.xml,6625.0,0020628
+0.0,GROUP HOME #2,5375.0,group_home_2_2014_0036939.xml,0.0,0036939
+27.72,Piatt County Nursing Home,30708.0,piatt_county_nursing_home_2014_0020255.xml,15362.0,0020255
+32.72,"Tabor Hills Health Care Facility, Inc.",66742.0,sunny_hill_nsg_home_of_will_co_2014_0014076.xml,56086.0,0040543
+21.25,Heartland of Macomb,23870.0,heartland_of_macomb_2014_0049585.xml,16170.0,0049585
+34.33,Addolorata Villa,38626.0,addolorata_villa_2014_0045443.xml,31221.0,0045443
+29.2,Alden Town Manor Rehab & HCC,66438.0,alden_town_manor_rehab_hcc_2014_0038000.xml,23220.0,0038000
+33.81,Claremont Rehab & Living Ctr,61809.0,claremont_rehab_living_ctr_2014_0047043.xml,35493.0,0047043
+0.0,Phoenix Court,5133.0,phoenix_court_2014_0036350.xml,0.0,0036350
+24.87,St Anthonys Nsg & Rehab Ctr,37340.0,st_anthonys_nsg_rehab_ctr_2014_0047126.xml,11659.0,0047126
+0.0,Oakview,5759.0,oakview_2014_0046755.xml,0.0,0046755
+32.12,CHALET LIVING & REHAB CTR,69530.0,chalet_living_rehab_ctr_2014_0051615.xml,32210.0,0051615
+22.04,Rosewood Care Ctr of Peoria,31500.0,rosewood_care_center_of_peoria_2014_0049312.xml,14388.0,0049312
+0.0,Thelma Terrace,5783.0,thelma_terrace_2014_0034025.xml,0.0,0034025
+21.28,Centralia Manor,34754.0,centralia_manor_2014_0047225.xml,14614.0,0047225
+29.24,Valley Hi Nursing Home,44769.0,valley_hi_nursing_home_2014_0046821.xml,35830.0,0046821
+23.34,Park Lawn Home,5331.0,park_lawn_home_2014_0035527.xml,683.0,0035527
+24.14,Searles Group Home,4026.0,searles_group_home_2014_0027326.xml,149.0,0027326
+23.8,Rock Falls Reh & Hlth Care C,12107.0,rock_falls_rehab_hlth_care_c_2014_0053017.xml,2085.0,0053017
+26.8,Cahokia Nursing & Rehab Ctr,40502.0,cahokia_nursing_rehab_center_2014_0039636.xml,4324.0,0039636
+0.0,HART HOUSE,5208.0,hart_house_2014_0034769.xml,0.0,0034769
+,The Lutheran Home,27323.0,lutheran_home_2014_0019109.xml,15407.0,0019109
+36.75,Elmbrook Nursing,58284.0,elmbrook_nursing_2014_0051177.xml,26324.0,0051177
+0.0,Glen Brook,4882.0,glen_brook_2014_0037051.xml,0.0,0037051
+28.31,Columbus Manor Res Care Home,49898.0,columbus_manor_res_care_home_2014_0052407.xml,3077.0,0052407
+18.02,Rest Haven Manor,9578.0,rest_haven_manor_2014_0013052.xml,7122.0,0013052
+27.18,Meadowbrook Manor LaGrange,48776.0,meadowbrook_manor_lagrange_2014_0047274.xml,19225.0,0047274
+28.09,Pinecrest Manor,41331.0,pinecrest_manor_2014_0012765.xml,22252.0,0012765
+0.0,Rose House,5627.0,rose_house_2014_0033928.xml,0.0,0033928
+26.29,Burnsides Community Hlth Ctr,26071.0,burnsides_community_health_ctr_2014_0007153.xml,8366.0,0007153
+21.38,Fairview Nursing Center,19314.0,fairview_nursing_center_2014_0024992.xml,8015.0,0024992
+31.81,Norwood Crossing,68437.0,norwood_crossing_2014_0012237.xml,45254.0,0012237
+0.0,Carole Lane Terrace,3799.0,carole_lane_terrace_2014_0047977.xml,0.0,0047977
+25.0,Sharon Health Care Willows,66283.0,sharon_health_care_willows_2014_0032797.xml,33853.0,0032797
+35.09,Manorcare of Elk Grove Vlg,62763.0,manorcare_of_elk_grove_village_2014_0049387.xml,83411.0,0049387
+22.45,Oak Terrace Healthcare Ctr,12880.0,oak_terrace_healthcare_center_2014_0023010.xml,3980.0,0023010
+30.18,Fair Oaks Rehab & HCC,26236.0,fair_oaks_rehab_hcc_2014_0050963.xml,12268.0,0050963
+25.65,Amboy Terrace,5460.0,amboy_terrace_2014_0036715.xml,207.0,0036715
+0.0,Aberdeen Terrace,5583.0,aberdeen_terrace_2014_0039081.xml,0.0,0039081
+27.48,ALTON BLUFFS ESTATE,5548.0,alton_bluffs_estate_2014_0035907.xml,1550.0,0035907
+26.42,THE CLAYBERG,17112.0,clayberg_2014_0014290.xml,6770.0,0014290
+25.76,Thornton Heights Terrace,72156.0,thornton_heights_terrace_2014_0029595.xml,3715.0,0029595
+28.89,SKOKIE MEADOWS NRSG CENTER 2,34276.0,skokie_meadows_nrsg_center_2_2014_0048942.xml,11683.0,0048942
+31.66,Manorcare of Oak Lawn East,38075.0,manorcare_of_oak_lawn_east_2014_0049668.xml,49320.0,0049668
+30.26,Bridgeway Chr Vlg Reh & SNF,56089.0,bridgeway_chr_vlg_rehab_snf_2014_0048819.xml,52487.0,0048819
+27.94,Warren Park Hlth & Lvg Ctr,44152.0,warren_park_hlth_living_ctr_2014_0050070.xml,3742.0,0050070
+33.49,Westchester Hlth & Rehab Ctr,42238.0,westchester_health_rehab_ctr_2014_0047373.xml,8074.0,0047373
+0.0,Vahle Terrace,5664.0,vahle_terrace_2014_0032151.xml,0.0,0032151
+30.01,Heritage Health-Streator,42828.0,heritage_health_streator_2014_0048066.xml,19201.0,0048066
+17.85,Elmwood Nursing & Rehab Ctr,24241.0,elmwood_nursing_rehab_center_2014_0041210.xml,3189.0,0041210
+31.02,Avanti Wellness & Rehab,50921.0,avanti_wellness_rehab_2014_0045534.xml,30178.0,0045534
+27.56,Capitol Hlthcare & Rehab Ctr,57521.0,capitol_hlthcare_rehab_ctr_2014_0052183.xml,12035.0,0052183
+28.17,Aperion Care Litchfield,21819.0,aperion_care_litchfield_2014_0051102.xml,5190.0,0051102
+25.18,Heritage Health-Pana,37670.0,heritage_health_pana_2014_0048884.xml,12791.0,0048884
+0.0,OAK TERRACE,5368.0,oak_terrace_2014_0030866.xml,0.0,0030866
+22.67,St Vincents Home,27403.0,st_vincents_home_2014_0036723.xml,25283.0,0036723
+30.15,Clark Manor Cnv Center,83035.0,clark_manor_cnv_center_2014_0038596.xml,34731.0,0038596
+23.71,Good Samaritan Home,70879.0,good_samaritan_home_2014_0009258.xml,46195.0,0009258
+30.48,Mayfield Care Center,52696.0,mayfield_care_center_2014_0029660.xml,15267.0,0029660
+0.0,Zachary House,,zachary_house_2014_0042275.xml,0.0,0042275
+24.15,Milestone Sun Valley,2842.0,milestone_sun_valley_2014_0035386.xml,528.0,0035386
+0.0,Olson Terrace,5513.0,olson_terrace_2014_0033910.xml,0.0,0033910
+0.0,Plonka Terrace,5637.0,plonka_terrace_2014_0036889.xml,0.0,0036889
+20.1,Enfield Rehab & Hlth Care Ct,8325.0,enfield_rehab_health_care_ct_2014_0053157.xml,2977.0,0053157
+28.02,Heritage Health-Peru,28827.0,heritage_health_peru_2014_0048090.xml,13337.0,0048090
+30.78,Montgomery Place,12803.0,montgomery_place_2014_0037515.xml,9238.0,0037515
+0.0,Prairie House,4405.0,prairie_house_2014_0048025.xml,0.0,0048025
+26.58,Prairie Village Hlthcare Ctr,26932.0,prairie_village_healthcare_ctr_2014_0042671.xml,6648.0,0042671
+33.98,Park View Rehab Center,43306.0,park_view_rehab_center_2014_0052092.xml,9146.0,0052092
+30.98,Aperion Care Oak Lawn,42616.0,aperion_care_oak_lawn_2014_0050500.xml,13316.0,0050500
+28.29,Fairmont Care Centre,51402.0,fairmont_care_centre_2014_0040493.xml,52509.0,0040493
+28.04,LAKE PARK CENTER,67189.0,lake_park_center_2014_0027052.xml,20206.0,0027052
+28.86,Lee Manor,85733.0,lee_manor_2014_0024356.xml,61588.0,0024356
+30.18,Eunice Smith Home,18937.0,eunice_smith_home_2014_0008409.xml,13075.0,0008409
+32.1,Bethesda Luth C Sycamore,4298.0,bethesda_lutheran_c_sycamore_2014_0035303.xml,1873.0,0035303
+0.0,GROUP HOME #6,5605.0,group_home_6_2014_0037721.xml,0.0,0037721
+24.74,Heartland of Galesburg,24451.0,heartland_of_galesburg_2014_0049460.xml,7942.0,0049460
+,Concordia Village Care Ctr,22316.0,concordia_village_care_center_2014_0051078.xml,11485.0,0051078
+34.15,Manorcare of Wilmette,25235.0,manorcare_of_wilmette_2014_0049650.xml,22440.0,0049650
+24.65,Hammond House,5154.0,hammond_house_2014_0030619.xml,458.0,0030619
+25.84,Parkway Manor,33482.0,parkway_manor_2014_0047886.xml,19657.0,0047886
+35.36,Grosse Pointe Manor,32392.0,grosse_pointe_manor_2014_0045203.xml,7348.0,0045203
+0.0,Smith Square,5767.0,smith_square_2014_0033944.xml,0.0,0033944
+22.67,Sunset Home ,52359.0,sunset_home_2014_0011643.xml,38594.0,0011643
+24.55,Calhoun Nsg & Rehab Center,27400.0,calhoun_nsg_rehab_center_2014_0046888.xml,11586.0,0046888
+30.79,Walter Lawson Childrens Home,34122.0,walter_lawson_childrens_home_2014_0035469.xml,18606.0,0035469
+23.7,PLEASANT HILL VILLAGE,32203.0,pleasant_hill_village_2014_0021014.xml,4543.0,0021014
+23.53,LaHarpe Davier Hlth Care Ctr,14914.0,laharpe_davier_health_care_ctr_2014_0053538.xml,2178.0,0053538
+23.53,Montgomery Nrsg & Rehab Ctr,36931.0,montgomery_nursing_rehab_ctr_2014_0039347.xml,10130.0,0039347
+20.58,STOCKTON HEALTHCARE & REHAB,11598.0,stockton_healthcare_rehab_2014_0051268.xml,8245.0,0051268
+0.0,Freeport Terrace,4892.0,freeport_terrace_2014_0033613.xml,0.0,0033613
+30.57,BRIA OF GENEVA,30876.0,bria_of_geneva_2014_0051540.xml,19995.0,0051540
+23.01,Good Samaritan Pontiac,8149.0,good_samaritan_pontiac_2014_0050575.xml,5003.0,0050575
+22.16,Sunset Rehabilitation & HC,29574.0,sunset_rehabilitation_hlth_c_2014_0052993.xml,6085.0,0052993
+21.01,Henderson County Ret Center,13698.0,henderson_county_ret_center_2014_0035246.xml,5576.0,0035246
+32.66,Heritage Health-Elgin,29191.0,heritage_health_elgin_2014_0048132.xml,15539.0,0048132
+23.5,Farmer City Rehab & Hlth Cr,17863.0,farmer_city_rehab_health_cr_2014_0050922.xml,3423.0,0050922
+0.0,Parents & Friends of the SLC,33053.0,parents_and_friends_of_the_slc_2014_0026773.xml,0.0,0026773
+29.63,Heddington Oaks,69844.0,heddington_oaks_2014_0052357.xml,21976.0,0052357
+28.26,Heritage Health-Minonk,16758.0,heritage_health_minonk_2014_0048058.xml,8630.0,0048058
+21.71,Jonesboro Rehab & Hlth C Ctr,18675.0,jonesboro_rehab_health_c_ctr_2014_0053207.xml,7182.0,0053207
+22.41,Hamilton Memorial Reh & HCC,16220.0,hamilton_memorial_rehab_hcc_2014_0051292.xml,4925.0,0051292
+0.0,Davies Square,5703.0,davies_square_2014_0031955.xml,0.0,0031955
+22.16,JENNINGS TERRACE,42098.0,jennings_terrace_2014_0010371.xml,6441.0,0010371
+24.73,Paris Health Care Center,31344.0,paris_health_care_center_2014_0046565.xml,8505.0,0046565
+33.61,Gottlieb Memorial Hospital,10622.0,gottlieb_memorial_hospital_2014_8008518.xml,31154.0,8008518
+27.89,Colonial Hlthcre & Rehab Ctr,24204.0,colonial_hlthcare_rehab_ctr_2014_0052167.xml,14508.0,0052167
+25.22,Aperion Care Wilmington,54334.0,aperion_care_wilmington_2014_0052506.xml,19632.0,0052506
+25.39,BIG MEADOWS,22473.0,big_meadows_2014_0021394.xml,12955.0,0021394
+27.46,Wilson Care,59370.0,wilson_care_2014_0029975.xml,2537.0,0029975
+21.53,Odin Health Care Center,32599.0,odin_health_care_center_2014_0047365.xml,11795.0,0047365
+29.1,Marklund Tommy Home,5676.0,marklund_tommy_home_2014_0045567.xml,6640.0,0045567
+26.36,Bethshan Association,16114.0,bethshan_association_2014_0027086.xml,8730.0,0027086
+31.2,Courtyard Healthcare Center,43232.0,courtyard_healthcare_center_2014_0050807.xml,23111.0,0050807
+17.9,Lydia Healthcare,143921.0,lydia_healthcare_2014_0045880.xml,9255.0,0045880
+30.39,Hallmark House Nursing Ctr,21966.0,hallmark_house_nursing_center_2014_0036343.xml,11500.0,0036343
+28.77,The Grove of Lagrange Park,39217.0,grove_of_lagrange_park_2014_0050443.xml,17964.0,0050443
+0.0,GROUP HOME #3,5501.0,group_home_3_2014_0037614.xml,0.0,0037614
+30.92,Helia Hlthcare of Belleville,32134.0,helia_healthcare_of_belleville_2014_0048827.xml,8621.0,0048827
+32.36,Lexington of Schaumburg,64860.0,lexington_of_schuamburg_2014_0036095.xml,31541.0,0036095
+18.39,TRINITY LIVING CENTER #3,4975.0,trinity_living_center_3_2014_0034926.xml,1442.0,0034926
+24.71,Franklin Grove Lvg & Rehab,35942.0,franklin_grove_living_rehab_2014_0051599.xml,4434.0,0051599
+23.83,Coulterville Rehab & HCC,25324.0,coulterville_rehab_hcc_2014_0052597.xml,3056.0,0052597
+23.29,Helia Hlthcare of Greenville,29227.0,helia_healthcare_of_greenville_2014_0046680.xml,8457.0,0046680
+22.31,Aviston Terrace,4616.0,aviston_terrace_2014_0036749.xml,384.0,0036749
+32.13,Friendship Vlg Schaumburg,76960.0,friendship_village_schaumburg_2014_0023218.xml,67680.0,0023218
+28.85,Apostolic Christian Restmor,43306.0,apostolic_christian_restmor_2014_0047167.xml,36001.0,0047167
+0.0,Kepley House,5276.0,kepley_house_2014_0033332.xml,0.0,0033332
+29.36,Alden Alma Nelson Manor,67792.0,alden_alma_nelson_manor_2014_0044891.xml,22283.0,0044891
+23.04,Nature Trail Health Care Ctr,18112.0,nature_trail_health_care_ctr_2014_0047357.xml,10279.0,0047357
+27.3,Glenlake Terrace Nrsg & Reh,83807.0,glenlake_terrace_nursing_reh_2014_0048637.xml,80251.0,0048637
+0.0,Freeburg Terrace,5763.0,freeburg_terrace_2014_0036582.xml,0.0,0036582
+32.87,Manorcare of Rolling Meadows,39707.0,manorcare_of_rolling_meadows_2014_0049569.xml,31273.0,0049569
+0.0,Patterson House,5089.0,patterson_house_2014_0037341.xml,0.0,0037341
+26.6,BRIA OF FOREST EDGE,95005.0,bria_of_forest_edge_2014_0052035.xml,13151.0,0052035
+26.89,Pershing Gardens HC Center,14550.0,pershing_gardens_hc_center_2014_0051854.xml,10910.0,0051854
+29.62,Belhaven Nursing & Rehab Ctr,67678.0,belhaven_nursing_rehab_ctr_2014_0048215.xml,11995.0,0048215
+27.91,Oakbrook Healthcare Centre,41873.0,oakbrook_healthcare_centre_2014_0034694.xml,56603.0,0034694
+29.13,Heartland of Champaign,29607.0,heartland_of_champaign_2014_0049395.xml,15833.0,0049395
+34.69,MONTGOMERY TERRACE,5432.0,montgomery_terrace_2014_0047001.xml,432.0,0047001
+33.23,Countryside Care Centre,68277.0,countryside_care_centre_2014_0051763.xml,30729.0,0051763
+23.74,Meadows Mennonite Home,,meadows_mennonite_home_2014_0011544.xml,13496.0,0011544
+29.85,The Villa at Evergreen Park,52385.0,villa_at_evergreen_park_2014_0052423.xml,60578.0,0052423
+21.37,BEVERLY FARM FOUNDATION,94742.0,beverly_farm_foundation_2014_0038604.xml,21009.0,0038604
+18.13,Daystar Nursing & Rehab Ctr,21163.0,daystar_nursing_rehab_center_2014_0052316.xml,8447.0,0052316
+26.35,Rivershores Hlth & Rehab Ctr,31496.0,rivershores_hlth_rehab_ctr_2014_0052175.xml,15065.0,0052175
+0.0,Stouffer Terrace,5160.0,stouffer_terrace_2014_0033951.xml,0.0,0033951
+0.0,Oakview Home,4001.0,oakview_home_2014_0036228.xml,0.0,0036228
+0.0,Parkview Home Cissna Park,5040.0,parkview_home_cissna_park_2014_0035279.xml,0.0,0035279
+31.86,Manorcare of Elgin,26763.0,manorcare_of_elgin_2014_0049692.xml,24633.0,0049692
+18.89,The United Methodist Village,25748.0,united_methodist_village_2014_0014506.xml,9014.0,0014506
+28.27,Autumn Lake,5284.0,autumn_lake_2014_0040105.xml,1088.0,0040105
+23.21,Royal Oaks Care Center,48510.0,royal_oaks_care_center_2014_0046243.xml,7995.0,0046243
+24.3,Oakwood Estates,2320.0,oakwood_estates_2014_0033712.xml,119.0,0033712
+32.63,Forest City Rehab & Nrsg Ctr,41437.0,forest_city_rehab_nrsg_ctr_2014_0052803.xml,5261.0,0052803
+23.67,Aperion Care Bridgeport,22079.0,aperion_care_bridgeport_2014_0052688.xml,13063.0,0052688
+0.0,Smith Crossing,14646.0,smith_crossing_2014_0046698.xml,0.0,0046698
+,RESTHAVE HOME WHITESIDE CNTY,22169.0,resthave_home_whiteside_county_2014_0005785.xml,5017.0,0005785
+30.37,Park Ridge Care Center,15228.0,park_ridge_care_center_2014_0039255.xml,7927.0,0039255
+30.11,El Valor Residence,3954.0,el_valor_residence_2014_0028514.xml,1060.0,0028514
+33.97,Aria Post Acute Care,62536.0,aria_post_acute_care_2014_0052019.xml,40957.0,0052019
+32.59,Aperion Care Burbank,19611.0,aperion_care_burbank_2014_0048496.xml,5042.0,0048496
+23.37,Thomas Lombard House,5141.0,thomas_lombard_house_2014_0051474.xml,725.0,0051474
+27.32,East Bank Center LLC,11660.0,east_bank_center_llc_2014_0047209.xml,26084.0,0047209
+26.06,Mendota Lutheran Home,32961.0,mendota_lutheran_home_2014_0011593.xml,22521.0,0011593
+21.51,Terrace on the Park,14816.0,terrace_on_the_park_2014_0051623.xml,5472.0,0051623
+3.0,HILLVIEW HEALTH CARE CENTER,16606.0,hillview_health_care_center_2014_0045302.xml,2281.0,0045302
+24.5,Cornerstone Rehab & HC,26112.0,cornerstone_rehab_hc_2014_0052225.xml,5005.0,0052225
+19.43,Shawnee Rose Care Center,14981.0,shawnee_rose_care_center_2014_0050351.xml,2975.0,0050351
+0.0,Benjamin Green Field Residence,5316.0,benjamin_green_field_residence_2014_0041582.xml,0.0,0041582
+34.66,Oak Lawn Respiratory & Reh,32968.0,oak_lawn_respiratory_rehab_0051144.xml,10344.0,0051144
+30.94,West Suburban Nsg & Reh Ctr,67404.0,west_suburban_nsg_rehab_ctr_2014_0049759.xml,37055.0,0049759
+20.07,Champaign Urbana Nsg & Rehab,44882.0,champaign_urbana_nrsg_rehab_2014_0052217.xml,32600.0,0052217
+30.14,Providence Palos Heights,,providence_palos_heights_2014_0007534.xml,53055.0,0007534
+26.55,Bethany Rehab & HCC,29284.0,bethany_rehab_hcc_2014_0048934.xml,33242.0,0048934
+22.17,River North of Bradley H & R,34750.0,river_north_of_bradley_h_r_2014_0052563.xml,15624.0,0052563
+0.0,Glenwood Terrace Springfield,5009.0,glenwood_terrace_springfield_2014_0035063.xml,0.0,0035063
+22.65,Golden Good Shepherd Home,14761.0,golden_good_shepherd_home_2014_0009175.xml,3503.0,0009175
+27.93,Heritage Health-Staunton,23863.0,heritage_health_staunton_2014_0048876.xml,8674.0,0048876
+29.93,Imboden Creek Living Center,30077.0,imboden_creek_living_center_2014_0036574.xml,3250.0,0036574
+0.0,Peachtree Estates,4298.0,peachtree_estates_2014_0040626.xml,0.0,0040626
+21.68,White Oak Rehabilitation HCC,19411.0,white_oak_rehabilitation_hcc_2014_0052282.xml,11102.0,0052282
+27.66,Center Home Hispanic Elderly,52404.0,center_home_hispanic_elderly_2014_0050989.xml,16147.0,0050989
+30.35,Rosewood Care Ctr of Joliet,35563.0,rosewood_care_center_of_joliet_2014_0049130.xml,23564.0,0049130
+23.54,Aperion Care Jacksonville,24172.0,aperion_care_jacksonville_2014_0051094.xml,2564.0,0051094
+23.77,Neighbors Rehabilitation Ctr,28804.0,neighbors_rehabilitation_ctr_2014_0049973.xml,5419.0,0049973
+27.61,Rosewood Care Center Swansea,31825.0,rosewood_care_center_swansea_2014_0032680.xml,23902.0,0032680
+21.87,Manor Court of Freeport,32584.0,manor_court_of_freeport_2014_0046839.xml,14100.0,0046839
+21.76,Moweaqua Nrsg & Retirmnt Ctr,13029.0,moweaqua_nrsg_retirement_ctr_2014_0045104.xml,3676.0,0045104
+27.78,Bloomington Rehab & HCC,19429.0,bloomington_rehabilitation_hcc_2014_0047415.xml,6872.0,0047415
+25.91,Hope Creek Care Center,80072.0,hope_creek_care_center_2014_0048694.xml,23958.0,0048694
+24.36,Carlyle Healthcare Center,34249.0,carlyle_healthcare_center_2014_0010660.xml,23700.0,0010660
+25.59,Sheltered Village,32916.0,sheltered_village_2014_0023275.xml,12443.0,0023275
+27.48,MCALLISTER NSG & REHAB,34080.0,mcallister_nsg_rehab_2014_0049502.xml,9151.0,0049502
+20.05,Benton Rehab & Hlth Care Ctr,13626.0,benton_rehab_health_care_ctr_2014_0047407.xml,1898.0,0047407
+30.36,Alden Terrace of McHenry Reh,44521.0,alden_terrace_of_mchenry_rehab_2014_0040691.xml,24550.0,0040691
+24.26,The Arthur Home,16746.0,arthur_home_2014_0005462.xml,4090.0,0005462
+25.89,PRAIRIEVIEW LUTHERAN HOME,31582.0,prairieview_lutheran_home_2014_0018044.xml,18555.0,0018044
+0.0,Bellefontaine Place,5344.0,bellefontaine_place_2014_0033993.xml,0.0,0033993
+19.97,Pinckneyville Nrsing & Rehab,9534.0,pinckneyville_nursing_rehab_2014_0052704.xml,2988.0,0052704
+27.42,Pleasant View Rehab & HCC,18008.0,pleasant_view_rehab_hcc_2014_0053520.xml,6493.0,0053520
+24.14,Milestone Elmwood East,3962.0,milestone_elmwood_east_2014_0027334.xml,149.0,0027334
+27.55,Midwest Rehab & Respiratory,33137.0,midwest_rehab_respiratory_2014_0051342.xml,5540.0,0051342
+33.41,Alden Valley Ridge Reh & HCC,67322.0,alden_valley_ridge_rehab_hcc_2014_0036640.xml,26295.0,0036640
+,Meridian Village Care Center,22166.0,meridian_village_care_center_2014_0045807.xml,16249.0,0045807
+24.75,REHAB & CARE CTR JACKSON CO,32099.0,rehab_care_ctr_jackson_co_2014_0010330.xml,10583.0,0010330
+35.16,Elmhurst Extended Care Ctr,27351.0,elmhurst_extended_care_center_2014_0052589.xml,15960.0,0052589
+24.47,Regency Nrsg Care Residence,28042.0,regency_nursing_care_residence_2014_0050138.xml,11983.0,0050138
