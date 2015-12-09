@@ -2,21 +2,25 @@
 
 This is a hodge-podge of `bash` and `python` scripting to
 
-1. Download a bunch of pdf files from [the Illinois HFS website](http://www2.illinois.gov/hfs/MedicalProvider/CostReports/Pages/2013LongTermCareCostReports.aspx)
+1. Download a bunch of pdf files from [the Illinois HFS website](http://www.illinois.gov/hfs/MedicalProviders/CostReports/Pages/2014LongTermCareCostReports.aspx)
 2. Convert the downloaded pdfs to xml format
 3. Parse the xml files for information we have determined we will use for modeling purposes.
 
 
 ## Setup
-The bash scripts will require the command line tool `pdftohtml` (part of the [poppler-utils package](http://packages.ubuntu.com/precise/poppler-utils)). Install via
+The bash scripts will require the command line tool `pdftohtml` (part of the [poppler-utils package](http://packages.ubuntu.com/precise/poppler-utils)). Install via your system's package manager (e.g. on Debian)
 
 ```bash
 sudo apt-get install poppler-utils
 ```
 
-The python scripts will require the packages found in requirements.txt -- as usual, just install them using `pip`
+The python scripts will require an environment with a few non-standard python libraries available. I recommend a [conda](http://docs.continuum.io/anaconda/install) or pip virtual environment -- they can be created using `environments.yaml` (conda) or `requirements.txt` (`pip`). Choose one of the following:
 
 ```bash
+# conda
+conda env create -f environment.yml
+
+# pip
 pip install -r requirements.txt
 ```
 
@@ -26,7 +30,7 @@ pip install -r requirements.txt
 The help text for the `long_term_cost_care.sh` script should be sufficient, but just to be clear:
 
 ```bash
-./long_term_cost_care.sh [SUBCMD]
+bash long_term_cost_care.sh [SUBCMD]
 ```
 
 1. `get_pdfs` will download (with wget) all of the pdfs we will parse. Under the hood, this will:

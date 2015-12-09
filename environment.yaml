@@ -1,0 +1,18 @@
+name: nursinghomedata
+dependencies:
+- libxml2=2.9.2=0
+- libxslt=1.1.28=0
+- lxml=3.4.4=py27_0
+- openssl=1.0.2d=0
+- pip=7.1.2=py27_0
+- python=2.7.11=0
+- pyyaml=3.11=py27_1
+- readline=6.2=2
+- requests=2.8.1=py27_0
+- setuptools=18.5=py27_0
+- sqlite=3.8.4.1=1
+- tk=8.5.18=0
+- wheel=0.26.0=py27_1
+- yaml=0.1.6=0
+- zlib=1.2.8=0
+
