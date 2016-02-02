@@ -96,6 +96,9 @@ def parse_xml(fdir=DATA_DIR, outname=None):
         pi['medicare'] = None
         pi['medicaid'] = None
         pi['private_pay'] = None
+        pi['street'] = None
+        pi['city'] = None
+        pi['zip'] = None
 
         x_parser = etree.XMLParser(encoding='utf-8', recover=True)
 
@@ -201,6 +204,12 @@ def parse_xml(fdir=DATA_DIR, outname=None):
                     pi['medicare'] = 0
                 else:
                     pi['medicare'] = nextval
+
+            elif t == 'Address:':
+                pi['street'] = textnodes[i + 1].text
+                pi['city'] = textnodes[i + 2].text
+                pi['zip'] = textnodes[i + 3].text
+
 
         parsedInfo.append(pi)
 
