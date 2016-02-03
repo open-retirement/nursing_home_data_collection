@@ -93,9 +93,19 @@ def parse_xml(fdir=DATA_DIR, outname=None):
         pi['total_hours'] = None
         pi['idph_id'] = None
         pi['facility_name'] = None
+        pi['medicare'] = None
+        pi['medicaid'] = None
+        pi['private_pay'] = None
+        pi['street'] = None
+        pi['city'] = None
+        pi['zip'] = None
 
-        with open(f, 'rb') as fin:
-            x = etree.fromstring(fin.read())
+        x_parser = etree.XMLParser(encoding='utf-8', recover=True)
+
+        # Commented out to handle errors (previously was fromstring())
+        #with open(f, 'rb') as fin:
+        #    x = etree.parse(fin.read(), x_parser)
+        x = etree.parse(f, x_parser)
 
         textnodes = x.xpath('/pdf2xml/page/text/b')
         if len(textnodes) < 50:
@@ -152,6 +162,54 @@ def parse_xml(fdir=DATA_DIR, outname=None):
                     pi['facility_name'] = textnodes[i + 1].text
                 except:
                     pass
+
+            elif t == 'Medicaid - Net Inpatient Revenue':
+                nextval = textnodes[i + 1].text.replace(',', '')
+
+                if nextval == '$':
+                    valafter = textnodes[i + 2].text.replace(',', '')
+                    if valafter  == '44':
+                        pi['medicaid'] = 0
+                    else:
+                        pi['medicaid'] = valafter
+                elif nextval == '44':
+                    pi['medicaid'] = 0
+                else:
+                    pi['medicaid'] = nextval
+
+            elif t == 'Private Pay - Net Inpatient Revenue':
+                nextval = textnodes[i + 1].text.replace(',', '')
+
+                if nextval == '$':
+                    valafter = textnodes[i + 2].text.replace(',', '')
+                    if valafter  == '45':
+                        pi['private_pay'] = 0
+                    else:
+                        pi['private_pay'] = valafter
+                elif nextval == '45':
+                    pi['private_pay'] = 0
+                else:
+                    pi['private_pay'] = nextval
+
+            elif t == 'Medicare - Net Inpatient Revenue':
+                nextval = textnodes[i + 1].text.replace(',', '')
+
+                if nextval == '$':
+                    valafter = textnodes[i + 2].text.replace(',', '')
+                    if valafter  == '46':
+                        pi['medicare'] = 0
+                    else:
+                        pi['medicare'] = valafter
+                elif nextval == '46':
+                    pi['medicare'] = 0
+                else:
+                    pi['medicare'] = nextval
+
+            elif t == 'Address:':
+                pi['street'] = textnodes[i + 1].text
+                pi['city'] = textnodes[i + 2].text
+                pi['zip'] = textnodes[i + 3].text
+
 
         parsedInfo.append(pi)
 
